@@ -1,0 +1,3836 @@
+athleteDisplayName,teamId,Matches_Played,Total_Wins,Avg_xAG,Avg_PrgP,Avg_KP,Avg_Int,Win_Rate
+Oscar Bobb,Manchester City,3,3.0,,,,,100.0
+Reiss Nelson,Arsenal,4,4.0,,,,,100.0
+James McConnell,Liverpool,4,4.0,,,,,100.0
+Rodri,Manchester City,5,4.0,0.0,4.0,0.33,,80.0
+Vitezslav Jaros,Liverpool,12,9.0,,,,,75.0
+Andrew Omobamidele,Nottingham Forest,4,3.0,,,,,75.0
+James Milner,Brighton & Hove Albion,4,3.0,0.2,10.0,1.0,,75.0
+Alexis Mac Allister,Liverpool,35,25.0,4.7,177.0,1.29,,71.43
+Sean Neave,Newcastle United,7,5.0,,,,,71.43
+Joe Gomez,Liverpool,19,13.0,,,,0.78,68.42
+Kostas Tsimikas,Liverpool,34,23.0,,,,0.61,67.65
+Ryan Gravenberch,Liverpool,37,25.0,3.1,181.0,0.7,,67.57
+Dominik Szoboszlai,Liverpool,36,24.0,7.400000000000001,131.0,1.56,,66.67
+Luke Cundle,Wolverhampton Wanderers,3,2.0,,,,,66.67
+Josh Nichols,Arsenal,3,2.0,,,,,66.67
+Kadan Young,Aston Villa,3,2.0,,,,,66.67
+Kaden Rodney,Crystal Palace,3,2.0,,,,,66.67
+Harvey Davies,Liverpool,3,2.0,,,,,66.67
+Ayden Heaven,Arsenal,3,2.0,,,,1.0,66.67
+Mohamed Salah,Liverpool,38,25.0,,,,,65.79
+Luis Díaz,Liverpool,38,25.0,,,,,65.79
+Andrew Robertson,Liverpool,38,25.0,,,,0.64,65.79
+Virgil van Dijk,Liverpool,38,25.0,,,,1.51,65.79
+Darwin Núñez,Liverpool,35,23.0,,,,,65.71
+Cody Gakpo,Liverpool,35,23.0,,,,,65.71
+Ibrahima Konaté,Liverpool,32,21.0,,,,0.55,65.62
+Diogo Jota,Liverpool,29,19.0,,,,,65.52
+Caoimhín Kelleher,Liverpool,37,24.0,,,,,64.86
+Wataru Endo,Liverpool,37,24.0,0.1,19.0,0.1,0.3,64.86
+Nico González,Manchester City,14,9.0,,,,,64.29
+Alisson Becker,Liverpool,28,18.0,,,,,64.29
+Jarell Quansah,Liverpool,39,25.0,,,,0.54,64.1
+Axel Disasi,Aston Villa,22,14.0,,,,0.52,63.64
+Riccardo Calafiori,Arsenal,22,14.0,,,,0.47,63.64
+Benoît Badiashile,Chelsea,22,14.0,,,,1.2,63.64
+Harvey Elliott,Liverpool,30,19.0,1.1,44.0,0.56,,63.33
+Federico Chiesa,Liverpool,19,12.0,,,,,63.16
+Rúben Dias,Manchester City,27,17.0,,,,0.74,62.96
+Trent Alexander-Arnold,Liverpool,35,22.0,,,,0.94,62.86
+Gustavo Nunes,Brentford,8,5.0,0.0,0.0,0.0,,62.5
+Omar Marmoush,Manchester City,16,10.0,2.8,37.0,0.94,,62.5
+Kai Havertz,Arsenal,24,15.0,2.4,61.0,0.7399999999999999,,62.5
+Tyler Morton,Liverpool,8,5.0,,,,,62.5
+Curtis Jones,Liverpool,34,21.0,1.1,117.0,0.67,0.21,61.76
+Marco Asensio,Aston Villa,13,8.0,1.0,45.0,1.23,,61.54
+Kiernan Dewsbury-Hall,Chelsea,26,16.0,1.1,14.0,0.23,,61.54
+Lewis Miley,Newcastle United,26,16.0,0.0,17.0,0.07,,61.54
+Matt Targett,Newcastle United,18,11.0,,,,0.5,61.11
+Manuel Akanji,Manchester City,28,17.0,,,,0.35,60.71
+Odisseas Vlachodimos,Newcastle United,10,6.0,,,,,60.0
+Marcus Rashford,Aston Villa,20,12.0,2.1,21.0,1.0,,60.0
+Wesley Fofana,Chelsea,15,9.0,,,,1.0,60.0
+John Stones,Manchester City,15,9.0,0.1,21.0,0.18,0.36,60.0
+Harry Howell,Brighton & Hove Albion,5,3.0,,,,,60.0
+Joe Gauci,Aston Villa,10,6.0,,,,,60.0
+Conor Bradley,Liverpool,25,15.0,,,,0.21,60.0
+Romeo Lavia,Chelsea,20,12.0,,,,,60.0
+Martin Dúbravka,Newcastle United,34,20.0,,,,,58.82
+Alexander Isak,Newcastle United,34,20.0,,,,,58.82
+Harry Toffolo,Nottingham Forest,24,14.0,,,,0.5,58.33
+Mykhailo Mudryk,Chelsea,12,7.0,,,,,58.33
+Tyrique George,Chelsea,19,11.0,,,,,57.89
+Nathan Aké,Manchester City,19,11.0,,,,0.3,57.89
+Jérémy Doku,Manchester City,33,19.0,,,,,57.58
+Mateo Kovacic,Manchester City,33,19.0,,,,,57.58
+Carl Rushworth,Brighton & Hove Albion,14,8.0,,,,,57.14
+Max Kinsey-Wellings,AFC Bournemouth,14,8.0,,,,,57.14
+Max Aarons,AFC Bournemouth,14,8.0,,,,0.33,57.14
+Remy Rees-Dottin,AFC Bournemouth,7,4.0,,,,,57.14
+Matheus Nunes,Manchester City,35,20.0,4.4,79.0,0.88,0.58,57.14
+Amadou Onana,Aston Villa,28,16.0,0.7,75.0,0.38,,57.14
+Adam Webster,Brighton & Hove Albion,21,12.0,,,,1.43,57.14
+Gabriel Magalhães,Arsenal,28,16.0,,,,0.57,57.14
+Ederson,Manchester City,30,17.0,,,,,56.67
+Nico O'Reilly,Manchester City,30,17.0,,,,,56.67
+Trevoh Chalobah,Chelsea,32,18.0,,,,1.175,56.25
+Jadon Sancho,Chelsea,32,18.0,,,,,56.25
+Jack Grealish,Manchester City,32,18.0,1.8,52.0,1.2,,56.25
+Andrés García,Aston Villa,16,9.0,0.2,15.0,0.43,0.29,56.25
+Jorginho,Arsenal,34,19.0,0.4,48.0,0.2,,55.88
+Marc Cucurella,Chelsea,36,20.0,,,,0.78,55.56
+James Ward-Prowse,Nottingham Forest,36,20.0,1.5,35.0,0.885,,55.56
+Rico Lewis,Manchester City,36,20.0,0.3,107.0,0.25,0.4600000000000001,55.56
+Josko Gvardiol,Manchester City,38,21.0,,,,,55.26
+Bernardo Silva,Manchester City,38,21.0,5.1,134.0,1.61,,55.26
+Stefan Ortega,Manchester City,38,21.0,,,,,55.26
+Joelinton,Newcastle United,29,16.0,2.5,116.0,0.79,,55.17
+Matty Cash,Aston Villa,29,16.0,,,,0.85,55.17
+Kieran Trippier,Newcastle United,31,17.0,,,,0.48,54.84
+Abdukodir Khusanov,Manchester City,11,6.0,,,,0.5,54.55
+Kevin De Bruyne,Manchester City,33,18.0,8.0,157.0,2.04,,54.55
+Taiwo Awoniyi,Nottingham Forest,33,18.0,,,,,54.55
+Neto,Arsenal,33,18.0,,,,,54.55
+Eiran Cashin,Brighton & Hove Albion,11,6.0,,,,0.0,54.55
+Noni Madueke,Chelsea,33,18.0,,,,,54.55
+James McAtee,Manchester City,35,19.0,,,,,54.29
+Ezri Konsa,Aston Villa,35,19.0,,,,0.71,54.29
+William Saliba,Arsenal,35,19.0,,,,0.6,54.29
+Gabriel Martinelli,Arsenal,35,19.0,5.0,52.0,1.21,,54.29
+Ross Barkley,Aston Villa,24,13.0,0.6,36.0,0.45,,54.17
+Filip Jørgensen,Chelsea,37,20.0,,,,,54.05
+Ilkay Gündogan,Manchester City,37,20.0,,,,,54.05
+Cole Palmer,Chelsea,37,20.0,10.9,214.0,2.35,,54.05
+Dan Burn,Newcastle United,37,20.0,,,,0.73,54.05
+Tosin Adarabioyo,Chelsea,39,21.0,,,,0.5,53.85
+Kieran Tierney,Arsenal,26,14.0,,,,0.23,53.85
+Nasser Djiga,Wolverhampton Wanderers,13,7.0,,,,0.4,53.85
+Pau Torres,Aston Villa,28,15.0,,,,0.42,53.57
+Martin Ødegaard,Arsenal,30,16.0,5.4,258.0,2.1,,53.33
+Erling Haaland,Manchester City,32,17.0,,,,,53.12
+Jurriën Timber,Arsenal,32,17.0,,,,0.73,53.12
+Donyell Malen,Aston Villa,17,9.0,,,,,52.94
+Diego Gómez,Brighton & Hove Albion,17,9.0,0.7,27.0,0.5,,52.94
+Harvey Barnes,Newcastle United,34,18.0,,,,,52.94
+John McGinn,Aston Villa,34,18.0,3.5,103.0,0.91,,52.94
+Declan Rice,Arsenal,36,19.0,6.6,192.0,1.69,,52.78
+Sandro Tonali,Newcastle United,36,19.0,2.2,128.0,0.78,,52.78
+Ethan Nwaneri,Arsenal,36,19.0,1.2,33.0,0.62,,52.78
+Gabriel Jesus,Arsenal,19,10.0,,,,,52.63
+Robert Sánchez,Chelsea,38,20.0,,,,,52.63
+William Osula,Newcastle United,38,20.0,,,,,52.63
+Moisés Caicedo,Chelsea,38,20.0,3.0,215.0,0.79,1.29,52.63
+David Raya,Arsenal,38,20.0,,,,,52.63
+Sean Longstaff,Newcastle United,38,20.0,0.2,40.0,0.16,,52.63
+Bruno Guimarães,Newcastle United,38,20.0,6.1,271.0,1.37,,52.63
+Leandro Trossard,Arsenal,38,20.0,,,,,52.63
+Ian Maatsen,Aston Villa,38,20.0,,,,0.52,52.63
+Miguel Almirón,Newcastle United,23,12.0,,,,,52.17
+Bukayo Saka,Arsenal,25,13.0,7.6,70.0,2.32,,52.0
+Álex Moreno,Nottingham Forest,27,14.0,1.3,34.0,0.53,1.0,51.85
+Tyrone Mings,Aston Villa,27,14.0,,,,0.5,51.85
+Boubacar Kamara,Aston Villa,27,14.0,0.9,85.0,0.42,,51.85
+Willy Boly,Nottingham Forest,29,15.0,,,,0.5,51.72
+Jacob Ramsey,Aston Villa,29,15.0,2.3,68.0,0.72,,51.72
+Nicolas Jackson,Chelsea,31,16.0,,,,,51.61
+Oleksandr Zinchenko,Arsenal,31,16.0,0.2,48.0,0.2,0.33,51.61
+Carlos Miguel,Nottingham Forest,33,17.0,,,,,51.52
+Ola Aina,Nottingham Forest,35,18.0,,,,0.94,51.43
+Thomas Partey,Arsenal,37,19.0,2.1,185.0,0.57,1.0,51.35
+Nikola Milenkovic,Nottingham Forest,37,19.0,,,,,51.35
+Levi Colwill,Chelsea,37,19.0,,,,0.9400000000000001,51.35
+Jakub Kiwior,Arsenal,37,19.0,,,,0.35,51.35
+Savinho,Manchester City,37,19.0,,,,,51.35
+Valentino Livramento,Newcastle United,37,19.0,,,,0.62,51.35
+Jacob Murphy,Newcastle United,37,19.0,,,,,51.35
+Elliot Anderson,Nottingham Forest,37,19.0,3.3,143.0,1.0,,51.35
+Leon Bailey,Aston Villa,30,15.0,1.5,35.0,0.67,,50.0
+Fabian Schär,Newcastle United,34,17.0,,,,1.32,50.0
+Phil Foden,Manchester City,34,17.0,4.8,103.0,1.54,,50.0
+Anthony Gordon,Newcastle United,34,17.0,5.0,98.0,1.5,,50.0
+Pedro Neto,Chelsea,36,18.0,,,,,50.0
+Daniel Adu-Addei,AFC Bournemouth,4,2.0,,,,,50.0
+Ollie Watkins,Aston Villa,38,19.0,,,,,50.0
+Trey Nyoni,Liverpool,4,2.0,,,,,50.0
+Anthony Elanga,Nottingham Forest,38,19.0,5.7,63.0,1.32,,50.0
+Enzo Fernández,Chelsea,36,18.0,6.8,212.0,2.14,,50.0
+Renato Veiga,Chelsea,20,10.0,0.0,7.0,0.0,0.14,50.0
+Emil Krafth,Newcastle United,26,13.0,,,,0.16999999999999998,50.0
+Dane Scarlett,Tottenham Hotspur,6,3.0,0.0,1.0,0.33,,50.0
+Chadi Riad,Crystal Palace,6,3.0,,,,2.0,50.0
+Sven Botman,Newcastle United,10,5.0,,,,0.62,50.0
+Morato,Nottingham Forest,34,17.0,,,,0.38,50.0
+Thiago,Brentford,8,4.0,0.1,4.0,0.25,,50.0
+Marshall Munetsi,Wolverhampton Wanderers,14,7.0,1.8,10.0,0.64,,50.0
+Boubacar Traoré,Wolverhampton Wanderers,8,4.0,0.0,0.0,0.0,,50.0
+Alex Murphy,Newcastle United,4,2.0,,,,,50.0
+Murillo,Nottingham Forest,36,18.0,,,,1.0,50.0
+Jack Hinshelwood,Brighton & Hove Albion,26,13.0,1.5,68.0,0.6500000000000001,0.62,50.0
+Maldini Kacurri,Arsenal,4,2.0,,,,,50.0
+Joël Veltman,Brighton & Hove Albion,24,12.0,,,,0.9,50.0
+Neco Williams,Nottingham Forest,38,19.0,,,,0.89,50.0
+Mathias Jensen,Brentford,24,12.0,1.7,61.0,0.67,,50.0
+Mathis Amougou,Chelsea,4,2.0,0.0,1.0,0.0,,50.0
+Matz Sels,Nottingham Forest,38,19.0,,,,,50.0
+Callum Hudson-Odoi,Nottingham Forest,32,16.0,2.7,71.0,1.42,,50.0
+João Félix,Chelsea,20,10.0,1.0,26.0,0.5,,50.0
+Jack Francis,Arsenal,6,3.0,,,,,50.0
+Lucas Digne,Aston Villa,38,19.0,,,,0.78,50.0
+Scott Carson,Manchester City,16,8.0,,,,,50.0
+Ben Chilwell,Crystal Palace,12,6.0,,,,0.75,50.0
+Chris Wood,Nottingham Forest,36,18.0,,,,,50.0
+Lloyd Kelly,Newcastle United,24,12.0,,,,0.10000000000000002,50.0
+Morgan Gibbs-White,Nottingham Forest,34,17.0,5.0,164.0,1.5,,50.0
+Malachi Hardy,Tottenham Hotspur,6,3.0,,,,,50.0
+Ryan Yates,Nottingham Forest,37,18.0,1.2,53.0,0.51,,48.65
+Nicolás Domínguez,Nottingham Forest,37,18.0,1.3,83.0,0.38,,48.65
+Jota Silva,Nottingham Forest,37,18.0,2.9,18.0,0.45000000000000007,,48.65
+Morgan Rogers,Aston Villa,37,18.0,7.799999999999999,123.0,1.38,,48.65
+Emiliano Martínez,Aston Villa,37,18.0,,,,,48.65
+Joe Willock,Newcastle United,33,16.0,2.1,41.0,0.69,,48.48
+Christopher Nkunku,Chelsea,33,16.0,,,,,48.48
+Lewis Hall,Newcastle United,27,13.0,,,,0.67,48.15
+Mark Travers,AFC Bournemouth,23,11.0,,,,,47.83
+Josh Acheampong,Chelsea,23,11.0,,,,,47.83
+Youri Tielemans,Aston Villa,36,17.0,7.0,235.0,1.67,,47.22
+Enes Ünal,AFC Bournemouth,17,8.0,0.4,12.0,0.24,,47.06
+Christian Nørgaard,Brentford,34,16.0,1.3,154.0,0.53,,47.06
+Kyle Walker,Manchester City,17,8.0,,,,0.2,47.06
+Myles Lewis-Skelly,Arsenal,32,15.0,,,,0.3,46.88
+Axel Disasi,Chelsea,30,14.0,,,,0.52,46.67
+Romain Esse,Crystal Palace,15,7.0,0.4,7.0,0.43,,46.67
+Danny Welbeck,Brighton & Hove Albion,30,14.0,,,,,46.67
+Robin Olsen,Aston Villa,30,14.0,,,,,46.67
+Raheem Sterling,Arsenal,30,14.0,0.5,18.0,0.47,,46.67
+Mats Wieffer,Brighton & Hove Albion,28,13.0,1.6,62.0,0.64,0.68,46.43
+Mikel Merino,Arsenal,28,13.0,2.0,69.0,0.61,,46.43
+Marc Guiu,Chelsea,13,6.0,,,,,46.15
+Harrison Reed,Fulham,26,12.0,0.1,4.0,0.08,,46.15
+Solly March,Brighton & Hove Albion,13,6.0,0.3,2.0,0.38,,46.15
+Philip Billing,AFC Bournemouth,13,6.0,1.1,15.0,0.9000000000000001,,46.15
+Michael Kayode,Brentford,13,6.0,,,,0.58,46.15
+Reece James,Chelsea,24,11.0,0.6999999999999998,64.0,0.58,0.68,45.83
+Malo Gusto,Chelsea,33,15.0,,,,0.75,45.45
+Reiss Nelson,Fulham,22,10.0,,,,,45.45
+Lamare Bogarde,Aston Villa,22,10.0,0.1,14.0,0.25,0.11999999999999998,45.45
+Nick Pope,Newcastle United,31,14.0,,,,,45.16
+Ethan Pinnock,Brentford,31,14.0,,,,1.09,45.16
+Kaoru Mitoma,Brighton & Hove Albion,36,16.0,4.6,89.0,1.03,,44.44
+Vitor Reis,Manchester City,9,4.0,,,,0.0,44.44
+Yasin Ayari,Brighton & Hove Albion,36,16.0,2.3,75.0,0.88,,44.44
+Carlos Baleba,Brighton & Hove Albion,36,16.0,1.3,118.0,0.62,,44.44
+Callum Wilson,Newcastle United,18,8.0,,,,,44.44
+Caleb Kporha,Crystal Palace,27,12.0,,,,0.0,44.44
+Ismeal Kabia,Arsenal,9,4.0,,,,,44.44
+Emmanuel Agbadou,Wolverhampton Wanderers,16,7.0,,,,0.75,43.75
+Kepa Arrizabalaga,AFC Bournemouth,32,14.0,,,,,43.75
+Kosta Nedeljkovic,Aston Villa,16,7.0,,,,,43.75
+Sepp van den Berg,Brentford,32,14.0,,,,0.68,43.75
+Ryan Sessegnon,Fulham,32,14.0,,,,0.19,43.75
+Ramón Sosa,Nottingham Forest,32,14.0,0.5,6.0,0.42,,43.75
+Kevin Schade,Brentford,39,17.0,,,,,43.59
+Emiliano Buendía,Aston Villa,23,10.0,,,,,43.48
+Paris Maghoma,Brentford,23,10.0,,,,,43.48
+Mark Flekken,Brentford,37,16.0,,,,,43.24
+Jhon Durán,Aston Villa,21,9.0,,,,,42.86
+Nathan Butler-Oyedeji,Arsenal,14,6.0,,,,,42.86
+Jamaldeen Jimoh,Aston Villa,7,3.0,,,,,42.86
+Zach Abbott,Nottingham Forest,7,3.0,,,,,42.86
+Andreas Pereira,Fulham,35,15.0,4.6,104.0,1.73,,42.86
+Martin Sherif,Everton,7,3.0,,,,,42.86
+Danilo,Nottingham Forest,14,6.0,0.0,11.0,0.0,,42.86
+Ben Mee,Brentford,35,15.0,,,,0.57,42.86
+Yoane Wissa,Brentford,35,15.0,,,,,42.86
+Timothy Castagne,Fulham,33,14.0,,,,0.92,42.42
+Adam Smith,AFC Bournemouth,26,11.0,,,,0.6,42.31
+Nathan Collins,Brentford,38,16.0,,,,0.89,42.11
+Yehor Yarmoliuk,Brentford,38,16.0,0.9,63.0,0.29,,42.11
+Mikkel Damsgaard,Brentford,38,16.0,8.4,234.0,1.66,,42.11
+Keane Lewis-Potter,Brentford,38,16.0,,,,0.55,42.11
+Hákon Rafn Valdimarsson,Brentford,38,16.0,,,,,42.11
+Bryan Mbeumo,Brentford,38,16.0,,,,,42.11
+Joachim Andersen,Fulham,62,26.0,,,,0.585,41.94
+Eddie Nketiah,Crystal Palace,31,13.0,1.7,19.0,0.45,,41.94
+Illia Zabarnyi,AFC Bournemouth,36,15.0,,,,1.14,41.67
+David Brooks,AFC Bournemouth,36,15.0,1.8999999999999997,35.0,0.69,,41.67
+Ryan Trevitt,Brentford,12,5.0,0.0,0.0,0.0,,41.67
+Matt O'Riley,Brighton & Hove Albion,24,10.0,2.4,38.0,1.0,,41.67
+Marcus Tavernier,AFC Bournemouth,29,12.0,4.0,128.0,1.48,,41.38
+Tyler Adams,AFC Bournemouth,29,12.0,1.0,76.0,0.6399999999999999,,41.38
+Justin Kluivert,AFC Bournemouth,34,14.0,4.8,105.0,1.32,,41.18
+Jan Paul van Hecke,Brighton & Hove Albion,34,14.0,,,,0.71,41.18
+Carlos Forbs,Wolverhampton Wanderers,27,11.0,0.0,8.0,0.1,,40.74
+Kristoffer Ajer,Brentford,27,11.0,,,,0.5,40.74
+Matt Turner,Crystal Palace,32,13.0,,,,,40.62
+Sander Berge,Fulham,32,13.0,0.6,124.0,0.58,,40.62
+Rodrigo Muniz,Fulham,32,13.0,,,,,40.62
+Calvin Bassey,Fulham,37,15.0,,,,0.57,40.54
+Yunus Konak,Brentford,37,15.0,,,,,40.54
+Adama Traoré,Fulham,37,15.0,4.9,68.0,1.17,,40.54
+Ben Winterburn,AFC Bournemouth,20,8.0,0.0,0.0,0.0,,40.0
+Jake Evans,Leicester City,5,2.0,,,,,40.0
+Iwan Morgan,Brentford,5,2.0,,,,,40.0
+Marcus Bettinelli,Chelsea,5,2.0,,,,,40.0
+Ben White,Arsenal,20,8.0,,,,0.9399999999999998,40.0
+Rico Henry,Brentford,10,4.0,,,,0.2,40.0
+Tariq Lamptey,Brighton & Hove Albion,25,10.0,,,,0.47,40.0
+Mateus Mane,Wolverhampton Wanderers,5,2.0,0.0,0.0,0.0,,40.0
+Willian,Fulham,15,6.0,0.5,40.0,0.7,,40.0
+Justin Devenny,Crystal Palace,30,12.0,0.6,21.0,0.3,,40.0
+Divin Mubama,Manchester City,5,2.0,,,,,40.0
+Tom Cairney,Fulham,35,14.0,1.1,53.0,0.44,,40.0
+Bastien Meupiyou,Wolverhampton Wanderers,5,2.0,,,,,40.0
+Wayne Hennessey,Nottingham Forest,5,2.0,,,,,40.0
+Fábio Carvalho,Brentford,25,10.0,,,,,40.0
+Ryan Christie,AFC Bournemouth,30,12.0,3.5,137.0,1.41,,40.0
+Ethan Wheatley,Manchester United,5,2.0,,,,,40.0
+Simon Adingra,Brighton & Hove Albion,35,14.0,2.5,18.0,0.55,,40.0
+Sil Swinkels,Aston Villa,5,2.0,,,,,40.0
+Milos Kerkez,AFC Bournemouth,38,15.0,,,,1.18,39.47
+Bernd Leno,Fulham,38,15.0,,,,,39.47
+Dean Huijsen,AFC Bournemouth,38,15.0,,,,1.59,39.47
+Raúl Jiménez,Fulham,38,15.0,,,,,39.47
+Steven Benda,Fulham,38,15.0,,,,,39.47
+Alex Iwobi,Fulham,38,15.0,7.0,213.0,1.55,,39.47
+Dango Ouattara,AFC Bournemouth,33,13.0,,,,,39.39
+Yankuba Minteh,Brighton & Hove Albion,33,13.0,5.0,48.0,0.91,,39.39
+Georginio Rutter,Brighton & Hove Albion,28,11.0,2.5,67.0,0.68,,39.29
+Brajan Gruda,Brighton & Hove Albion,28,11.0,2.1,26.0,1.1,,39.29
+Mads Roerslev,Brentford,23,9.0,,,,0.21,39.13
+Mikey Moore,Tottenham Hotspur,18,7.0,,,,,38.89
+Fraser Forster,Tottenham Hotspur,18,7.0,,,,,38.89
+Ibrahim Sangaré,Nottingham Forest,18,7.0,0.4,27.0,0.31,,38.89
+Antonee Robinson,Fulham,36,14.0,,,,1.72,38.89
+Bart Verbruggen,Brighton & Hove Albion,36,14.0,,,,,38.89
+Pervis Estupiñán,Brighton & Hove Albion,31,12.0,,,,1.23,38.71
+Jason Steele,Brighton & Hove Albion,26,10.0,,,,,38.46
+Eberechi Eze,Crystal Palace,34,13.0,6.2,97.0,1.71,,38.24
+Emile Smith Rowe,Fulham,34,13.0,1.4,126.0,0.71,,38.24
+Marcos Senesi,AFC Bournemouth,21,8.0,,,,0.82,38.1
+Antoine Semenyo,AFC Bournemouth,37,14.0,,,,,37.84
+Matai Akinmboni,AFC Bournemouth,8,3.0,,,,,37.5
+Evanilson,AFC Bournemouth,32,12.0,,,,,37.5
+John Ruddy,Newcastle United,8,3.0,,,,,37.5
+Alfie Pond,Wolverhampton Wanderers,8,3.0,,,,0.0,37.5
+Ayden Heaven,Manchester United,8,3.0,,,,1.0,37.5
+Kenny Tete,Fulham,24,9.0,,,,1.45,37.5
+Zain Silcott-Duberry,AFC Bournemouth,8,3.0,,,,,37.5
+Vitaly Janelt,Brentford,32,12.0,2.2,80.0,0.44,,37.5
+Maxence Lacroix,Crystal Palace,35,13.0,,,,1.54,37.14
+João Pedro,Brighton & Hove Albion,27,10.0,5.0,78.0,1.11,,37.04
+Antony,Manchester United,19,7.0,0.1,6.0,0.38,0.25,36.84
+Julio Enciso,Brighton & Hove Albion,38,14.0,0.7999999999999999,21.0,0.71,,36.84
+Julián Araujo,AFC Bournemouth,19,7.0,,,,,36.84
+Sasa Lukic,Fulham,30,11.0,,,,,36.67
+Issa Diop,Fulham,30,11.0,,,,0.43,36.67
+Toti Gomes,Wolverhampton Wanderers,33,12.0,,,,0.81,36.36
+Lisandro Martínez,Manchester United,22,8.0,,,,1.6,36.36
+Carlos Vinícius,Fulham,11,4.0,0.0,0.0,0.0,,36.36
+James Garner,Everton,22,8.0,1.4,50.0,0.62,1.1,36.36
+Tyrell Malacia,Manchester United,11,4.0,,,,0.33,36.36
+Lewis Cook,AFC Bournemouth,36,13.0,4.1,158.0,1.33,1.14,36.11
+Jaden Philogene,Aston Villa,14,5.0,,,,,35.71
+Aaron Cresswell,West Ham United,31,11.0,,,,0.44,35.48
+Son Heung-Min,Tottenham Hotspur,31,11.0,,,,,35.48
+Diego Carlos,Aston Villa,17,6.0,,,,0.5,35.29
+Will Hughes,Crystal Palace,34,12.0,3.1,87.0,1.0,,35.29
+Jefferson Lerma,Crystal Palace,34,12.0,1.6,97.0,0.3,1.27,35.29
+Nélson Semedo,Wolverhampton Wanderers,34,12.0,,,,0.68,35.29
+Toby Collyer,Manchester United,17,6.0,0.3,5.0,0.33,,35.29
+Nathaniel Clyne,Crystal Palace,37,13.0,0.3,7.0,0.22999999999999998,0.22999999999999998,35.14
+Daniel Muñoz,Crystal Palace,37,13.0,,,,1.19,35.14
+Igor Julio,Brighton & Hove Albion,23,8.0,,,,,34.78
+Josh King,Fulham,23,8.0,,,,,34.78
+Guglielmo Vicario,Tottenham Hotspur,26,9.0,,,,,34.62
+Chris Richards,Crystal Palace,29,10.0,,,,0.79,34.48
+André,Wolverhampton Wanderers,35,12.0,0.8,109.0,0.55,,34.29
+Daichi Kamada,Crystal Palace,35,12.0,1.9,89.0,0.59,,34.29
+Tyrick Mitchell,Crystal Palace,38,13.0,,,,0.51,34.21
+Ismaïla Sarr,Crystal Palace,38,13.0,,,,,34.21
+Dean Henderson,Crystal Palace,38,13.0,,,,,34.21
+Joe Knight,Brighton & Hove Albion,3,1.0,,,,,33.33
+Lewis Dunk,Brighton & Hove Albion,27,9.0,,,,0.52,33.33
+James Maddison,Tottenham Hotspur,33,11.0,4.2,164.0,1.32,,33.33
+Carlos Alcaraz,Everton,30,10.0,0.8500000000000001,24.0,0.935,,33.33
+Danny Ings,West Ham United,30,10.0,1.3,5.0,0.4,,33.33
+Asmir Begovic,Everton,18,6.0,,,,,33.33
+Timo Werner,Tottenham Hotspur,21,7.0,2.5,30.0,0.56,,33.33
+Kim Ji-Soo,Brentford,15,5.0,,,,,33.33
+Elyh Harrison,Manchester United,6,2.0,,,,,33.33
+Matheus França,Crystal Palace,12,4.0,0.0,3.0,0.0,,33.33
+Martial Godo,Fulham,9,3.0,,,,0.5,33.33
+Eric Da Silva Moreira,Nottingham Forest,9,3.0,,,,,33.33
+Edson Álvarez,West Ham United,30,10.0,0.8,85.0,0.43,,33.33
+Dwight McNeil,Everton,21,7.0,5.2,69.0,1.76,,33.33
+Jacob Slater,Brighton & Hove Albion,3,1.0,,,,,33.33
+Oliwier Zych,Aston Villa,9,3.0,,,,,33.33
+Matthijs de Ligt,Manchester United,30,10.0,,,,1.14,33.33
+José Sá,Wolverhampton Wanderers,33,11.0,,,,,33.33
+Destiny Udogie,Tottenham Hotspur,30,10.0,,,,0.88,33.33
+Jamaal Lascelles,Newcastle United,3,1.0,,,,,33.33
+Alex Scott,AFC Bournemouth,21,7.0,0.9000000000000001,52.0,0.6,,33.33
+Tom King,Wolverhampton Wanderers,3,1.0,,,,,33.33
+Jean-Philippe Mateta,Crystal Palace,37,12.0,,,,,32.43
+Lucas Bergvall,Tottenham Hotspur,34,11.0,0.6,49.0,0.41,,32.35
+Marc Guéhi,Crystal Palace,34,11.0,,,,0.82,32.35
+James Hill,AFC Bournemouth,31,10.0,,,,0.9,32.26
+Harry Wilson,Fulham,28,9.0,1.1,51.0,0.8,,32.14
+Nathan Patterson,Everton,28,9.0,,,,0.2,32.14
+Noussair Mazraoui,Manchester United,38,12.0,,,,0.92,31.58
+Matt Doherty,Wolverhampton Wanderers,38,12.0,,,,0.73,31.58
+Vitaliy Mykolenko,Everton,35,11.0,,,,1.26,31.43
+Lukasz Fabianski,West Ham United,35,11.0,,,,,31.43
+Jørgen Strand Larsen,Wolverhampton Wanderers,35,11.0,,,,,31.43
+Jean-Clair Todibo,West Ham United,32,10.0,,,,0.96,31.25
+Marcus Rashford,Manchester United,32,10.0,2.1,21.0,1.0,,31.25
+James Ward-Prowse,West Ham United,32,10.0,1.5,35.0,0.885,,31.25
+Manuel Ugarte,Manchester United,32,10.0,,,,,31.25
+Dejan Kulusevski,Tottenham Hotspur,32,10.0,6.2,124.0,2.03,,31.25
+Joshua Zirkzee,Manchester United,32,10.0,1.5,44.0,0.38,,31.25
+Amad,Manchester United,29,9.0,,,,,31.03
+Hwang Hee-Chan,Wolverhampton Wanderers,29,9.0,,,,,31.03
+Armando Broja,Everton,13,4.0,,,,,30.77
+Dominic Calvert-Lewin,Everton,26,8.0,,,,,30.77
+Jorge Cuenca,Fulham,26,8.0,,,,0.25,30.77
+Luis Sinisterra,AFC Bournemouth,13,4.0,1.4,6.0,0.75,,30.77
+Tomás Soucek,West Ham United,36,11.0,,,,,30.56
+Ashley Young,Everton,36,11.0,,,,0.78,30.56
+João Gomes,Wolverhampton Wanderers,36,11.0,1.2,165.0,0.64,,30.56
+Guido Rodríguez,West Ham United,36,11.0,0.2,33.0,0.17,,30.56
+Konstantinos Mavropanos,West Ham United,36,11.0,,,,1.21,30.56
+Victor Lindelöf,Manchester United,23,7.0,,,,0.5,30.43
+Radu Dragusin,Tottenham Hotspur,23,7.0,,,,,30.43
+Sam Johnstone,Wolverhampton Wanderers,23,7.0,,,,,30.43
+Tommy Doyle,Wolverhampton Wanderers,33,10.0,0.5,40.0,0.29,,30.3
+Iliman Ndiaye,Everton,33,10.0,,,,,30.3
+Diogo Dalot,Manchester United,33,10.0,,,,1.12,30.3
+Jarrad Branthwaite,Everton,30,9.0,,,,0.9,30.0
+Mason Mount,Manchester United,20,6.0,0.6,33.0,0.4699999999999999,,30.0
+Crysencio Summerville,West Ham United,20,6.0,1.7,18.0,0.89,,30.0
+Daniel Jebbison,AFC Bournemouth,20,6.0,,,,,30.0
+Idrissa Gueye,Everton,37,11.0,,,,,29.73
+Jean-Ricner Bellegarde,Wolverhampton Wanderers,37,11.0,3.8,43.0,0.77,,29.73
+Rayan Aït-Nouri,Wolverhampton Wanderers,37,11.0,,,,0.7,29.73
+Bruno Fernandes,Manchester United,37,11.0,8.5,325.0,2.53,,29.73
+Santiago Bueno,Wolverhampton Wanderers,37,11.0,,,,0.52,29.73
+Aaron Wan-Bissaka,West Ham United,37,11.0,,,,1.8300000000000003,29.73
+Rodrigo Bentancur,Tottenham Hotspur,27,8.0,0.4,100.0,0.38,,29.63
+Luis Guilherme,West Ham United,34,10.0,0.1,5.0,0.25,,29.41
+Jonny Evans,Manchester United,17,5.0,,,,0.71,29.41
+Abdoulaye Doucouré,Everton,34,10.0,2.4,82.0,0.85,,29.41
+Jarrod Bowen,West Ham United,34,10.0,6.8,91.0,1.5,,29.41
+Richarlison,Tottenham Hotspur,17,5.0,,,,,29.41
+Cheick Doucouré,Crystal Palace,17,5.0,0.0,19.0,0.08,,29.41
+André Onana,Manchester United,34,10.0,,,,,29.41
+Yves Bissouma,Tottenham Hotspur,34,10.0,0.3,75.0,0.21,,29.41
+Alphonse Areola,West Ham United,34,10.0,,,,,29.41
+Jeff Schlupp,Crystal Palace,24,7.0,,,,,29.17
+Pablo Sarabia,Wolverhampton Wanderers,31,9.0,1.8,60.0,0.65,,29.03
+Altay Bayindir,Manchester United,31,9.0,,,,,29.03
+Jordan Pickford,Everton,38,11.0,,,,,28.95
+Jack Harrison,Everton,38,11.0,,,,,28.95
+Pedro Porro,Tottenham Hotspur,38,11.0,,,,1.09,28.95
+Archie Gray,Tottenham Hotspur,38,11.0,0.1,40.0,0.10999999999999999,0.68,28.95
+João Virgínia,Everton,38,11.0,,,,,28.95
+Beto,Everton,38,11.0,,,,,28.95
+Casemiro,Manchester United,38,11.0,2.3,84.0,0.92,,28.95
+Max Kilman,West Ham United,38,11.0,,,,1.0,28.95
+Michail Antonio,West Ham United,14,4.0,,,,,28.57
+Jayden Meghoma,Brentford,14,4.0,,,,0.0,28.57
+Christian Eriksen,Manchester United,35,10.0,3.2,55.0,1.35,,28.57
+Youssef Chermiti,Everton,14,4.0,0.0,1.0,0.0,,28.57
+Brennan Johnson,Tottenham Hotspur,35,10.0,,,,,28.57
+William Dennis,AFC Bournemouth,21,6.0,,,,,28.57
+Kobbie Mainoo,Manchester United,28,8.0,1.6,65.0,0.56,,28.57
+Ferdi Kadioglu,Brighton & Hove Albion,7,2.0,0.2,15.0,0.83,1.33,28.57
+Rodrigo Gomes,Wolverhampton Wanderers,35,10.0,,,,0.28,28.57
+Cristian Romero,Tottenham Hotspur,21,6.0,,,,1.17,28.57
+Emerson,West Ham United,35,10.0,,,,,28.57
+Jeremy Monga,Leicester City,7,2.0,0.0,3.0,0.14,,28.57
+Trevoh Chalobah,Crystal Palace,28,8.0,,,,1.175,28.57
+Odsonne Édouard,Leicester City,14,4.0,0.0,4.0,0.5,,28.57
+Adam Wharton,Crystal Palace,21,6.0,3.0,107.0,1.3,,28.57
+Pape Matar Sarr,Tottenham Hotspur,39,11.0,1.6,88.0,0.42,,28.21
+Mohammed Kudus,West Ham United,32,9.0,3.1,79.0,0.97,,28.12
+Andrew Irving,West Ham United,25,7.0,,,,,28.0
+Daniel Bentley,Wolverhampton Wanderers,18,5.0,,,,,27.78
+Michael Keane,Everton,36,10.0,,,,1.14,27.78
+Tim Iroegbunam,Everton,22,6.0,0.2,15.0,0.17,,27.27
+Chido Obi,Manchester United,11,3.0,,,,,27.27
+Carlos Soler,West Ham United,33,9.0,1.4,56.0,0.58,,27.27
+Vladimír Coufal,West Ham United,33,9.0,,,,0.36,27.27
+Matheus Cunha,Wolverhampton Wanderers,33,9.0,7.7,144.0,1.7,,27.27
+Djed Spence,Tottenham Hotspur,33,9.0,,,,0.84,27.27
+Jake O'Brien,Everton,37,10.0,,,,0.2,27.03
+Harry Maguire,Manchester United,30,8.0,,,,1.48,26.67
+Evan Ferguson,Brighton & Hove Albion,30,8.0,,,,,26.67
+Rasmus Højlund,Manchester United,34,9.0,,,,,26.47
+Micky van de Ven,Tottenham Hotspur,19,5.0,,,,0.77,26.32
+Niclas Füllkrug,West Ham United,19,5.0,,,,,26.32
+Orel Mangala,Everton,19,5.0,0.6,34.0,0.42,,26.32
+Harrison Armstrong,Everton,23,6.0,0.1,1.0,0.33,,26.09
+Isaac Heath,Everton,4,1.0,,,,,25.0
+Evan Ferguson,West Ham United,24,6.0,,,,,25.0
+Ruairi Mcconville,Brighton & Hove Albion,8,2.0,,,,,25.0
+Benjamin Arthur,Brentford,4,1.0,,,,,25.0
+Daniel Iversen,Leicester City,12,3.0,,,,,25.0
+Dominic Solanke,Tottenham Hotspur,28,7.0,,,,,25.0
+Cesare Casadei,Chelsea,4,1.0,,,,,25.0
+Roman Quintyne,Everton,8,2.0,,,,,25.0
+Alejandro Garnacho,Manchester United,36,9.0,4.5,56.0,1.03,,25.0
+Jimi Gower,Arsenal,4,1.0,,,,,25.0
+Tyler Fredricson,Manchester United,8,2.0,,,,0.5,25.0
+Ben Davies,Tottenham Hotspur,24,6.0,,,,0.71,25.0
+Wilson Odobert,Tottenham Hotspur,16,4.0,1.0,27.0,0.38,,25.0
+Alfie Dorrington,Tottenham Hotspur,4,1.0,,,,0.0,25.0
+Tom Heaton,Manchester United,8,2.0,,,,,25.0
+Godwill Kukonki,Manchester United,4,1.0,,,,,25.0
+Goncalo Guedes,Wolverhampton Wanderers,33,8.0,,,,,24.24
+James Tarkowski,Everton,33,8.0,,,,1.24,24.24
+Pedro Lima,Wolverhampton Wanderers,21,5.0,,,,0.67,23.81
+Oliver Scarles,West Ham United,21,5.0,,,,0.73,23.81
+Lucas Paquetá,West Ham United,34,8.0,3.1,155.0,1.09,,23.53
+Julio Soler,AFC Bournemouth,13,3.0,,,,0.0,23.08
+Jakub Moder,Brighton & Hove Albion,13,3.0,0.2,4.0,0.75,,23.08
+Antonin Kinsky,Tottenham Hotspur,18,4.0,,,,,22.22
+Seamus Coleman,Everton,18,4.0,,,,,22.22
+Jesper Lindstrom,Everton,28,6.0,,,,,21.43
+Callum Olusesi,Tottenham Hotspur,14,3.0,,,,,21.43
+Mathys Tel,Tottenham Hotspur,14,3.0,,,,,21.43
+Damola Ajayi,Tottenham Hotspur,5,1.0,,,,,20.0
+Woyo Coulibaly,Leicester City,10,2.0,,,,1.25,20.0
+Jack Fletcher,Manchester United,5,1.0,,,,,20.0
+Joel Ward,Crystal Palace,20,4.0,,,,0.0,20.0
+Kasey McAteer,Leicester City,20,4.0,,,,,20.0
+Jacob Wright,Manchester City,5,1.0,,,,,20.0
+Jahmai Simpson-Pusey,Manchester City,10,2.0,,,,0.0,20.0
+Kevin Danso,Tottenham Hotspur,10,2.0,,,,0.6,20.0
+Charlie Tasker,Brighton & Hove Albion,5,1.0,,,,,20.0
+Lewis Orford,West Ham United,5,1.0,0.0,0.0,1.0,,20.0
+Craig Dawson,Wolverhampton Wanderers,21,4.0,,,,0.6,19.05
+Leny Yoro,Manchester United,21,4.0,,,,0.86,19.05
+Danny Ward,Leicester City,16,3.0,,,,,18.75
+Will Lankshear,Tottenham Hotspur,16,3.0,0.0,0.0,0.0,,18.75
+Fatawu Issahaku,Leicester City,11,2.0,,,,,18.18
+Wilfred Ndidi,Leicester City,28,5.0,1.9,70.0,0.61,,17.86
+Victor Kristiansen,Leicester City,35,6.0,,,,,17.14
+Oliver Skipp,Leicester City,35,6.0,0.3,35.0,0.38,,17.14
+Wout Faes,Leicester City,35,6.0,,,,0.76,17.14
+Boubakary Soumaré,Leicester City,35,6.0,0.4,105.0,0.35,,17.14
+Bilal El Khannouss,Leicester City,35,6.0,4.6,128.0,1.31,,17.14
+Jamie Vardy,Leicester City,35,6.0,,,,,17.14
+Conor Coady,Leicester City,35,6.0,,,,0.59,17.14
+Tony Yogane,Brentford,6,1.0,,,,,16.67
+Ricardo Pereira,Leicester City,18,3.0,,,,0.4,16.67
+Jordan Ayew,Leicester City,72,12.0,0.55,23.0,0.765,,16.67
+Patrick Dorgu,Manchester United,12,2.0,,,,0.33,16.67
+Asher Agbinone,Crystal Palace,12,2.0,0.0,0.0,0.5,,16.67
+Albert Gronbaek Erlykke,Southampton,6,1.0,,,,,16.67
+Harrison Clarke,Ipswich Town,12,2.0,,,,,16.67
+James Justin,Leicester City,37,6.0,,,,1.28,16.22
+Caleb Okoli,Leicester City,37,6.0,,,,0.79,16.22
+Ali Ibrahim Al-Hamadi,Ipswich Town,13,2.0,,,,,15.38
+Brandon Austin,Tottenham Hotspur,13,2.0,,,,,15.38
+Patson Daka,Leicester City,27,4.0,0.1,8.0,0.04,,14.81
+Facundo Buonanotte,Leicester City,34,5.0,3.1,54.0,0.77,,14.71
+Conor Chaplin,Ipswich Town,28,4.0,0.7,29.0,0.36,,14.29
+Sergio Reguilón,Tottenham Hotspur,14,2.0,,,,1.0,14.29
+Wes Burns,Ipswich Town,21,3.0,,,,0.56,14.29
+Jakub Stolarczyk,Leicester City,21,3.0,,,,,14.29
+Luke Woolfenden,Ipswich Town,29,4.0,,,,1.27,13.79
+Cameron Burgess,Ipswich Town,23,3.0,,,,0.78,13.04
+Kaelan Casey,West Ham United,8,1.0,,,,0.0,12.5
+Bobby De Cordova-Reid,Leicester City,32,4.0,,,,,12.5
+Luke Shaw,Manchester United,8,1.0,,,,0.29,12.5
+Ben Johnson,Ipswich Town,32,4.0,,,,0.57,12.5
+Conor Townsend,Ipswich Town,32,4.0,,,,0.67,12.5
+Stephy Mavididi,Leicester City,33,4.0,,,,,12.12
+Jens Cajuste,Ipswich Town,33,4.0,0.8,59.0,0.43,,12.12
+Harry Winks,Leicester City,25,3.0,1.2,101.0,0.77,,12.0
+Kalvin Phillips,Ipswich Town,25,3.0,0.2,51.0,0.26,,12.0
+Luke Thomas,Leicester City,25,3.0,,,,1.5,12.0
+Christian Walton,Ipswich Town,34,4.0,,,,,11.76
+Mario Lemina,Wolverhampton Wanderers,17,2.0,1.1,48.0,0.59,1.59,11.76
+Aro Muric,Ipswich Town,26,3.0,,,,,11.54
+Nathan Broadhead,Ipswich Town,26,3.0,0.7,14.0,0.39,,11.54
+Sam Morsy,Ipswich Town,35,4.0,1.2,120.0,0.73,,11.43
+Wes Foderingham,West Ham United,9,1.0,,,,,11.11
+Dara O'Shea,Ipswich Town,36,4.0,,,,0.94,11.11
+Jack Clarke,Ipswich Town,36,4.0,2.3,44.0,0.88,,11.11
+Mads Hermansen,Leicester City,27,3.0,,,,,11.11
+Samuel Amo-Ameyaw,Southampton,9,1.0,,,,0.0,11.11
+Liam Delap,Ipswich Town,37,4.0,,,,,10.81
+Adam Lallana,Southampton,20,2.0,0.9,24.0,0.29,,10.0
+Jannik Vestergaard,Leicester City,20,2.0,,,,0.89,10.0
+William Smallbone,Southampton,21,2.0,0.7,27.0,0.56,,9.52
+Omari Hutchinson,Ipswich Town,32,3.0,3.5,75.0,1.0,,9.38
+Jack Taylor,Ipswich Town,33,3.0,0.5,43.0,0.16,,9.09
+Sammie Szmodics,Ipswich Town,22,2.0,0.2,19.0,0.25,,9.09
+Axel Tuanzebe,Ipswich Town,22,2.0,,,,1.05,9.09
+Jaden Philogene,Ipswich Town,11,1.0,,,,,9.09
+Leif Davis,Ipswich Town,33,3.0,,,,0.76,9.09
+Jack Stephens,Southampton,23,2.0,,,,0.68,8.7
+Taylor Harwood-Bellis,Southampton,35,3.0,,,,0.88,8.57
+Armel Bella-Kotchap,Southampton,12,1.0,,,,,8.33
+Adam Armstrong,Southampton,24,2.0,1.2,21.0,0.45,,8.33
+Welington,Southampton,13,1.0,,,,0.7,7.69
+George Hirst,Ipswich Town,26,2.0,,,,,7.69
+Alex Palmer,Ipswich Town,13,1.0,,,,,7.69
+Harry Amass,Manchester United,13,1.0,,,,0.4,7.69
+Jacob Greaves,Ipswich Town,27,2.0,,,,0.84,7.41
+Ben Brereton Díaz,Southampton,14,1.0,,,,,7.14
+Julio Enciso,Ipswich Town,28,2.0,0.7999999999999999,21.0,0.71,,7.14
+Paul Onuachu,Southampton,28,2.0,,,,,7.14
+Aaron Ramsdale,Southampton,30,2.0,,,,,6.67
+Jan Bednarek,Southampton,30,2.0,,,,1.87,6.67
+Lesley Ugochukwu,Southampton,32,2.0,1.0,49.0,0.54,,6.25
+James Bree,Southampton,32,2.0,,,,0.53,6.25
+Tyler Dibling,Southampton,34,2.0,1.5,64.0,0.61,,5.88
+Yukinari Sugawara,Southampton,35,2.0,2.2,72.0,0.57,0.37,5.71
+Kyle Walker-Peters,Southampton,35,2.0,,,,0.58,5.71
+Mateus Fernandes,Southampton,36,2.0,3.0,145.0,0.94,,5.56
+Joe Aribo,Southampton,38,2.0,1.6,75.0,0.5,0.62,5.26
+Alex McCarthy,Southampton,38,2.0,,,,,5.26
+Massimo Luongo,Ipswich Town,22,1.0,0.0,6.0,0.0,,4.55
+Kamaldeen Sulemana,Southampton,28,1.0,1.0,27.0,0.38,,3.57
+Flynn Downes,Southampton,29,1.0,1.1,66.0,0.56,,3.45
+Ryan Manning,Southampton,31,1.0,3.2,35.0,1.42,0.71,3.23
+Cameron Archer,Southampton,37,1.0,,,,,2.7
+Marlon Pack,Portsmouth,46,0.0,,,,,0.0
+Mason Bennett,Burton Albion,36,0.0,,,,,0.0
+Marselino Ferdinan,Oxford United,5,0.0,,,,,0.0
+Mason Barrett,Wealdstone,9,0.0,,,,,0.0
+Will Wright,Salford City,8,0.0,,,,,0.0
+Kain Adom,AFC Fylde,6,0.0,,,,,0.0
+Aaron Morley,Wycombe Wanderers,19,0.0,,,,,0.0
+Marvin Mehlem,Hull City,18,0.0,,,,,0.0
+Will Vaulks,Oxford United,45,0.0,,,,,0.0
+Mason Burstow,Hull City,44,0.0,,,,,0.0
+Will Swan,Mansfield Town,3,0.0,,,,,0.0
+Will Smith,FC Halifax Town,33,0.0,,,,,0.0
+Kain Adom,Sutton United,7,0.0,,,,,0.0
+Marvin Johnson,Sheffield Wednesday,45,0.0,,,,,0.0
+Will Sutton,Oldham Athletic,26,0.0,,,,,0.0
+Martin Woods,Boston United,26,0.0,,,,,0.0
+Mateo Joseph,Leeds United,46,0.0,,,,,0.0
+Matej Jurásek,Norwich City,4,0.0,,,,,0.0
+Marvin Armstrong,York City,47,0.0,,,,,0.0
+Kain Adom,Gateshead,29,0.0,,,,,0.0
+Marvelous Nakamba,Luton Town,36,0.0,,,,,0.0
+Martyn Waghorn,Northampton Town,7,0.0,,,,,0.0
+Will Swan,Crawley Town,39,0.0,,,,,0.0
+Mason Holgate,West Bromwich Albion,35,0.0,,,,0.0,0.0
+Manni Norkett,Cheltenham Town,7,0.0,,,,,0.0
+Manny Onariase,Hartlepool United,17,0.0,,,,,0.0
+Manny Onariase,Maidenhead United,22,0.0,,,,,0.0
+Manolis Siopis,Cardiff City,24,0.0,,,,,0.0
+Manor Solomon,Leeds United,40,0.0,,,,,0.0
+Wilson Isidor,Sunderland,46,0.0,,,,,0.0
+Aaron McGowan,Northampton Town,37,0.0,,,,,0.0
+Willum Thór Willumsson,Birmingham City,41,0.0,,,,,0.0
+William Forrester,Bolton Wanderers,30,0.0,,,,,0.0
+Kallum Cesay,Wealdstone,41,0.0,,,,,0.0
+Marc Leonard,Birmingham City,41,0.0,,,,,0.0
+Marc Roberts,Barnsley,39,0.0,,,,,0.0
+Marcel Lavinier,Forest Green Rovers,19,0.0,,,,,0.0
+Marcel Lavinier,Yeovil Town,10,0.0,,,,,0.0
+Marcel Oakley,Solihull Moors,29,0.0,,,,,0.0
+Marcelino Núñez,Norwich City,32,0.0,,,,,0.0
+Kal Naismith,Luton Town,14,0.0,,,,,0.0
+William Wright,Swindon Town,46,0.0,,,,,0.0
+Makhtar Gueye,Blackburn Rovers,46,0.0,,,,,0.0
+Maksym Talovierov,Plymouth Argyle,11,0.0,,,,,0.0
+Kamari Doyle,Exeter City,22,0.0,,,,,0.0
+Malachi Boateng,Plymouth Argyle,13,0.0,,,,,0.0
+Aaron Loupalo-Bi,Dagenham & Redbridge,20,0.0,,,,,0.0
+Malachi Dotse,Eastleigh,7,0.0,,,,,0.0
+Wouter Burger,Stoke City,42,0.0,,,,,0.0
+Malachi Walcott,York City,40,0.0,,,,,0.0
+Mandela Egbo,Colchester United,45,0.0,,,,,0.0
+Kamari Doyle,Crawley Town,22,0.0,,,,,0.0
+Maldini Kacurri,Bromley,6,0.0,,,,,0.0
+Maleace Asamoah,Wigan Athletic,19,0.0,,,,,0.0
+Malik Mothersille,Peterborough United,46,0.0,,,,,0.0
+Mallik Wilks,Rotherham United,41,0.0,,,,,0.0
+Malvind Benning,Shrewsbury Town,45,0.0,,,,,0.0
+Mamadi Camara,Reading,36,0.0,,,,,0.0
+Mamadou Diallo,Cheltenham Town,25,0.0,,,,,0.0
+Mamadou Doumbia,Watford,30,0.0,,,,,0.0
+Malcolm Ebiowei,Oxford United,15,0.0,,,,,0.0
+William Fish,Cardiff City,38,0.0,,,,,0.0
+Mark Beck,Gateshead,20,0.0,,,,,0.0
+Mark Cousins,Ebbsfleet United,44,0.0,,,,,0.0
+Mark Harris,Oxford United,46,0.0,,,,,0.0
+Mark Helm,Fleetwood Town,45,0.0,,,,,0.0
+Mark Howard,Wrexham,26,0.0,,,,,0.0
+Mark Kitching,Oldham Athletic,50,0.0,,,,,0.0
+Mark McGuinness,Luton Town,43,0.0,,,,,0.0
+William Mannion,Charlton Athletic,43,0.0,,,,,0.0
+Mark O’Mahony,Portsmouth,24,0.0,,,,,0.0
+Mark Shelton,Barnet,36,0.0,,,,,0.0
+Mark Sykes,Bristol City,28,0.0,,,,,0.0
+William Crellin,Accrington Stanley,38,0.0,,,,,0.0
+Mark Travers,Middlesbrough,17,0.0,,,,,0.0
+Marko Marosi,Plymouth Argyle,14,0.0,,,,,0.0
+Markus Ifill,Bromley,9,0.0,,,,,0.0
+Marley Marshall,Braintree Town,36,0.0,,,,,0.0
+Kaine Kesler Hayden,Preston North End,47,0.0,,,,,0.0
+Mark Oxley,Harrogate Town,46,0.0,,,,,0.0
+Marcus Browne,AFC Wimbledon,22,0.0,,,,,0.0
+Marcus Dackers,Morecambe,40,0.0,,,,,0.0
+Marcus Dackers,Salford City,3,0.0,,,,,0.0
+Marcus Dewhurst,Aldershot Town,46,0.0,,,,,0.0
+Marcus Dinanga,Bromley,8,0.0,,,,,0.0
+Kal Naismith,Bristol City,17,0.0,,,,,0.0
+William Jarvis,Notts County,24,0.0,,,,,0.0
+Marcus Edwards,Burnley,16,0.0,,,,,0.0
+Marcus Wyllie,Gillingham,15,0.0,,,,,0.0
+Marcus Etherington,Harrogate Town,5,0.0,,,,,0.0
+Marcus Forss,Middlesbrough,27,0.0,,,,,0.0
+Marcus McGuane,Bristol City,42,0.0,,,,,0.0
+Marcus Myers-Harness,Derby County,42,0.0,,,,,0.0
+William Jarvis,Hull City,8,0.0,,,,,0.0
+Kairo Mitchell,Rochdale,46,0.0,,,,,0.0
+William Hondermarck,Northampton Town,42,0.0,,,,,0.0
+Will Randall,Wealdstone,12,0.0,,,,,0.0
+Marcus Wyllie,Dagenham & Redbridge,10,0.0,,,,,0.0
+Aaron Morley,Bolton Wanderers,21,0.0,,,,,0.0
+Michael Adu-Poku,Watford,3,0.0,,,,,0.0
+Michael Baidoo,Plymouth Argyle,16,0.0,,,,,0.0
+Michael Bostwick,Boston United,19,0.0,,,,,0.0
+Will Blackmore,Peterborough United,20,0.0,,,,,0.0
+Will Armitage,Aldershot Town,21,0.0,,,,,0.0
+Michael Cheek,Bromley,45,0.0,,,,,0.0
+Michael Cooper,Sheffield United,47,0.0,,,,,0.0
+Michael Craig,Reading,30,0.0,,,,,0.0
+Will Alves,Leicester City,3,0.0,,,,,0.0
+Michael Forbes,Bristol Rovers,10,0.0,,,,,0.0
+Matthew Clarke,Middlesbrough,27,0.0,,,,,0.0
+Michael Frey,Queens Park Rangers,32,0.0,,,,,0.0
+Michael Ihiekwe,Sheffield Wednesday,30,0.0,,,,,0.0
+Michael Jacobs,Chesterfield,24,0.0,,,,,0.0
+Michael Johnston,West Bromwich Albion,42,0.0,,,,,0.0
+Michael Jones,Chesterfield,4,0.0,,,,,0.0
+Will Alves,Cardiff City,14,0.0,,,,,0.0
+Aaron Pressley,Barrow,21,0.0,,,,,0.0
+Will Aimson,Wigan Athletic,46,0.0,,,,,0.0
+Michael Kelly,Accrington Stanley,46,0.0,,,,,0.0
+Michael Mellon,Bradford City,21,0.0,,,,,0.0
+Michael Mellon,Stockport County,4,0.0,,,,,0.0
+Aaron Pierre,Shrewsbury Town,35,0.0,,,,,0.0
+Max Lowe,Sheffield Wednesday,38,0.0,,,,,0.0
+Max Metcalfe,Stockport County,7,0.0,,,,,0.0
+Max O'Leary,Bristol City,48,0.0,,,,,0.0
+Max Sanders,Crewe Alexandra,46,0.0,,,,,0.0
+Max Sheaf,Gateshead,10,0.0,,,,,0.0
+Max Taylor,Morecambe,34,0.0,,,,,0.0
+Max Thompson,Chesterfield,43,0.0,,,,,0.0
+Max Watters,Barnsley,31,0.0,,,,,0.0
+Max Wright,FC Halifax Town,22,0.0,,,,,0.0
+Aaron Pickles,Accrington Stanley,3,0.0,,,,,0.0
+Kaheim Dixon,Charlton Athletic,5,0.0,,,,,0.0
+Maximilian Wöber,Leeds United,26,0.0,,,,,0.0
+Maxwel Cornet,Southampton,5,0.0,,,,,0.0
+Maxwell Haygarth,Altrincham,13,0.0,,,,,0.0
+Maxwell Mullins,Aldershot Town,41,0.0,,,,,0.0
+Maxx Manktelow,Ebbsfleet United,28,0.0,,,,,0.0
+Micah Hamilton,Middlesbrough,27,0.0,,,,,0.0
+Micah Hamilton,Stockport County,13,0.0,,,,,0.0
+Micah Mbick,Charlton Athletic,9,0.0,,,,,0.0
+Micah Obiero,Wealdstone,41,0.0,,,,,0.0
+Michael Adu-Poku,Rochdale,11,0.0,,,,,0.0
+Michael Adu-Poku,Solihull Moors,12,0.0,,,,,0.0
+Maxime Estève,Burnley,46,0.0,,,,,0.0
+Wesley Fonguck,Ebbsfleet United,22,0.0,,,,,0.0
+Milan Aleksic,Sunderland,42,0.0,,,,,0.0
+Milan van Ewijk,Coventry City,47,0.0,,,,,0.0
+Miles Leaburn,Charlton Athletic,29,0.0,,,,,0.0
+Miles Welch-Hayes,Maidenhead United,34,0.0,,,,,0.0
+Mileta Rajovic,Watford,4,0.0,,,,,0.0
+Millenic Alli,Exeter City,25,0.0,,,,,0.0
+Millenic Alli,Luton Town,17,0.0,,,,,0.0
+Million Manhoef,Stoke City,35,0.0,,,,,0.0
+Milutin Osmajic,Preston North End,36,0.0,,,,,0.0
+Michael Morrison,Cambridge United,45,0.0,,,,,0.0
+Kadeem Harris,Carlisle United,30,0.0,,,,,0.0
+Mitchell Clark,Port Vale,22,0.0,,,,,0.0
+Mitchell Pinnock,Northampton Town,46,0.0,,,,,0.0
+Mitchell Roberts,Boston United,9,0.0,,,,,0.0
+Mo Faal,Wrexham,18,0.0,,,,,0.0
+Mo Fadera,York City,6,0.0,,,,,0.0
+Mohamed Belloumi,Hull City,10,0.0,,,,,0.0
+Wes Harding,Millwall,36,0.0,,,,,0.0
+Morgan Feeney,Shrewsbury Town,40,0.0,,,,,0.0
+Morgan Fox,Queens Park Rangers,35,0.0,,,,,0.0
+Aaron Ramsey,Cardiff City,8,0.0,,,,,0.0
+Miracle Okafor,Tamworth,21,0.0,,,,,0.0
+Michael Obafemi,Plymouth Argyle,32,0.0,,,,,0.0
+Michael Olakigbe,Chesterfield,14,0.0,,,,,0.0
+Michael Olakigbe,Wigan Athletic,14,0.0,,,,,0.0
+Michael Reindorf,Bristol Rovers,6,0.0,,,,,0.0
+Michael Reindorf,Cardiff City,7,0.0,,,,,0.0
+Michael Rose,Stoke City,34,0.0,,,,,0.0
+Michael Smith,Sheffield Wednesday,44,0.0,,,,,0.0
+Michael Smith,Yeovil Town,32,0.0,,,,,0.0
+Wilfried Kanga,Cardiff City,23,0.0,,,,,0.0
+Michael Spellman,Newport County,40,0.0,,,,,0.0
+Wesley Mcdonald,Eastleigh,9,0.0,,,,,0.0
+Michael Williams,Crewe Alexandra,41,0.0,,,,,0.0
+Aaron Pressley,Stevenage,6,0.0,,,,,0.0
+Michal Helik,Huddersfield Town,17,0.0,,,,,0.0
+Michal Helik,Oxford United,20,0.0,,,,,0.0
+Mickel Miller,Huddersfield Town,18,0.0,,,,,0.0
+Mickey Demetriou,Crewe Alexandra,35,0.0,,,,,0.0
+Miguel Freckleton,Swindon Town,29,0.0,,,,,0.0
+Mihailo Ivanovic,Millwall,41,0.0,,,,,0.0
+Mike Fondop-Talom,Oldham Athletic,49,0.0,,,,,0.0
+Wilfried Gnonto,Leeds United,47,0.0,,,,,0.0
+Mikey Faulkner,Southend United,10,0.0,,,,,0.0
+Michael Stickland,Reading,12,0.0,,,,,0.0
+Matt Taylor,Cheltenham Town,39,0.0,,,,,0.0
+Matt Ward,Woking,38,0.0,,,,,0.0
+Matt Worthington,Oldham Athletic,13,0.0,,,,,0.0
+Matt Worthington,Yeovil Town,24,0.0,,,,,0.0
+Matt Young,Salford City,43,0.0,,,,,0.0
+Matthew Baker,Newport County,42,0.0,,,,,0.0
+Matthew Bondswell,Hartlepool United,9,0.0,,,,,0.0
+Matthew Carson,Grimsby Town,15,0.0,,,,,0.0
+Matthew Clarke,Derby County,16,0.0,,,,,0.0
+Mai Traore,Notts County,15,0.0,,,,,0.0
+Max Kretzschmar,Wealdstone,43,0.0,,,,,0.0
+Matthew Cox,Crawley Town,3,0.0,,,,,0.0
+Matthew Craig,Barnsley,20,0.0,,,,,0.0
+Matthew Craig,Mansfield Town,6,0.0,,,,,0.0
+Matthew Dennis,Carlisle United,14,0.0,,,,,0.0
+Matthew Dennis,Rochdale,6,0.0,,,,,0.0
+Matthew Dibley-Dias,Northampton Town,3,0.0,,,,,0.0
+Will Keane,Preston North End,34,0.0,,,,,0.0
+Matthew Godden,Charlton Athletic,48,0.0,,,,,0.0
+Will Johnson,Fleetwood Town,4,0.0,,,,,0.0
+Kai Whitmore,Newport County,32,0.0,,,,,0.0
+Matthew Gould,Yeovil Town,46,0.0,,,,,0.0
+Kai Williams,Tamworth,23,0.0,,,,,0.0
+Mathew Stevens,AFC Wimbledon,49,0.0,,,,,0.0
+Mathew Warburton,Solihull Moors,24,0.0,,,,,0.0
+Will Randall,Ebbsfleet United,7,0.0,,,,,0.0
+Will Patching,Carlisle United,11,0.0,,,,,0.0
+Will Norris,Wycombe Wanderers,18,0.0,,,,,0.0
+Matt Butcher,Bristol Rovers,18,0.0,,,,,0.0
+Matt Butcher,Wycombe Wanderers,25,0.0,,,,,0.0
+Kaide Gordon,Portsmouth,13,0.0,,,,,0.0
+Matt Crooks,Hull City,18,0.0,,,,,0.0
+Kaide Gordon,Norwich City,19,0.0,,,,,0.0
+Matt Rush,Sutton United,16,0.0,,,,,0.0
+Matt Grimes,Swansea City,29,0.0,,,,,0.0
+Matt Ingram,Oxford United,46,0.0,,,,,0.0
+Matt Kerbey,Sutton United,13,0.0,,,,,0.0
+Matt Macey,Colchester United,46,0.0,,,,,0.0
+Will Norris,Portsmouth,9,0.0,,,,,0.0
+Matt Penney,Altrincham,8,0.0,,,,,0.0
+Will Mcgowan,Gateshead,26,0.0,,,,,0.0
+Matt Phillips,Oxford United,31,0.0,,,,,0.0
+Matt Ritchie,Portsmouth,47,0.0,,,,,0.0
+Matt Robinson,Braintree Town,44,0.0,,,,,0.0
+Will Lankshear,West Bromwich Albion,16,0.0,0.0,0.0,0.0,,0.0
+Matt Grimes,Coventry City,18,0.0,,,,,0.0
+Matús Holícek,Crewe Alexandra,40,0.0,,,,,0.0
+Kai Enslin,Charlton Athletic,3,0.0,,,,,0.0
+Will Goodwin,Wigan Athletic,6,0.0,,,,,0.0
+Max Anderson,Crawley Town,46,0.0,,,,,0.0
+Kai Corbett,Aldershot Town,47,0.0,,,,,0.0
+Max Bardell,AFC Fylde,26,0.0,,,,,0.0
+Will Goodwin,Oxford United,11,0.0,,,,,0.0
+Will Evans,Mansfield Town,41,0.0,,,,,0.0
+Max Bird,Bristol City,48,0.0,,,,,0.0
+Max Clark,Gillingham,44,0.0,,,,,0.0
+Matthew Hall,Bristol Rovers,21,0.0,,,,,0.0
+Max Conway,Crewe Alexandra,47,0.0,,,,,0.0
+Max Crocombe,Burton Albion,46,0.0,,,,,0.0
+Will De Havilland,Maidenhead United,41,0.0,,,,,0.0
+Kai Andrews,Coventry City,13,0.0,,,,,0.0
+Kahrel Reddin,Altrincham,48,0.0,,,,,0.0
+Max Dyche,Northampton Town,21,0.0,,,,,0.0
+Max Dyche,Woking,21,0.0,,,,,0.0
+Will Davies,Sutton United,46,0.0,,,,,0.0
+Max Ehmer,Gillingham,36,0.0,,,,,0.0
+Max Jolliffe,Colchester United,6,0.0,,,,,0.0
+Will Collar,Stockport County,43,0.0,,,,,0.0
+Max Cleworth,Wrexham,42,0.0,,,,,0.0
+Matthew Hudson,Oldham Athletic,38,0.0,,,,,0.0
+Matthew Kosylo,Altrincham,36,0.0,,,,,0.0
+Matthew Lund,Salford City,38,0.0,,,,,0.0
+Matthew Palmer,Notts County,45,0.0,,,,,0.0
+Matthew Pennington,Blackpool,37,0.0,,,,,0.0
+Matthew Platt,Notts County,47,0.0,,,,,0.0
+Matthew Pollock,Watford,45,0.0,,,,,0.0
+Matthew Smith,Wigan Athletic,19,0.0,,,,,0.0
+Matthew Sorinola,Plymouth Argyle,28,0.0,,,,,0.0
+Matthew Turner,Cardiff City,13,0.0,,,,,0.0
+Matthew Virtue-Thick,Fleetwood Town,41,0.0,,,,,0.0
+Will Grigg,Chesterfield,32,0.0,,,,,0.0
+Kai Payne,Oldham Athletic,4,0.0,,,,,0.0
+Kai Lassimore,Tamworth,6,0.0,,,,,0.0
+Will Jaaskelainen,Woking,43,0.0,,,,,0.0
+Matty Daly,Harrogate Town,22,0.0,,,,,0.0
+Matty Foulds,Harrogate Town,21,0.0,,,,,0.0
+Matty Jacob,Hull City,26,0.0,,,,,0.0
+Will Hugill,AFC Fylde,26,0.0,,,,,0.0
+Matty James,Wrexham,33,0.0,,,,,0.0
+Aaron Nemane,Milton Keynes Dons,45,0.0,,,,,0.0
+Matty Litherland,Blackburn Rovers,12,0.0,,,,,0.0
+Matty Pearson,Huddersfield Town,36,0.0,,,,,0.0
+Matthias Curley,Tamworth,24,0.0,,,,,0.0
+Lanre Balogun,Braintree Town,6,0.0,,,,,0.0
+Largie Ramazani,Leeds United,40,0.0,,,,,0.0
+Lars Jorgen Salvesen,Derby County,8,0.0,,,,,0.0
+Lasse Nordas,Luton Town,17,0.0,,,,,0.0
+Lasse Sorenson,Huddersfield Town,34,0.0,,,,,0.0
+Laurence Maguire,Milton Keynes Dons,30,0.0,,,,,0.0
+Laurie Walker,Solihull Moors,36,0.0,,,,,0.0
+Law Mccabe,Middlesbrough,26,0.0,,,,,0.0
+Lawrence Vigouroux,Swansea City,46,0.0,,,,,0.0
+Layton Stewart,Preston North End,10,0.0,,,,,0.0
+Luke McCormick,Forest Green Rovers,12,0.0,,,,,0.0
+Lee Buchanan,Birmingham City,3,0.0,,,,,0.0
+Zan Celar,Queens Park Rangers,19,0.0,,,,,0.0
+Kayden Jackson,Derby County,46,0.0,,,,,0.0
+Lee Burge,Northampton Town,37,0.0,,,,,0.0
+Zak Vyner,Bristol City,48,0.0,,,,,0.0
+Lee Evans,Blackpool,43,0.0,,,,,0.0
+Lee Gregory,Mansfield Town,20,0.0,,,,,0.0
+Lee Hodson,Eastleigh,40,0.0,,,,,0.0
+Lee Myung-Jae,Birmingham City,3,0.0,,,,,0.0
+Lee Ndlovu,Barnet,20,0.0,,,,,0.0
+Lee Nicholls,Huddersfield Town,29,0.0,,,,,0.0
+Lee Angol,Morecambe,26,0.0,,,,,0.0
+Kyle Joseph,Hull City,18,0.0,,,,,0.0
+Kyle Knoyle,Stockport County,24,0.0,,,,,0.0
+Kyle McAllister,Forest Green Rovers,46,0.0,,,,,0.0
+Kyle McFadzean,Blackburn Rovers,23,0.0,,,,,0.0
+Kyle McFadzean,Chesterfield,11,0.0,,,,,0.0
+Kyle Morrison,Solihull Moors,20,0.0,,,,,0.0
+Kyle Moseley,Solihull Moors,4,0.0,,,,,0.0
+Kayne Ramsay,Charlton Athletic,35,0.0,,,,,0.0
+Kyle Naughton,Swansea City,46,0.0,,,,,0.0
+Kyle Smith,Millwall,4,0.0,,,,,0.0
+Kyle Wootton,Stockport County,48,0.0,,,,,0.0
+Lamine Dabo,Luton Town,15,0.0,,,,,0.0
+Kyran Lofthouse,Barnsley,29,0.0,,,,,0.0
+Kyran Lofthouse,Burton Albion,16,0.0,,,,,0.0
+Kyreece Lisbie,Braintree Town,5,0.0,,,,,0.0
+Kyreece Lisbie,Colchester United,5,0.0,,,,,0.0
+Kyrell Lisbie,Braintree Town,48,0.0,,,,,0.0
+Kyrell Malcolm,Salford City,5,0.0,,,,,0.0
+Kyrell Wilson,Yeovil Town,15,0.0,,,,,0.0
+Kyron Gordon,Rochdale,39,0.0,,,,,0.0
+Kévin Keben,Watford,9,0.0,,,,,0.0
+Lachlan Byrd,Aldershot Town,25,0.0,,,,,0.0
+Zan Vipotnik,Swansea City,47,0.0,,,,,0.0
+Kylian Kouassi,Salford City,27,0.0,,,,,0.0
+Lewis Baines,Altrincham,37,0.0,,,,,0.0
+Lewis Baker,Blackburn Rovers,22,0.0,,,,,0.0
+Lewis Baker,Stoke City,21,0.0,,,,,0.0
+Lewis Banks,Altrincham,44,0.0,,,,,0.0
+Lewis Bate,Stockport County,34,0.0,,,,,0.0
+Lewis Billington,Crewe Alexandra,40,0.0,,,,,0.0
+Katia Kouyate,Barrow,25,0.0,,,,,0.0
+Lewis Brunt,Wrexham,25,0.0,,,,,0.0
+Lewis Cass,Grimsby Town,34,0.0,,,,,0.0
+Kasey Palmer,Hull City,30,0.0,,,,,0.0
+Lewis Dobbin,Norwich City,10,0.0,,,,,0.0
+Lee O'Connor,Tranmere Rovers,46,0.0,,,,,0.0
+Kasey Palmer,Coventry City,3,0.0,,,,,0.0
+Lewis Fiorini,Stockport County,14,0.0,,,,,0.0
+Lewis Freestone,Stevenage,44,0.0,,,,,0.0
+Lewis Gibson,Plymouth Argyle,19,0.0,,,,,0.0
+Lewis Gibson,Preston North End,20,0.0,,,,,0.0
+Lewis Gordon,Chesterfield,35,0.0,,,,,0.0
+Lewis Koumas,Stoke City,46,0.0,,,,,0.0
+Lewis Leigh,Bromley,22,0.0,,,,,0.0
+Lewis Leigh,FC Halifax Town,9,0.0,,,,,0.0
+Lewis Macari,Notts County,37,0.0,,,,,0.0
+Yuri Ribeiro,Blackburn Rovers,15,0.0,,,,,0.0
+Lewis Dobbin,West Bromwich Albion,23,0.0,,,,,0.0
+Zak Swanson,Portsmouth,34,0.0,,,,,0.0
+Lenell John-Lewis,York City,41,0.0,,,,,0.0
+Kayden Hughes,Fleetwood Town,24,0.0,,,,,0.0
+Lennon Dobson,Morecambe,7,0.0,,,,,0.0
+Lennon Wheeldon,Boston United,3,0.0,,,,,0.0
+Lennon Wheeldon,Derby County,7,0.0,,,,,0.0
+Kayden Harrack,Morecambe,12,0.0,,,,,0.0
+Leo Castledine,Shrewsbury Town,23,0.0,,,,,0.0
+Leo Duru,Barrow,8,0.0,,,,,0.0
+Leo Duru,Blackburn Rovers,6,0.0,,,,,0.0
+Leo Fuhr Hjelde,Sunderland,45,0.0,,,,,0.0
+Lewie Coyle,Hull City,44,0.0,,,,,0.0
+Leon Ayinde,Rochdale,30,0.0,,,,,0.0
+Zak Sturge,Millwall,9,0.0,,,,,0.0
+Leon Chambers-Parillon,Southend United,21,0.0,,,,,0.0
+Leon Phillips,Tamworth,26,0.0,,,,,0.0
+Kayden Harrack,Dagenham & Redbridge,21,0.0,,,,,0.0
+Levi Amantchi,Bromley,24,0.0,,,,,0.0
+Levi Amantchi,Walsall,22,0.0,,,,,0.0
+Zac Bell,Maidenhead United,6,0.0,,,,,0.0
+Levi Laing,Aldershot Town,4,0.0,,,,,0.0
+Levi Laing,Cheltenham Town,15,0.0,,,,,0.0
+Levi Sutton,Harrogate Town,32,0.0,,,,,0.0
+Leo Ramirez-Espain,Watford,12,0.0,,,,,0.0
+Kevin Berkoe,Salford City,20,0.0,,,,,0.0
+Aaron Flahavan,Solihull Moors,38,0.0,,,,,0.0
+Kevin Lokko,Maidenhead United,27,0.0,,,,,0.0
+Kevin McDonald,Exeter City,16,0.0,,,,,0.0
+Zion Nditi,Aldershot Town,3,0.0,,,,,0.0
+Kgagelo Chauke,Burton Albion,38,0.0,,,,,0.0
+Kian Best,Preston North End,13,0.0,,,,,0.0
+Kian Breckin,Crewe Alexandra,16,0.0,,,,,0.0
+Kian Foreman,Hartlepool United,4,0.0,,,,,0.0
+Kian Harratt,Fleetwood Town,20,0.0,,,,,0.0
+Kian Harratt,Oldham Athletic,11,0.0,,,,,0.0
+Kyle Joseph,Blackpool,24,0.0,,,,,0.0
+Kian Spence,Barrow,32,0.0,,,,,0.0
+Kian Taylor,Altrincham,5,0.0,,,,,0.0
+Kiban Rai,Newport County,6,0.0,,,,,0.0
+Kieffer Moore,Sheffield United,36,0.0,,,,,0.0
+Kieran Coates,Boston United,23,0.0,,,,,0.0
+Kieran Dowell,Birmingham City,20,0.0,,,,,0.0
+Kieran Flavell,Barnsley,14,0.0,,,,,0.0
+Kieran Green,Grimsby Town,39,0.0,,,,,0.0
+Kieran Morgan,Queens Park Rangers,40,0.0,,,,,0.0
+Kieran Sadlier,Wycombe Wanderers,13,0.0,,,,,0.0
+Keaton Ward,Boston United,48,0.0,,,,,0.0
+Kian Ryley,Solihull Moors,21,0.0,,,,,0.0
+Keenan Appiah-Forson,Southend United,44,0.0,,,,,0.0
+Keenan Patten,Newport County,10,0.0,,,,,0.0
+Kelechi Iheanacho,Middlesbrough,16,0.0,,,,,0.0
+Kelechi Nwakali,Barnsley,36,0.0,,,,,0.0
+Kellan Gordon,Notts County,35,0.0,,,,,0.0
+Kelland Watts,Cambridge United,38,0.0,,,,,0.0
+Kellen Fisher,Norwich City,42,0.0,,,,,0.0
+Kelly N'Mai,Salford City,33,0.0,,,,,0.0
+Kelsey Mooney,Accrington Stanley,30,0.0,,,,,0.0
+Kelvin Abrefa,Reading,30,0.0,,,,,0.0
+Kelvin Ehibhatiomhan,Reading,34,0.0,,,,,0.0
+Keshi Anderson,Birmingham City,37,0.0,,,,,0.0
+Ken Sema,Watford,17,0.0,,,,,0.0
+Kennedy Digie,Tamworth,41,0.0,,,,,0.0
+Kenneth Aboh,Colchester United,9,0.0,,,,,0.0
+Kenneth Aboh,Norwich City,3,0.0,,,,,0.0
+Aaron Jarvis,Yeovil Town,30,0.0,,,,,0.0
+Kenneth Aboh,Stevenage,7,0.0,,,,,0.0
+Kenneth Paal,Queens Park Rangers,39,0.0,,,,,0.0
+Kenny McLean,Norwich City,34,0.0,,,,,0.0
+Kenton Richardson,Gateshead,16,0.0,,,,,0.0
+Kenzo Goudmijn,Derby County,46,0.0,,,,,0.0
+Aaron Drinan,Swindon Town,31,0.0,,,,,0.0
+Kemar Roofe,Derby County,4,0.0,,,,,0.0
+Kristi Montgomery,Blackburn Rovers,5,0.0,,,,,0.0
+Kristian Dennis,Tranmere Rovers,43,0.0,,,,,0.0
+Kazenga Lua Lua,Hartlepool United,9,0.0,,,,,0.0
+Kristian Pedersen,Swansea City,6,0.0,,,,,0.0
+Zane Okoro,Lincoln City,7,0.0,,,,,0.0
+Krystian Bielik,Birmingham City,33,0.0,,,,,0.0
+Kusini Yengi,Portsmouth,16,0.0,,,,,0.0
+Kwadwo Baah,Watford,29,0.0,,,,,0.0
+Kwame Poku,Peterborough United,27,0.0,,,,,0.0
+Kwame Thomas,Aldershot Town,8,0.0,,,,,0.0
+Kwame Thomas,Ebbsfleet United,31,0.0,,,,,0.0
+Zico Asare,Harrogate Town,37,0.0,,,,,0.0
+Kyle Cameron,Barrow,22,0.0,,,,,0.0
+Kyle Dempsey,Bolton Wanderers,15,0.0,,,,,0.0
+Kyle Edwards,Oxford United,8,0.0,,,,,0.0
+Kyle Edwards,Stevenage,11,0.0,,,,,0.0
+Kyle Ferguson,Rochdale,38,0.0,,,,,0.0
+Kyle Ferguson,Yeovil Town,4,0.0,,,,,0.0
+Kyle Finn,Tamworth,34,0.0,,,,,0.0
+Kyle Hudlin,Newport County,31,0.0,,,,,0.0
+Kyle Hurst,Doncaster Rovers,22,0.0,,,,,0.0
+Kyle Jameson,Newport County,29,0.0,,,,,0.0
+Kyle John,Port Vale,28,0.0,,,,,0.0
+Kyle Bartley,West Bromwich Albion,33,0.0,,,,,0.0
+Kieran Wallace,Tamworth,7,0.0,,,,,0.0
+Zian Flemming,Burnley,37,0.0,,,,,0.0
+Zeno Rossi,Cambridge United,24,0.0,,,,,0.0
+Kieron Evans,Newport County,39,0.0,,,,,0.0
+Kieron Freeman,Hartlepool United,11,0.0,,,,,0.0
+Kieron Morris,Tranmere Rovers,32,0.0,,,,,0.0
+Killian Barrett,Rochdale,10,0.0,,,,,0.0
+Killian Barrett,Solihull Moors,8,0.0,,,,,0.0
+Keanu Baccus,Mansfield Town,39,0.0,,,,,0.0
+Kion Etete,Bolton Wanderers,7,0.0,,,,,0.0
+Kitt Nelson,Preston North End,4,0.0,,,,,0.0
+Zavier Massiah-Edwards,Watford,7,0.0,,,,,0.0
+Kobei Moore,Fleetwood Town,16,0.0,,,,,0.0
+Kofi Shaw,Bristol Rovers,20,0.0,,,,,0.0
+Kofi Shaw,Yeovil Town,16,0.0,,,,,0.0
+Koji Miyoshi,Birmingham City,3,0.0,,,,,0.0
+Aaron Jones,Aldershot Town,37,0.0,,,,,0.0
+Koki Saito,Queens Park Rangers,39,0.0,,,,,0.0
+Korey Smith,Cambridge United,23,0.0,,,,,0.0
+Zech Obiero,Leyton Orient,20,0.0,,,,,0.0
+Keane Anderson,Aldershot Town,11,0.0,,,,,0.0
+Kornel Szucs,Plymouth Argyle,40,0.0,,,,,0.0
+Zech Medley,Fleetwood Town,8,0.0,,,,,0.0
+Klaidi Lolos,Bolton Wanderers,35,0.0,,,,,0.0
+Luke Armstrong,Carlisle United,21,0.0,,,,,0.0
+Luke Ayling,Middlesbrough,30,0.0,,,,,0.0
+Luke Bell,Coventry City,3,0.0,,,,,0.0
+Luke Berry,Charlton Athletic,45,0.0,,,,,0.0
+Luke Bolton,Wrexham,6,0.0,,,,,0.0
+Luke Brennan,AFC Fylde,9,0.0,,,,,0.0
+Luke Chambers,Wigan Athletic,13,0.0,,,,,0.0
+Kane Richardson,Rotherham United,4,0.0,,,,,0.0
+Luke Charman,Hartlepool United,45,0.0,,,,,0.0
+Luke Cundle,Millwall,17,0.0,,,,,0.0
+Lewis Montsma,Lincoln City,29,0.0,,,,,0.0
+Luke Daniels,Barrow,3,0.0,,,,,0.0
+Luke Dreher,Wealdstone,7,0.0,,,,,0.0
+Luke Fairlamb,Tamworth,29,0.0,,,,,0.0
+Luke Faxon,Sheffield United,10,0.0,,,,,0.0
+Luke Garbutt,Salford City,42,0.0,,,,,0.0
+Luke Hannant,Gateshead,44,0.0,,,,,0.0
+Luke Harris,Birmingham City,35,0.0,,,,,0.0
+Luke Hendrie,Morecambe,34,0.0,,,,,0.0
+Kane Hemmings,Crewe Alexandra,20,0.0,,,,,0.0
+Yan Valery,Sheffield Wednesday,41,0.0,,,,,0.0
+Kane Ferdinand,Maidenhead United,19,0.0,,,,,0.0
+Yang Min-Hyeok,Queens Park Rangers,16,0.0,,,,,0.0
+Luca Woodhouse,Aldershot Town,20,0.0,,,,,0.0
+Luca Woodhouse,Dagenham & Redbridge,21,0.0,,,,,0.0
+Lucas Akins,Mansfield Town,35,0.0,,,,,0.0
+Lucas Andersen,Queens Park Rangers,35,0.0,,,,,0.0
+Kane Vincent-Young,Colchester United,11,0.0,,,,,0.0
+Yousef Salech,Cardiff City,20,0.0,,,,,0.0
+Lucas Caugnari,Braintree Town,23,0.0,,,,,0.0
+Yerson Mosquera,Wolverhampton Wanderers,5,0.0,,,,2.0,0.0
+Lucas Ness,Notts County,11,0.0,,,,,0.0
+Lucas Pires,Burnley,46,0.0,,,,,0.0
+Lucas Sant,Crewe Alexandra,3,0.0,,,,,0.0
+Kane Smith,Stevenage,20,0.0,,,,,0.0
+Yasser Larouci,Watford,41,0.0,,,,,0.0
+Lucas Weaver,Altrincham,26,0.0,,,,,0.0
+Lucien Mahovo,Norwich City,11,0.0,,,,,0.0
+Ludwig Francillette,Eastleigh,44,0.0,,,,,0.0
+Luey Giles,Cardiff City,8,0.0,,,,,0.0
+Luis Binks,Coventry City,48,0.0,,,,,0.0
+Yann Songo'o,Morecambe,44,0.0,,,,,0.0
+Luis Fernandez,Eastleigh,46,0.0,,,,,0.0
+Lukas Engel,Middlesbrough,9,0.0,,,,,0.0
+Lukas Jensen,Millwall,41,0.0,,,,,0.0
+Lukas Jutkiewicz,Birmingham City,23,0.0,,,,,0.0
+Kane Thompson-Sommers,Milton Keynes Dons,29,0.0,,,,,0.0
+Luke Thomas,Bristol Rovers,39,0.0,,,,1.5,0.0
+Kamarl Grant,Bromley,43,0.0,,,,,0.0
+Luke Waterfall,Hartlepool United,33,0.0,,,,,0.0
+Luke Woolston,Middlesbrough,8,0.0,,,,,0.0
+Luke Young,Cheltenham Town,34,0.0,,,,,0.0
+Luther Wildin,Stevenage,29,0.0,,,,,0.0
+Lyle Foster,Burnley,28,0.0,,,,,0.0
+Lyle Taylor,Colchester United,39,0.0,,,,,0.0
+Lynden Gooch,Stoke City,26,0.0,,,,,0.0
+Lyndon Dykes,Birmingham City,25,0.0,,,,,0.0
+Macaulay Gillesphey,Charlton Athletic,47,0.0,,,,,0.0
+Luke Hewitson,Fleetwood Town,26,0.0,,,,,0.0
+Macauley Bonne,Southend United,43,0.0,,,,,0.0
+Macauley Southam,Stockport County,17,0.0,,,,,0.0
+Mackenzie Hunt,Fleetwood Town,41,0.0,,,,,0.0
+Madou Cisse,Notts County,20,0.0,,,,,0.0
+Mads Andersen,Luton Town,26,0.0,,,,,0.0
+Mads Frökjaer,Preston North End,40,0.0,,,,,0.0
+Xavier Simons,Hull City,24,0.0,,,,,0.0
+Mael Durand De Gevigney,Barnsley,39,0.0,,,,,0.0
+Magnus Westergaard,Wycombe Wanderers,7,0.0,,,,,0.0
+Wyll Stanway,Barrow,41,0.0,,,,,0.0
+Mahamadou Susoho,Peterborough United,16,0.0,,,,,0.0
+Macaulay Langstaff,Millwall,37,0.0,,,,,0.0
+Luke Hutchinson,Bolton Wanderers,5,0.0,,,,,0.0
+Luke Jenkins,Aldershot Town,13,0.0,,,,,0.0
+Luke Jephcott,Newport County,18,0.0,,,,,0.0
+Luke Leahy,Wycombe Wanderers,42,0.0,,,,,0.0
+Luke Mbete,Northampton Town,14,0.0,,,,,0.0
+Luke McCormick,Bristol Rovers,24,0.0,,,,,0.0
+Luke McGee,Tranmere Rovers,46,0.0,,,,,0.0
+Luke McNally,Bristol City,27,0.0,,,,,0.0
+Yakou Meite,Cardiff City,38,0.0,,,,,0.0
+Yacouba Traore,Wealdstone,10,0.0,,,,,0.0
+Luke McNally,Burnley,3,0.0,,,,,0.0
+Luke Southwood,Bolton Wanderers,40,0.0,,,,,0.0
+Luke McNicholas,Rochdale,10,0.0,,,,,0.0
+Kane Drummond,Oldham Athletic,7,0.0,,,,,0.0
+Kane Drummond,Chesterfield,16,0.0,,,,,0.0
+Luke Molyneux,Doncaster Rovers,45,0.0,,,,,0.0
+Luke Norris,Tranmere Rovers,14,0.0,,,,,0.0
+Luke O'Neill,Ebbsfleet United,25,0.0,,,,,0.0
+Luke O'Nien,Sunderland,48,0.0,,,,,0.0
+Luke Offord,Milton Keynes Dons,42,0.0,,,,,0.0
+Luke Pearce,Cardiff City,3,0.0,,,,,0.0
+Kamil Conteh,Bristol Rovers,19,0.0,,,,,0.0
+Luke Robinson,Wigan Athletic,28,0.0,,,,,0.0
+Xavier Simons,Wycombe Wanderers,16,0.0,,,,,0.0
+Liam Fraser,Crawley Town,16,0.0,,,,,0.0
+Liam Gibbs,Norwich City,12,0.0,,,,,0.0
+Liam Gibson,Harrogate Town,19,0.0,,,,,0.0
+Liam Gordon,Walsall,47,0.0,,,,,0.0
+Liam Hogan,Oldham Athletic,10,0.0,,,,,0.0
+Liam Hogan,Rochdale,31,0.0,,,,,0.0
+Yu Hirakawa,Bristol City,45,0.0,,,,,0.0
+Liam Humbles,Altrincham,14,0.0,,,,,0.0
+Liam Humbles,Gateshead,24,0.0,,,,,0.0
+Liam Isherwood,Accrington Stanley,7,0.0,,,,,0.0
+Liam Jessop,Chesterfield,5,0.0,,,,,0.0
+Luca Thomas,York City,10,0.0,,,,,0.0
+Liam Kelly,Rotherham United,28,0.0,,,,,0.0
+Liam Kinsella,Cheltenham Town,41,0.0,,,,,0.0
+Liam Kitching,Coventry City,46,0.0,,,,,0.0
+Liam Lindsay,Preston North End,39,0.0,,,,,0.0
+Liam Mandeville,Chesterfield,45,0.0,,,,,0.0
+Liam McCarron,Northampton Town,24,0.0,,,,,0.0
+Liam Millar,Hull City,11,0.0,,,,,0.0
+Liam Morrison,Queens Park Rangers,31,0.0,,,,,0.0
+Liam Palmer,Sheffield Wednesday,36,0.0,,,,,0.0
+Liam Roberts,Millwall,34,0.0,,,,,0.0
+Liam Sercombe,Forest Green Rovers,42,0.0,,,,,0.0
+Liam Kelly,Milton Keynes Dons,42,0.0,,,,,0.0
+Lewis O'Brien,Swansea City,16,0.0,,,,,0.0
+Lewis O'Donnell,Cheltenham Town,6,0.0,,,,,0.0
+Lewis Page,Ebbsfleet United,19,0.0,,,,,0.0
+Lewis Payne,Cheltenham Town,18,0.0,,,,,0.0
+Lewis Richards,York City,3,0.0,,,,,0.0
+Lewis Richardson,Bradford City,25,0.0,,,,,0.0
+Lewis Richardson,York City,17,0.0,,,,,0.0
+Lewis Shipley,Cheltenham Town,8,0.0,,,,,0.0
+Lewis Simper,Sutton United,40,0.0,,,,,0.0
+Lewis Travis,Blackburn Rovers,38,0.0,,,,,0.0
+Lewis Trickett,Accrington Stanley,4,0.0,,,,,0.0
+Liam Dulson,Cheltenham Town,40,0.0,,,,,0.0
+Lewis Ward,AFC Wimbledon,49,0.0,,,,,0.0
+Lewis Warrington,Leyton Orient,14,0.0,,,,,0.0
+Lewis Warrington,Salford City,20,0.0,,,,,0.0
+Lewis Webb,Newport County,24,0.0,,,,,0.0
+Lewis Wing,Reading,46,0.0,,,,,0.0
+Lewys Twamley,Yeovil Town,18,0.0,,,,,0.0
+Li-Bau Stowell,Preston North End,8,0.0,,,,,0.0
+Liam Bennett,Cambridge United,46,0.0,,,,,0.0
+Liam Coyle,Accrington Stanley,37,0.0,,,,,0.0
+Yuki Ohashi,Blackburn Rovers,39,0.0,,,,,0.0
+Liam Cullen,Swansea City,43,0.0,,,,,0.0
+Lewis Walker,Woking,44,0.0,,,,,0.0
+Louie Marsh,Sheffield United,13,0.0,,,,,0.0
+Louie Sibley,Oxford United,20,0.0,,,,,0.0
+Louie Sibley,Rotherham United,21,0.0,,,,,0.0
+Louie Watson,Crawley Town,7,0.0,,,,,0.0
+Louis Appere,Stevenage,21,0.0,,,,,0.0
+Louis Chadwick,Cambridge United,4,0.0,,,,,0.0
+Louis Dennis,Bromley,26,0.0,,,,,0.0
+Louis Flower,Gateshead,4,0.0,,,,,0.0
+Louis Jackson,Tranmere Rovers,3,0.0,,,,,0.0
+Louis John,Ebbsfleet United,17,0.0,,,,,0.0
+Louis Jones,Dagenham & Redbridge,11,0.0,,,,,0.0
+Liam Shaw,Fleetwood Town,13,0.0,,,,,0.0
+Louis Stephenson,Hartlepool United,20,0.0,,,,,0.0
+Louis Storey,Gateshead,11,0.0,,,,,0.0
+Louis Thompson,Stevenage,41,0.0,,,,,0.0
+Luca Ashby-Hammond,Gillingham,13,0.0,,,,,0.0
+Luca Barrington,Grimsby Town,43,0.0,,,,,0.0
+Luca Connell,Barnsley,41,0.0,,,,,0.0
+Luca Gunter,Wealdstone,20,0.0,,,,,0.0
+Luca Hoole,Shrewsbury Town,42,0.0,,,,,0.0
+Luca Koleosho,Burnley,39,0.0,,,,,0.0
+Luca Moore,Crewe Alexandra,4,0.0,,,,,0.0
+Luca Thomas,FC Halifax Town,21,0.0,,,,,0.0
+Louis Reed,Mansfield Town,41,0.0,,,,,0.0
+Karoy Anderson,Charlton Athletic,44,0.0,,,,,0.0
+Liam Shaw,Northampton Town,8,0.0,,,,,0.0
+Liam Shephard,Salford City,24,0.0,,,,,0.0
+Liam Thompson,Derby County,36,0.0,,,,,0.0
+Liam Walsh,Luton Town,33,0.0,,,,,0.0
+Liam Webber,Eastleigh,3,0.0,,,,,0.0
+Karlan Grant,West Bromwich Albion,44,0.0,,,,,0.0
+Lincoln,Hull City,14,0.0,,,,,0.0
+Lincoln Mcfayden,AFC Fylde,35,0.0,,,,,0.0
+Karl Darlow,Leeds United,46,0.0,,,,,0.0
+Lino Sousa,Bristol Rovers,27,0.0,,,,,0.0
+Louie Marsh,Fleetwood Town,17,0.0,,,,,0.0
+Lloyd Humphries,Eastleigh,42,0.0,,,,,0.0
+Lloyd Jones,Charlton Athletic,39,0.0,,,,,0.0
+Loick Ayina,Huddersfield Town,6,0.0,,,,,0.0
+Lorent Tolaj,Port Vale,40,0.0,,,,,0.0
+Louie Annesley,Braintree Town,43,0.0,,,,,0.0
+Louie Barry,Hull City,4,0.0,,,,,0.0
+Aaron Lewis,Mansfield Town,42,0.0,,,,,0.0
+Kane Wilson,Derby County,34,0.0,,,,,0.0
+Louie Barry,Stockport County,23,0.0,,,,,0.0
+Louie Fallon,Altrincham,8,0.0,,,,,0.0
+Louie Holzman,Reading,20,0.0,,,,,0.0
+Karamoko Dembele,Queens Park Rangers,23,0.0,,,,,0.0
+Sam Smith,Wrexham,18,0.0,,,,,0.0
+Sam Stubbs,Cheltenham Town,41,0.0,,,,,0.0
+Sam Tickle,Wigan Athletic,46,0.0,,,,,0.0
+Sam Vokes,Wycombe Wanderers,9,0.0,,,,,0.0
+Sam Walker,Bradford City,46,0.0,,,,,0.0
+Sam Waller,Rochdale,20,0.0,,,,,0.0
+Samson Tovide,Colchester United,29,0.0,,,,,0.0
+Samuel Barnes,Barrow,7,0.0,,,,,0.0
+Samuel Iling-Junior,Middlesbrough,17,0.0,,,,,0.0
+Samuel Osborne,Boston United,25,0.0,,,,,0.0
+Samuel Reed,Boston United,4,0.0,,,,,0.0
+Neill Byrne,Bradford City,31,0.0,,,,,0.0
+Samuel Silvera,Portsmouth,18,0.0,,,,,0.0
+Samuel Taylor,Oldham Athletic,3,0.0,,,,,0.0
+Samuel Taylor,Tranmere Rovers,20,0.0,,,,,0.0
+Samy Chouchane,Northampton Town,27,0.0,,,,,0.0
+Tomoki Iwata,Birmingham City,40,0.0,,,,,0.0
+Tommy Simkin,Walsall,47,0.0,,,,,0.0
+Scott Arfield,Bolton Wanderers,22,0.0,,,,,0.0
+Scott Bennett,Cheltenham Town,29,0.0,,,,,0.0
+Tommy Setford,Arsenal,3,0.0,,,,,0.0
+Scott Flinders,Mansfield Town,46,0.0,,,,,0.0
+Scott High,FC Halifax Town,22,0.0,,,,,0.0
+Scott Hogan,Milton Keynes Dons,33,0.0,,,,,0.0
+Samuel Silvera,Blackpool,18,0.0,,,,,0.0
+Sam Hart,Port Vale,25,0.0,,,,,0.0
+Sam Hetherington,Carlisle United,5,0.0,,,,,0.0
+Sam Hornby,Walsall,49,0.0,,,,,0.0
+Sam Hoskins,Northampton Town,37,0.0,,,,,0.0
+Sam Howes,Leyton Orient,5,0.0,,,,,0.0
+Sam Howes,Maidenhead United,6,0.0,,,,,0.0
+Sam Howes,Wealdstone,8,0.0,,,,,0.0
+Sam Hughes,Peterborough United,19,0.0,,,,,0.0
+Sam Hughes,Stockport County,13,0.0,,,,,0.0
+Sam Hutchinson,AFC Wimbledon,20,0.0,,,,,0.0
+Sam Inwood,Bolton Wanderers,6,0.0,,,,,0.0
+Sam Smith,Reading,25,0.0,,,,,0.0
+Sam Lavelle,Carlisle United,40,0.0,,,,,0.0
+Sam Ling,Dagenham & Redbridge,18,0.0,,,,,0.0
+Sam Long,Bromley,46,0.0,,,,,0.0
+Sam Long,Oxford United,43,0.0,,,,,0.0
+Sam Mather,Tranmere Rovers,6,0.0,,,,,0.0
+Sam McCallum,Sheffield United,48,0.0,,,,,0.0
+Sam Nombe,Rotherham United,43,0.0,,,,,0.0
+Sam Parker,Swansea City,16,0.0,,,,,0.0
+Sam Pearson,Yeovil Town,16,0.0,,,,,0.0
+Sam Roberts,Sutton United,4,0.0,,,,,0.0
+Sam Sherring,Milton Keynes Dons,12,0.0,,,,,0.0
+Sam Slocombe,Notts County,44,0.0,,,,,0.0
+Sam Johnson,FC Halifax Town,39,0.0,,,,,0.0
+Sebastian Stacey,Milton Keynes Dons,3,0.0,,,,,0.0
+Semi Ajayi,West Bromwich Albion,17,0.0,,,,,0.0
+Tommy Backwell,Cheltenham Town,15,0.0,,,,,0.0
+Seny Dieng,Middlesbrough,20,0.0,,,,,0.0
+Tommi O'Reilly,Shrewsbury Town,20,0.0,,,,,0.0
+Sha'Mar Lawson,Ebbsfleet United,6,0.0,,,,,0.0
+Sha'Mar Lawson,Woking,9,0.0,,,,,0.0
+Shadrach Ogie,Gillingham,39,0.0,,,,,0.0
+Shamal George,Wycombe Wanderers,21,0.0,,,,,0.0
+Shandon Baptiste,Luton Town,17,0.0,,,,,0.0
+Shane Duffy,Norwich City,46,0.0,,,,,0.0
+Scott Malone,Cambridge United,8,0.0,,,,,0.0
+Shaqai Forde,Bristol Rovers,34,0.0,,,,,0.0
+Shaun Hobson,Oldham Athletic,32,0.0,,,,,0.0
+Shaun Hutchinson,Millwall,21,0.0,,,,,0.0
+Shaun MacDonald,Exeter City,32,0.0,,,,,0.0
+Shaun McWilliams,Rotherham United,29,0.0,,,,,0.0
+Shaun Rooney,Fleetwood Town,19,0.0,,,,,0.0
+Shaun Whalley,Accrington Stanley,33,0.0,,,,,0.0
+Shawn Mccoulsky,Maidenhead United,46,0.0,,,,,0.0
+Shayne Lavery,Cambridge United,15,0.0,,,,,0.0
+Shea Charles,Sheffield Wednesday,43,0.0,,,,,0.0
+Shea Connor,Middlesbrough,4,0.0,,,,,0.0
+Sheldon Kendall,Millwall,4,0.0,,,,,0.0
+Shane McLoughlin,Newport County,36,0.0,,,,,0.0
+Scott Maloney,Oldham Athletic,24,0.0,,,,,0.0
+Scott Quigley,Eastleigh,24,0.0,,,,,0.0
+Scott Robertson,Notts County,10,0.0,,,,,0.0
+Scott Sinclair,Bristol Rovers,45,0.0,,,,,0.0
+Scott Smith,Wigan Athletic,40,0.0,,,,,0.0
+Scott Twine,Bristol City,37,0.0,,,,,0.0
+Scott Wright,Birmingham City,15,0.0,,,,,0.0
+Tommy Scott,Eastleigh,46,0.0,,,,,0.0
+Seamus Conneely,Accrington Stanley,33,0.0,,,,,0.0
+Sean Clare,Leyton Orient,32,0.0,,,,,0.0
+Sean Fusire,Carlisle United,16,0.0,,,,,0.0
+Sean Long,Forest Green Rovers,43,0.0,,,,,0.0
+Sebastian Revan,Wrexham,37,0.0,,,,,0.0
+Sean McLoughlin,Hull City,46,0.0,,,,,0.0
+Sean Mcgurk,Swindon Town,11,0.0,,,,,0.0
+Sean Mcgurk,Yeovil Town,12,0.0,,,,,0.0
+Tommy Mcdermott,Burnley,3,0.0,,,,,0.0
+Sean Raggett,Rotherham United,11,0.0,,,,,0.0
+Tommy Leigh,Milton Keynes Dons,15,0.0,,,,,0.0
+Sean Roughan,Lincoln City,46,0.0,,,,,0.0
+Tommy Leigh,Bradford City,16,0.0,,,,,0.0
+Sean Tarima,FC Halifax Town,10,0.0,,,,,0.0
+Sebastian Auton,Grimsby Town,25,0.0,,,,,0.0
+Tommy Conway,Middlesbrough,37,0.0,,,,,0.0
+Sebastian Quirk,Accrington Stanley,19,0.0,,,,,0.0
+Tommy Reid,Charlton Athletic,10,0.0,,,,,0.0
+Ryan Colclough,Chesterfield,38,0.0,,,,,0.0
+Ryan Cooney,Crewe Alexandra,40,0.0,,,,,0.0
+Ryan Croasdale,Port Vale,45,0.0,,,,,0.0
+Ryan De Havilland,Peterborough United,33,0.0,,,,,0.0
+Ryan Delaney,Swindon Town,24,0.0,,,,,0.0
+Ryan Doherty,Stevenage,4,0.0,,,,,0.0
+Ryan East,Rochdale,40,0.0,,,,,0.0
+Ryan Fallowfield,York City,33,0.0,,,,,0.0
+Ryan Finnigan,Blackpool,12,0.0,,,,,0.0
+Ryan Fraser,Southampton,13,0.0,,,,0.12000000000000001,0.0
+Ryan Galvin,FC Halifax Town,38,0.0,,,,,0.0
+Sam Greenwood,Preston North End,39,0.0,,,,,0.0
+Ryan Giles,Middlesbrough,17,0.0,,,,,0.0
+Ryan Glover,Barnet,42,0.0,,,,,0.0
+Travis Patterson,Milton Keynes Dons,9,0.0,,,,,0.0
+Ryan Graydon,Fleetwood Town,34,0.0,,,,,0.0
+Ryan Hardie,Plymouth Argyle,38,0.0,,,,,0.0
+Trai Hume,Sunderland,47,0.0,,,,,0.0
+Ryan Haynes,Cheltenham Town,14,0.0,,,,,0.0
+Ryan Hedges,Blackburn Rovers,44,0.0,,,,,0.0
+Ryan Hill,Dagenham & Redbridge,42,0.0,,,,,0.0
+Ryan Inniss,Forest Green Rovers,42,0.0,,,,,0.0
+Ryan Jackson,Sutton United,30,0.0,,,,,0.0
+Ryan Johnson,AFC Wimbledon,43,0.0,,,,,0.0
+Ryan Giles,Hull City,25,0.0,,,,,0.0
+Roshaun Mathurin,Hartlepool United,16,0.0,,,,,0.0
+Ross McCrorie,Bristol City,27,0.0,,,,,0.0
+Ross Millen,Morecambe,26,0.0,,,,,0.0
+Ross Stewart,Southampton,12,0.0,,,,,0.0
+Ruairi Mcconville,Norwich City,16,0.0,,,,,0.0
+Ruari Paton,Port Vale,24,0.0,,,,,0.0
+Ruben Carvalho,Maidenhead United,26,0.0,,,,,0.0
+Ruben Rodrigues,Oxford United,47,0.0,,,,,0.0
+Ruben Roosken,Huddersfield Town,14,0.0,,,,,0.0
+Ruben Wyatt,Northampton Town,8,0.0,,,,,0.0
+Rubin Colwill,Cardiff City,46,0.0,,,,,0.0
+Ryan Clampin,Braintree Town,36,0.0,,,,,0.0
+Rumarn Burrell,Burton Albion,34,0.0,,,,,0.0
+Rushian Hepburn-Murphy,Crawley Town,43,0.0,,,,,0.0
+Ryan Allsop,Birmingham City,45,0.0,,,,,0.0
+Ryan Andrews,Watford,43,0.0,,,,,0.0
+Ryan Barnett,Wrexham,44,0.0,,,,,0.0
+Ryan Bartley,Gateshead,11,0.0,,,,,0.0
+Ryan Boot,Chesterfield,44,0.0,,,,,0.0
+Ryan Bowman,Cheltenham Town,26,0.0,,,,,0.0
+Ryan Broom,Fleetwood Town,35,0.0,,,,,0.0
+Ryan Carr,Ebbsfleet United,15,0.0,,,,,0.0
+Ryan Carr,Gateshead,3,0.0,,,,,0.0
+Trent Rendall,Dagenham & Redbridge,40,0.0,,,,,0.0
+Ruel Sotiriou,Bristol Rovers,41,0.0,,,,,0.0
+Salis Abdul Samed,Sunderland,17,0.0,,,,,0.0
+Sam Ashford,Wealdstone,29,0.0,,,,,0.0
+Sam Ashford,Woking,9,0.0,,,,,0.0
+Sam Austin,Notts County,28,0.0,,,,,0.0
+Sam Barratt,Maidenhead United,39,0.0,,,,,0.0
+Sam Beckwith,Rochdale,47,0.0,,,,,0.0
+Sam Bell,Bristol City,32,0.0,,,,,0.0
+Sam Bowen,Solihull Moors,35,0.0,,,,,0.0
+Sam Byram,Leeds United,46,0.0,,,,,0.0
+Sam Chambers,Leeds United,7,0.0,,,,,0.0
+Sam Clucas,Lincoln City,10,0.0,,,,,0.0
+Ryan Jones,Aldershot Town,43,0.0,,,,,0.0
+Tony Weston,Boston United,36,0.0,,,,,0.0
+Sam Cosgrove,Barnsley,24,0.0,,,,,0.0
+Sam Cosgrove,Stockport County,13,0.0,,,,,0.0
+Sam Curtis,Peterborough United,18,0.0,,,,,0.0
+Sam Edmundson,Middlesbrough,31,0.0,,,,,0.0
+Sam Field,Queens Park Rangers,35,0.0,,,,,0.0
+Sam Finley,Tranmere Rovers,33,0.0,,,,,0.0
+Sam Folarin,Harrogate Town,25,0.0,,,,,0.0
+Sam Folarin,Hartlepool United,20,0.0,,,,,0.0
+Sam Foley,Barrow,40,0.0,,,,,0.0
+Sam Gale,Gillingham,23,0.0,,,,,0.0
+Sam Gallagher,Stoke City,23,0.0,,,,,0.0
+Sam Clucas,Oldham Athletic,7,0.0,,,,,0.0
+Ryan Ledson,Preston North End,43,0.0,,,,,0.0
+Ryan Leonard,Millwall,35,0.0,,,,,0.0
+Ryan Loft,Cambridge United,35,0.0,,,,,0.0
+Ryan Longman,Hull City,10,0.0,,,,,0.0
+Ryan Longman,Wrexham,19,0.0,,,,,0.0
+Ryan Mclean,Yeovil Town,7,0.0,,,,,0.0
+Ryan Mmaee,Stoke City,7,0.0,,,,,0.0
+Ryan Nyambe,Derby County,20,0.0,,,,,0.0
+Ryan One,Sheffield United,24,0.0,,,,,0.0
+Ryan Porteous,Preston North End,16,0.0,,,,,0.0
+Ryan Porteous,Watford,29,0.0,,,,,0.0
+Ryan Rydel,Stockport County,27,0.0,,,,,0.0
+Saidou Khan,Tranmere Rovers,10,0.0,,,,,0.0
+Ryan Stirk,Walsall,49,0.0,,,,,0.0
+Ryan Sweeney,Burton Albion,42,0.0,,,,,0.0
+Torbjorn Heggem,West Bromwich Albion,45,0.0,,,,,0.0
+Ryan Trevitt,Exeter City,11,0.0,0.0,0.0,0.0,,0.0
+Ryan Watson,Salford City,24,0.0,,,,,0.0
+Ryan Wintle,Millwall,35,0.0,,,,,0.0
+Ryan Woods,Exeter City,39,0.0,,,,,0.0
+Tony Yogane,Exeter City,21,0.0,,,,,0.0
+Ryheem Sheckleford,Chesterfield,18,0.0,,,,,0.0
+Rylee Mitchell,Stevenage,6,0.0,,,,,0.0
+Ryley Towler,Portsmouth,29,0.0,,,,,0.0
+Ryo Hatsuse,Sheffield Wednesday,13,0.0,,,,,0.0
+Ryan Schofield,Morecambe,16,0.0,,,,,0.0
+Thomas Crawford,Altrincham,43,0.0,,,,,0.0
+Thomas Dallison-Lisbon,Ebbsfleet United,34,0.0,,,,,0.0
+Tom Lowery,Crewe Alexandra,17,0.0,,,,,0.0
+Tom Lonergan,Fleetwood Town,14,0.0,,,,,0.0
+Thomas Edwards,Salford City,33,0.0,,,,,0.0
+Thomas Glover,Middlesbrough,29,0.0,,,,,0.0
+Tom Lees,Huddersfield Town,29,0.0,,,,,0.0
+Thomas Hamer,Lincoln City,25,0.0,,,,,0.0
+Thomas Hill,Harrogate Town,8,0.0,,,,,0.0
+Thomas Holmes,Luton Town,26,0.0,,,,,0.0
+Thomas Kaminski,Luton Town,45,0.0,,,,,0.0
+Tommi O'Reilly,Milton Keynes Dons,23,0.0,,,,,0.0
+Thomas Mcglinchey,Tamworth,45,0.0,,,,,0.0
+Thomas Nixon,Doncaster Rovers,13,0.0,,,,,0.0
+Thomas O'Connor,Wrexham,37,0.0,,,,,0.0
+Tom Leak,Boston United,27,0.0,,,,,0.0
+Thomas Pett,Cheltenham Town,24,0.0,,,,,0.0
+Thomas Pett,Oldham Athletic,24,0.0,,,,,0.0
+Tom Leahy,Woking,17,0.0,,,,,0.0
+Thomas Sang,Port Vale,28,0.0,,,,,0.0
+Thomas Waddingham,Portsmouth,8,0.0,,,,,0.0
+Tiernan Brooks,Gateshead,27,0.0,,,,,0.0
+Tim Akinola,Chesterfield,4,0.0,,,,,0.0
+Tim Akinola,Dagenham & Redbridge,5,0.0,,,,,0.0
+Thomas Lavery,Sunderland,4,0.0,,,,,0.0
+Terry Bondo,Blackpool,3,0.0,,,,,0.0
+Tom Mcintyre,Portsmouth,25,0.0,,,,,0.0
+Tom Mcintyre,Charlton Athletic,15,0.0,,,,,0.0
+Terry Devlin,Portsmouth,40,0.0,,,,,0.0
+Terry Taylor,Charlton Athletic,8,0.0,,,,,0.0
+Terry Taylor,Northampton Town,19,0.0,,,,,0.0
+Thelo Aasgaard,Luton Town,17,0.0,,,,,0.0
+Thelo Aasgaard,Wigan Athletic,26,0.0,,,,,0.0
+Theo Carrol,Preston North End,8,0.0,,,,,0.0
+Theo Mawene,Preston North End,10,0.0,,,,,0.0
+Theo Richardson,AFC Fylde,24,0.0,,,,,0.0
+Thomas Carroll,Reading,13,0.0,,,,,0.0
+Theo Widdrington,Aldershot Town,38,0.0,,,,,0.0
+Tom McGill,Milton Keynes Dons,28,0.0,,,,,0.0
+Thierry Latty-Fairweather,Maidenhead United,36,0.0,,,,,0.0
+Thierry Small,Charlton Athletic,45,0.0,,,,,0.0
+Thimothee Dieng,Cheltenham Town,15,0.0,,,,,0.0
+Thimothee Dieng,Gillingham,15,0.0,,,,,0.0
+Thimothee Lo-Tutala,Hull City,19,0.0,,,,,0.0
+Thomas Allan,Gateshead,18,0.0,,,,,0.0
+Thomas Bradbury,Cheltenham Town,40,0.0,,,,,0.0
+Thomas Cannon,Sheffield United,20,0.0,,,,,0.0
+Thomas Cannon,Stoke City,22,0.0,,,,,0.0
+Thomas Carroll,Milton Keynes Dons,16,0.0,,,,,0.0
+Theo Vassell,Barrow,34,0.0,,,,,0.0
+Tom Bloxham,Blackpool,14,0.0,,,,,0.0
+Tom Bloxham,Shrewsbury Town,24,0.0,,,,,0.0
+Tom Booth,Crewe Alexandra,39,0.0,,,,,0.0
+Tom Bradshaw,Millwall,14,0.0,,,,,0.0
+Tom Bradshaw,Oxford United,11,0.0,,,,,0.0
+Tom Conlon,Oldham Athletic,34,0.0,,,,,0.0
+Tom Cursons,Harrogate Town,19,0.0,,,,,0.0
+Tom Davies,Cardiff City,3,0.0,,,,,0.0
+Tom Davies,Newport County,4,0.0,,,,,0.0
+Tom Davies,Sheffield United,19,0.0,,,,,0.0
+Tom Davies,Tranmere Rovers,36,0.0,,,,,0.0
+Tim Akinola,Gateshead,7,0.0,,,,,0.0
+Tom Dean,Exeter City,3,0.0,,,,,0.0
+Tom Dele-Bashiru,Watford,30,0.0,,,,,0.0
+Tom Donaghy,Boston United,3,0.0,,,,,0.0
+Tom Donaghy,Oldham Athletic,19,0.0,,,,,0.0
+Tom Eastman,Dagenham & Redbridge,27,0.0,,,,,0.0
+Tom Eaves,Northampton Town,23,0.0,,,,,0.0
+Tom Fellows,West Bromwich Albion,45,0.0,,,,,0.0
+Tom Flanagan,Colchester United,43,0.0,,,,,0.0
+Tom Hopper,Colchester United,19,0.0,,,,,0.0
+Tom Iorpenda,Huddersfield Town,11,0.0,,,,,0.0
+Tom Hopper,Southend United,22,0.0,,,,,0.0
+Tom Ince,Watford,46,0.0,,,,,0.0
+Tom James,Leyton Orient,26,0.0,,,,,0.0
+Tom Leahy,Millwall,4,0.0,,,,,0.0
+Tim Krul,Luton Town,37,0.0,,,,,0.0
+Timi Odusina,Woking,26,0.0,,,,,0.0
+Tom Krauss,Luton Town,24,0.0,,,,,0.0
+Timothy Eyoma,Northampton Town,25,0.0,,,,,0.0
+Tivonge Rushesha,Reading,32,0.0,,,,,0.0
+Tobi Adebayo-Rowling,Rochdale,41,0.0,,,,,0.0
+Tobi Omole,Wealdstone,10,0.0,,,,,0.0
+Toby Edser,Ebbsfleet United,40,0.0,,,,,0.0
+Toby Mullarkey,Crawley Town,31,0.0,,,,,0.0
+Toby Savin,FC Halifax Town,8,0.0,,,,,0.0
+Toby Savin,Shrewsbury Town,30,0.0,,,,,0.0
+Tom Blackwell,Braintree Town,46,0.0,,,,,0.0
+Toby Sims,Harrogate Town,41,0.0,,,,,0.0
+Toby Steward,Crawley Town,4,0.0,,,,,0.0
+Toby Steward,Wealdstone,7,0.0,,,,,0.0
+Tom Knowles,Forest Green Rovers,48,0.0,,,,,0.0
+Todd Cantwell,Blackburn Rovers,38,0.0,,,,,0.0
+Todd Kane,Ebbsfleet United,11,0.0,,,,,0.0
+Todd Miller,Wealdstone,7,0.0,,,,,0.0
+Tola Showunmi,Crawley Town,30,0.0,,,,,0.0
+Tom Anderson,Doncaster Rovers,40,0.0,,,,,0.0
+Tom Atcheson,Blackburn Rovers,3,0.0,,,,,0.0
+Tom Barkhuizen,Derby County,37,0.0,,,,,0.0
+Tom Bayliss,Lincoln City,34,0.0,,,,,0.0
+Toby Sibbick,Wigan Athletic,41,0.0,,,,,0.0
+Sonny Cox,Exeter City,31,0.0,,,,,0.0
+Sonny Finch,Middlesbrough,3,0.0,,,,,0.0
+Sonny Finch,Milton Keynes Dons,6,0.0,,,,,0.0
+Tom Watson,Sunderland,33,0.0,,,,,0.0
+Sonny Fish,Crawley Town,4,0.0,,,,,0.0
+Sonny Perkins,Leyton Orient,37,0.0,,,,,0.0
+Sonny Sharples,Bolton Wanderers,11,0.0,,,,,0.0
+Stanley Mills,Oxford United,15,0.0,,,,,0.0
+Stefan Bajic,Bristol City,48,0.0,,,,,0.0
+Tom Tonks,Tamworth,46,0.0,,,,,0.0
+Stefán Teitur Thórdarson,Preston North End,45,0.0,,,,,0.0
+Terence Vancooten,Burton Albion,30,0.0,,,,,0.0
+Stephen Dooley,Harrogate Town,34,0.0,,,,,0.0
+Stephen Duke-McKenna,Harrogate Town,25,0.0,,,,,0.0
+Stephen Humphrys,Barnsley,38,0.0,,,,,0.0
+Stephen McLaughlin,Mansfield Town,42,0.0,,,,,0.0
+Stephen Quinn,Mansfield Town,35,0.0,,,,,0.0
+Stephen Wearne,Carlisle United,18,0.0,,,,,0.0
+Stephen Wearne,Milton Keynes Dons,13,0.0,,,,,0.0
+Steve Cook,Queens Park Rangers,32,0.0,,,,,0.0
+Steven Alzate,Hull City,32,0.0,,,,,0.0
+Steven Arnold,Sutton United,26,0.0,,,,,0.0
+Steven Bradley,Solihull Moors,5,0.0,,,,,0.0
+Tom Smith,Colchester United,46,0.0,,,,,0.0
+Stephan Negru,Salford City,32,0.0,,,,,0.0
+Shiloh Remy,Dagenham & Redbridge,44,0.0,,,,,0.0
+Shilow Tracey,Crewe Alexandra,35,0.0,,,,,0.0
+Shurandy Sambo,Burnley,5,0.0,,,,,0.0
+Siju Odelusi,Sutton United,46,0.0,,,,,0.0
+Tomas Kalinauskas,Burton Albion,46,0.0,,,,,0.0
+Sil Swinkels,Bristol Rovers,17,0.0,,,,,0.0
+Tom White,Morecambe,39,0.0,,,,,0.0
+Silko Thomas,Wigan Athletic,24,0.0,,,,,0.0
+Tom Watson,Wigan Athletic,42,0.0,,,,,0.0
+Simon Moore,Sunderland,49,0.0,,,,,0.0
+Sinclair Armstrong,Bristol City,42,0.0,,,,,0.0
+Sonny Carey,Blackpool,36,0.0,,,,,0.0
+Sivert Heggheim Mannsverk,Cardiff City,16,0.0,,,,,0.0
+Sol Sidibe,Stoke City,21,0.0,,,,,0.0
+Sol Solomon,Tranmere Rovers,22,0.0,,,,,0.0
+Solomon Brynn,Middlesbrough,22,0.0,,,,,0.0
+Solomon Nwabuokei,Eastleigh,5,0.0,,,,,0.0
+Somtochukwu Boniface,Ipswich Town,5,0.0,,,,,0.0
+Sondre Langås,Derby County,15,0.0,,,,,0.0
+Sondre Tronstad,Blackburn Rovers,39,0.0,,,,,0.0
+Sonny Aljofree,Accrington Stanley,32,0.0,,,,,0.0
+Sonny Blu Lo-Everton,Yeovil Town,39,0.0,,,,,0.0
+Sonny Bradley,Derby County,23,0.0,,,,,0.0
+Sonny Bradley,Wycombe Wanderers,24,0.0,,,,,0.0
+Siriki Dembele,Oxford United,29,0.0,,,,,0.0
+Tawanda Chirewa,Derby County,7,0.0,,,,,0.0
+Tawanda Chirewa,Huddersfield Town,15,0.0,,,,,0.0
+Taye Ashby-Hammond,Stevenage,39,0.0,,,,,0.0
+Taylor Allen,Walsall,48,0.0,,,,,0.0
+Taylor Charters,Carlisle United,12,0.0,,,,,0.0
+Taylor Clark,Wealdstone,4,0.0,,,,,0.0
+Taylor Foran,Southend United,4,0.0,,,,,0.0
+Taylor Gardner-Hickman,Birmingham City,36,0.0,,,,,0.0
+Tom Naylor,Chesterfield,44,0.0,,,,,0.0
+Taylor Moore,Bristol Rovers,42,0.0,,,,,0.0
+Taylor Perry,Shrewsbury Town,44,0.0,,,,,0.0
+Steven Fletcher,Wrexham,40,0.0,,,,,0.0
+Tayo Adaramola,Bradford City,17,0.0,,,,,0.0
+Tayo Adaramola,Stockport County,6,0.0,,,,,0.0
+Tayo Edun,Peterborough United,17,0.0,,,,,0.0
+Ted Cann,Forest Green Rovers,7,0.0,,,,,0.0
+Teddy Bishop,Colchester United,29,0.0,,,,,0.0
+Teddy Jenks,Forest Green Rovers,26,0.0,,,,,0.0
+Teddy Sharman-Lowe,Doncaster Rovers,46,0.0,,,,,0.0
+Teden Mengi,Luton Town,22,0.0,,,,,0.0
+Tegan Finn,Plymouth Argyle,10,0.0,,,,,0.0
+Tendayi Darikwa,Lincoln City,44,0.0,,,,,0.0
+Tennai Watson,Charlton Athletic,26,0.0,,,,,0.0
+Terell Thomas,Carlisle United,32,0.0,,,,,0.0
+Taylor Richards,Cambridge United,5,0.0,,,,,0.0
+Steven Sessegnon,Wigan Athletic,16,0.0,,,,,0.0
+Stuart Armstrong,Sheffield Wednesday,11,0.0,,,,,0.0
+Tom Pugh,FC Halifax Town,48,0.0,,,,,0.0
+Stuart Moore,Morecambe,18,0.0,,,,,0.0
+Sullay Kaikai,Cambridge United,26,0.0,,,,,0.0
+Svante Ingelsson,Sheffield Wednesday,46,0.0,,,,,0.0
+Sydie Peck,Sheffield United,50,0.0,,,,,0.0
+Tom Parkes,Hartlepool United,41,0.0,,,,,0.0
+Szabolcs Schon,Bolton Wanderers,40,0.0,,,,,0.0
+Szhem Whyte-Hall,Solihull Moors,15,0.0,,,,,0.0
+Sékou Koné,Manchester United,3,0.0,,,,,0.0
+Taelor O'Kane,AFC Fylde,31,0.0,,,,,0.0
+Tatsuki Seko,Stoke City,42,0.0,,,,,0.0
+Tahvon Campbell,Solihull Moors,11,0.0,,,,,0.0
+Taite Holtam,Gillingham,9,0.0,,,,,0.0
+Tom Nichols,Swindon Town,20,0.0,,,,,0.0
+Tammer Bany,West Bromwich Albion,6,0.0,,,,,0.0
+Tariq Devontae Aaron Hinds,Braintree Town,4,0.0,,,,,0.0
+Tariq Devontae Aaron Hinds,Woking,16,0.0,,,,,0.0
+Tom Nichols,Mansfield Town,7,0.0,,,,,0.0
+Tariq Uwakwe,Aldershot Town,7,0.0,,,,,0.0
+Tariq Uwakwe,Maidenhead United,5,0.0,,,,,0.0
+Tarique Fosu-Henry,Northampton Town,37,0.0,,,,,0.0
+Tarryn Allarakhia,Rochdale,49,0.0,,,,,0.0
+Tatsuhiro Sakamoto,Coventry City,46,0.0,,,,,0.0
+Tahith Chong,Luton Town,32,0.0,,,,,0.0
+Oliver Casey,Blackpool,44,0.0,,,,,0.0
+Oliver Coker,Southend United,40,0.0,,,,,0.0
+Oliver Cooper,Swansea City,29,0.0,,,,,0.0
+Oliver Crankshaw,Altrincham,7,0.0,,,,,0.0
+Oliver Dovin,Coventry City,38,0.0,,,,,0.0
+Oliver Greaves,Newport County,23,0.0,,,,,0.0
+Vadaine Oliver,Shrewsbury Town,13,0.0,,,,,0.0
+Oliver Green,Boston United,15,0.0,,,,,0.0
+Vadaine Oliver,Bradford City,17,0.0,,,,,0.0
+Oliver Hammond,Oldham Athletic,22,0.0,,,,,0.0
+Oliver Harfield,Aldershot Town,6,0.0,,,,,0.0
+Trey Ogunsuyi,Sunderland,12,0.0,,,,,0.0
+Oliver Norburn,Blackpool,13,0.0,,,,,0.0
+Oliver Norburn,Wigan Athletic,14,0.0,,,,,0.0
+Oliver Norwood,Stockport County,46,0.0,,,,,0.0
+Uros Racic,West Bromwich Albion,26,0.0,,,,,0.0
+Oliver O'Neill,Leyton Orient,31,0.0,,,,,0.0
+Oliver Rathbone,Wrexham,42,0.0,,,,,0.0
+Oliver Sanderson,Bradford City,18,0.0,,,,,0.0
+Oliver Sanderson,Harrogate Town,17,0.0,,,,,0.0
+Uriah Djedje,Norwich City,7,0.0,,,,,0.0
+Udoka Godwin-Malife,Burton Albion,42,0.0,,,,,0.0
+Oliver Scott,Aldershot Town,25,0.0,,,,,0.0
+Oliver Sonne,Burnley,16,0.0,,,,,0.0
+Oliver Hawkins,Gillingham,31,0.0,,,,,0.0
+Noa Boutin,Eastleigh,41,0.0,,,,,0.0
+Noah Mawene,Newport County,18,0.0,,,,,0.0
+Noah Stewart,Maidenhead United,10,0.0,,,,,0.0
+Noah Wadsworth,Boston United,7,0.0,,,,,0.0
+Vicente Reyes,Norwich City,8,0.0,,,,,0.0
+Noor Husin,Southend United,48,0.0,,,,,0.0
+Nordin Amrabat,Hull City,18,0.0,,,,,0.0
+Norman Bassette,Coventry City,37,0.0,,,,,0.0
+Odeluga Offiah,Blackpool,40,0.0,,,,,0.0
+Odin Bailey,Stockport County,36,0.0,,,,,0.0
+Odsonne Édouard,Crystal Palace,4,0.0,0.0,4.0,0.5,,0.0
+Val Adedokun,Cheltenham Town,18,0.0,,,,,0.0
+Offrande Zanzala,AFC Fylde,19,0.0,,,,,0.0
+Oisin Gallagher,Boston United,4,0.0,,,,,0.0
+Oisin McEntee,Walsall,37,0.0,,,,,0.0
+Olaf Kobacki,Sheffield Wednesday,26,0.0,,,,,0.0
+Ole Romeny,Oxford United,19,0.0,,,,,0.0
+Vicente Reyes,Cambridge United,23,0.0,,,,,0.0
+Oliver Arblaster,Sheffield United,12,0.0,,,,,0.0
+Oliver Bainbridge,Sunderland,4,0.0,,,,,0.0
+Oliver Banks,Chesterfield,40,0.0,,,,,0.0
+Oliver Basey,Gateshead,20,0.0,,,,,0.0
+Oliver Bostock,West Bromwich Albion,4,0.0,,,,,0.0
+Oliver Bray,Aldershot Town,9,0.0,,,,,0.0
+Ody Alfa,Rochdale,8,0.0,,,,,0.0
+Oscar Rutherford,Dagenham & Redbridge,46,0.0,,,,,0.0
+Oscar Schwartau,Norwich City,44,0.0,,,,,0.0
+Oscar Thorn,Colchester United,33,0.0,,,,,0.0
+Oscar Wallin,Peterborough United,36,0.0,,,,,0.0
+Osman Foyo,AFC Wimbledon,10,0.0,,,,,0.0
+Tyrese Francois,Wigan Athletic,5,0.0,,,,,0.0
+Ossama Ashley,Salford City,33,0.0,,,,,0.0
+Tyrese Fornah,Salford City,40,0.0,,,,,0.0
+Otis Khan,Oldham Athletic,10,0.0,,,,,0.0
+Kacper Pasiek,Preston North End,3,0.0,,,,,0.0
+Otis Khan,Yeovil Town,5,0.0,,,,,0.0
+Oliver Tipton,Solihull Moors,42,0.0,,,,,0.0
+Tyrese Dyce,Maidenhead United,12,0.0,,,,,0.0
+Owen Bailey,Doncaster Rovers,46,0.0,,,,,0.0
+Owen Beck,Blackburn Rovers,24,0.0,,,,,0.0
+Owen Bray,FC Halifax Town,43,0.0,,,,,0.0
+Owen Cochrane,Maidenhead United,43,0.0,,,,,0.0
+Owen Dale,Oxford United,21,0.0,,,,,0.0
+Owen Dale,Wigan Athletic,17,0.0,,,,,0.0
+Owen Devonport,Fleetwood Town,28,0.0,,,,,0.0
+Owen Dodgson,Burnley,10,0.0,,,,,0.0
+Owen Dodgson,Burton Albion,22,0.0,,,,,0.0
+Owen Evans,Barnet,18,0.0,,,,,0.0
+Owen Evans,Cheltenham Town,20,0.0,,,,,0.0
+Ousmane Diakite,West Bromwich Albion,42,0.0,,,,,0.0
+Oliver Turton,Huddersfield Town,38,0.0,,,,,0.0
+Oliver Webber,Woking,45,0.0,,,,,0.0
+Oliver Wright,Solihull Moors,11,0.0,,,,,0.0
+Oliver Wright,Yeovil Town,29,0.0,,,,,0.0
+Ollie Clarke,Swindon Town,32,0.0,,,,,0.0
+Ollie Dewsbury,Bristol Rovers,7,0.0,,,,,0.0
+Tyrone Williams,Chesterfield,17,0.0,,,,,0.0
+Ollie Hughes,Yeovil Town,6,0.0,,,,,0.0
+Ollie Kensdale,Southend United,3,0.0,,,,,0.0
+Ollie Palmer,Wrexham,27,0.0,,,,,0.0
+Ollie Pearce,York City,49,0.0,,,,,0.0
+Ollie Tanner,Cardiff City,30,0.0,,,,,0.0
+Tyrese Omotoye,Forest Green Rovers,16,0.0,,,,,0.0
+Olufela Olomola,Bromley,19,0.0,,,,,0.0
+Oluwalopemiwa Aderoju,Boston United,27,0.0,,,,,0.0
+Oluwatobi Sho-Silva,Maidenhead United,28,0.0,,,,,0.0
+Tyrhys Dolan,Blackburn Rovers,46,0.0,,,,,0.0
+Omar Beckles,Leyton Orient,37,0.0,,,,,0.0
+Omar Bogle,Crewe Alexandra,30,0.0,,,,,0.0
+Omar Chaaban,AFC Wimbledon,40,0.0,,,,,0.0
+Tyrese Sinclair,York City,49,0.0,,,,,0.0
+Tyrese Shade,Eastleigh,46,0.0,,,,,0.0
+Omar Sowunmi,Bromley,40,0.0,,,,,0.0
+Omari Patrick,Tranmere Rovers,46,0.0,,,,,0.0
+Onel Hernández,Norwich City,31,0.0,,,,,0.0
+Olly Thompson,Gateshead,17,0.0,,,,,0.0
+Nathan Asilmwe,Hartlepool United,6,0.0,,,,,0.0
+Nathan Asilmwe,Walsall,15,0.0,,,,,0.0
+Nathan Baxter,Bolton Wanderers,41,0.0,,,,,0.0
+Nathan Bishop,Cambridge United,15,0.0,,,,,0.0
+Nathan Bishop,Wycombe Wanderers,7,0.0,,,,,0.0
+Nathan Broome,Port Vale,20,0.0,,,,,0.0
+Nathan Broome,Swansea City,3,0.0,,,,,0.0
+Vinnie Tume,Sutton United,9,0.0,,,,,0.0
+Nathan Ferguson,Maidenhead United,37,0.0,,,,,0.0
+Nathan Harness,Milton Keynes Dons,12,0.0,,,,,0.0
+Nathan Harness,Southend United,5,0.0,,,,,0.0
+Nnamdi Ofoborh,Swindon Town,46,0.0,,,,,0.0
+Nathan Lowe,Stoke City,15,0.0,,,,,0.0
+Nathan Lowe,Walsall,22,0.0,,,,,0.0
+Nathan Odokonyero,Ebbsfleet United,5,0.0,,,,,0.0
+Nathan Paul-Lavely,Bromley,5,0.0,,,,,0.0
+Nathan Ralph,Southend United,44,0.0,,,,,0.0
+Nathan Redmond,Burnley,11,0.0,,,,,0.0
+Nathan Shepperd,Queens Park Rangers,5,0.0,,,,,0.0
+Nathan Sheron,Hartlepool United,44,0.0,,,,,0.0
+Nathan Smith,Port Vale,28,0.0,,,,,0.0
+Nathan Snowball,Morecambe,3,0.0,,,,,0.0
+Nathan Thompson,Stevenage,16,0.0,,,,,0.0
+Nathan Tjoe-A-On,Swansea City,23,0.0,,,,,0.0
+Nathan Harvey,Dagenham & Redbridge,24,0.0,,,,,0.0
+Morgan Whittaker,Middlesbrough,17,0.0,,,,,0.0
+Morgan Whittaker,Plymouth Argyle,21,0.0,,,,,0.0
+Morgan Williams,AFC Wimbledon,3,0.0,,,,,0.0
+Morgan Williams,Yeovil Town,28,0.0,,,,,0.0
+Moussa Sissoko,Watford,40,0.0,,,,,0.0
+Muhamed Tijani,Plymouth Argyle,17,0.0,,,,,0.0
+Munashe Sundire,Tamworth,32,0.0,,,,,0.0
+Warren Burrell,Harrogate Town,40,0.0,,,,,0.0
+Murphy Mahoney,Stevenage,39,0.0,,,,,0.0
+Václav Hladky,Burnley,46,0.0,,,,,0.0
+Murray Wallace,Millwall,30,0.0,,,,,0.0
+Nat Ford,FC Halifax Town,47,0.0,,,,,0.0
+Mustapha Carayol,Exeter City,7,0.0,,,,,0.0
+Mustapha Carayol,Wealdstone,13,0.0,,,,,0.0
+Mustapha Olagunju,Ebbsfleet United,26,0.0,,,,,0.0
+Vontae Daley-Campbell,Chesterfield,10,0.0,,,,,0.0
+Myles Hippolyte,AFC Wimbledon,26,0.0,,,,,0.0
+Myles Kenlock,Barnet,43,0.0,,,,,0.0
+Myles Peart-Harris,Swansea City,32,0.0,,,,,0.0
+Myles Roberts,Bristol Rovers,5,0.0,,,,,0.0
+Myles Roberts,Watford,4,0.0,,,,,0.0
+Nahki Wells,Bristol City,46,0.0,,,,,0.0
+Nana Boateng,Sutton United,49,0.0,,,,,0.0
+Vitinho,Burnley,3,0.0,,,,,0.0
+Mustapha Bundu,Plymouth Argyle,42,0.0,,,,,0.0
+Vimal Yoganathan,Oldham Athletic,22,0.0,,,,,0.0
+Vimal Yoganathan,Barnsley,11,0.0,,,,,0.0
+Nicholas Hayes,Barnet,29,0.0,,,,,0.0
+Nicholas Hayes,Southend United,21,0.0,,,,,0.0
+Viktor Johansson,Stoke City,46,0.0,,,,,0.0
+Nicholas Tsaroulla,Notts County,39,0.0,,,,,0.0
+Nick Freeman,Stevenage,36,0.0,,,,,0.0
+Nick Haughton,AFC Fylde,47,0.0,,,,,0.0
+Victor Torp,Coventry City,38,0.0,,,,,0.0
+Nick Powell,Stockport County,8,0.0,,,,,0.0
+Nick Townsend,Newport County,43,0.0,,,,,0.0
+Nathan Tshikuna,Eastleigh,7,0.0,,,,,0.0
+Nicke Kabamba,Bromley,22,0.0,,,,,0.0
+Nicky Featherstone,Hartlepool United,46,0.0,,,,,0.0
+Victor Palsson,Plymouth Argyle,42,0.0,,,,,0.0
+Nico Lawrence,Milton Keynes Dons,23,0.0,,,,,0.0
+Victor Moses,Luton Town,23,0.0,,,,,0.0
+Nicolas Madsen,Queens Park Rangers,41,0.0,,,,,0.0
+Nicolas Schmid,Portsmouth,42,0.0,,,,,0.0
+Nigel Lonwijk,Huddersfield Town,23,0.0,,,,,0.0
+Nik Tzanev,Northampton Town,45,0.0,,,,,0.0
+Nikola Katic,Plymouth Argyle,15,0.0,,,,,0.0
+Victor Adeboyejo,Bolton Wanderers,28,0.0,,,,,0.0
+Nikola Tavares,Barnet,40,0.0,,,,,0.0
+Nicke Kabamba,Barnet,19,0.0,,,,,0.0
+Nathan Tshikuna,Tamworth,35,0.0,,,,,0.0
+Nathan Wood,Southampton,25,0.0,,,,,0.0
+Nathanael Ogbeta,Plymouth Argyle,44,0.0,,,,,0.0
+Nathaniel Chalobah,Sheffield Wednesday,23,0.0,,,,,0.0
+Nathaniel Mendez-Laing,Derby County,42,0.0,,,,,0.0
+Nathaniel Phillips,Derby County,37,0.0,,,,,0.0
+Nazariy Rusyn,Sunderland,25,0.0,,,,,0.0
+Vinicius Souza,Sheffield United,38,0.0,,,,,0.0
+Nectarios Triantis,Sunderland,3,0.0,,,,,0.0
+Neil Farrugia,Barnsley,9,0.0,,,,,0.0
+Nelson Abbey,Swansea City,18,0.0,,,,,0.0
+Nelson Khumbeni,Accrington Stanley,18,0.0,,,,,0.0
+Nicholas Bilokapic,Peterborough United,42,0.0,,,,,0.0
+Nelson Sanca,Newport County,6,0.0,,,,,0.0
+Neo Dobson,Northampton Town,8,0.0,,,,,0.0
+Neo Eccleston,Barrow,17,0.0,,,,,0.0
+Neo Eccleston,Huddersfield Town,4,0.0,,,,,0.0
+Nesta Guinness-Walker,Northampton Town,27,0.0,,,,,0.0
+Vincent Harper,Exeter City,28,0.0,,,,,0.0
+Neto Borges,Middlesbrough,38,0.0,,,,,0.0
+Niall Canavan,Barrow,36,0.0,,,,,0.0
+Niall Ennis,Blackpool,19,0.0,,,,,0.0
+Niall Ennis,Stoke City,22,0.0,,,,,0.0
+Niall Maher,Eastleigh,39,0.0,,,,,0.0
+Nicholas Akoto,Burton Albion,14,0.0,,,,,0.0
+Nelson Khumbeni,Gillingham,14,0.0,,,,,0.0
+Rhys Browne,Barnet,29,0.0,,,,,0.0
+Rhys Healey,Huddersfield Town,10,0.0,,,,,0.0
+Tyler Frost,Aldershot Town,37,0.0,,,,,0.0
+Rhys Norrington-Davies,Sheffield United,28,0.0,,,,,0.0
+Rhys Oates,Mansfield Town,4,0.0,,,,,0.0
+Rhys Walters,Port Vale,13,0.0,,,,,0.0
+Rhys Williams,Morecambe,35,0.0,,,,,0.0
+Ricardo Dinanga,Shrewsbury Town,8,0.0,,,,,0.0
+Tyler French,Sutton United,43,0.0,,,,,0.0
+Ricardo Santos,Bolton Wanderers,28,0.0,,,,,0.0
+Richard Brindley,Eastleigh,41,0.0,,,,,0.0
+Owen Foster,Hartlepool United,8,0.0,,,,,0.0
+Richard O'Donnell,Blackpool,46,0.0,,,,,0.0
+Richard Smallwood,Bradford City,43,0.0,,,,,0.0
+Richard Wood,Doncaster Rovers,10,0.0,,,,,0.0
+Ricky Aguiar,York City,41,0.0,,,,,0.0
+Ricky Jade-Jones,Peterborough United,46,0.0,,,,,0.0
+Ricky Korboa,Maidenhead United,10,0.0,,,,,0.0
+Rico Browne,Tamworth,5,0.0,,,,,0.0
+Tyler Cordner,Ebbsfleet United,20,0.0,,,,,0.0
+Tyler Burey,Carlisle United,11,0.0,,,,,0.0
+Rico Richards,Port Vale,37,0.0,,,,,0.0
+Riley Harbottle,AFC Wimbledon,37,0.0,,,,,0.0
+Riley McGree,Middlesbrough,26,0.0,,,,,0.0
+Richard Kone,Wycombe Wanderers,43,0.0,,,,,0.0
+Regan Hendry,Tranmere Rovers,27,0.0,,,,,0.0
+Tyler Sackey,Reading,10,0.0,,,,,0.0
+Regan Linney,Altrincham,45,0.0,,,,,0.0
+Regan Poole,Portsmouth,29,0.0,,,,,0.0
+Tyler Roberts,Northampton Town,27,0.0,,,,,0.0
+Regan Slater,Hull City,45,0.0,,,,,0.0
+Reggie Thompson-Lambe,Braintree Town,9,0.0,,,,,0.0
+Tyler Roberts,AFC Fylde,30,0.0,,,,,0.0
+Tyler Onyango,Stockport County,9,0.0,,,,,0.0
+Rekeem Harper,Port Vale,20,0.0,,,,,0.0
+Rekeil Pyke,Eastleigh,3,0.0,,,,,0.0
+Rhys Bennett,Fleetwood Town,37,0.0,,,,,0.0
+Remeao Hutton,Gillingham,44,0.0,,,,,0.0
+Remi Matthews,Crystal Palace,7,0.0,,,,,0.0
+Remi Thompson,Altrincham,3,0.0,,,,,0.0
+Remy Clerima,Maidenhead United,16,0.0,,,,,0.0
+Tyler Miller,Notts County,8,0.0,,,,,0.0
+Tyler Magliore,Northampton Town,24,0.0,,,,,0.0
+Tyler Goodrham,Oxford United,42,0.0,,,,,0.0
+Reuben Egan,Tranmere Rovers,6,0.0,,,,,0.0
+Reuell Walters,Luton Town,20,0.0,,,,,0.0
+Reyes Cleary,Hartlepool United,20,0.0,,,,,0.0
+Reyes Cleary,Walsall,9,0.0,,,,,0.0
+Rhian Brewster,Sheffield United,45,0.0,,,,,0.0
+Rekeil Pyke,Grimsby Town,10,0.0,,,,,0.0
+Romaine Mundle,Sunderland,25,0.0,,,,,0.0
+Romaine Sawyers,AFC Wimbledon,6,0.0,,,,,0.0
+Romaine Sawyers,Bristol Rovers,13,0.0,,,,,0.0
+Romelle Donovan,Burton Albion,6,0.0,,,,,0.0
+Romoney Crichlow-Noble,Bradford City,15,0.0,,,,,0.0
+Romoney Crichlow-Noble,Dagenham & Redbridge,10,0.0,,,,,0.0
+Tristan Crama,Millwall,22,0.0,,,,,0.0
+Ronald,Swansea City,47,0.0,,,,,0.0
+Tristan Crama,Exeter City,22,0.0,,,,,0.0
+Tristan Abrahams,Maidenhead United,45,0.0,,,,,0.0
+Ronan Coughlan,Fleetwood Town,23,0.0,,,,,0.0
+Rio Davidson-Phipps,Braintree Town,12,0.0,,,,,0.0
+Ronan Darcy,Crawley Town,21,0.0,,,,,0.0
+Ronan Darcy,Wigan Athletic,14,0.0,,,,,0.0
+Ronan Kpakio,Cardiff City,8,0.0,,,,,0.0
+Ronan Maher,Tamworth,13,0.0,,,,,0.0
+Ronan Maher,Walsall,5,0.0,,,,,0.0
+Ronnie Edwards,Queens Park Rangers,21,0.0,,,,0.0,0.0
+Ronnie Edwards,Southampton,3,0.0,,,,0.0,0.0
+Rory Feely,Barrow,21,0.0,,,,,0.0
+Rory Feely,Crawley Town,9,0.0,,,,,0.0
+Rory Watson,York City,46,0.0,,,,,0.0
+Rosaire Longelo,Salford City,20,0.0,,,,,0.0
+Rosaire Longelo,Swindon Town,17,0.0,,,,,0.0
+Ronan Curtis,Port Vale,44,0.0,,,,,0.0
+Rob Holding,Sheffield United,19,0.0,,,,,0.0
+Rob Hunt,Colchester United,31,0.0,,,,,0.0
+Robbie Brady,Preston North End,32,0.0,,,,,0.0
+Robbie Cundy,Notts County,19,0.0,,,,,0.0
+Robbie Cundy,Solihull Moors,9,0.0,,,,,0.0
+Robbie Gotts,Barrow,41,0.0,,,,,0.0
+Robbie Mckenzie,Gillingham,39,0.0,,,,,0.0
+Robbie Tinkler,Gateshead,36,0.0,,,,,0.0
+Tyler Bruck,Solihull Moors,6,0.0,,,,,0.0
+Robert Apter,Blackpool,46,0.0,,,,,0.0
+Robert Atkinson,Bristol City,11,0.0,,,,,0.0
+Robert Atkinson,Portsmouth,15,0.0,,,,,0.0
+Romain Esse,Millwall,24,0.0,0.4000000000000001,7.0,0.43,,0.0
+Robert Lainton,Altrincham,7,0.0,,,,,0.0
+Robert Street,Doncaster Rovers,22,0.0,,,,,0.0
+Robert Street,Lincoln City,12,0.0,,,,,0.0
+Tyler Bindon,Reading,44,0.0,,,,,0.0
+Rocco Vata,Watford,42,0.0,,,,,0.0
+Rod McDonald,Notts County,28,0.0,,,,,0.0
+Tunmise Sobowale,Swindon Town,45,0.0,,,,,0.0
+Rohan Ince,Woking,6,0.0,,,,,0.0
+Rohan Luthra,Derby County,6,0.0,,,,,0.0
+Roko Simic,Cardiff City,4,0.0,,,,,0.0
+Rollin Menayese,Aldershot Town,18,0.0,,,,,0.0
+Tunji Akinola,Woking,47,0.0,,,,,0.0
+Robert Dickie,Bristol City,37,0.0,,,,,0.0
+Patrick McLaughlin,York City,17,0.0,,,,,0.0
+Patrick Roberts,Sunderland,49,0.0,,,,,0.0
+Tyrell Warren,Grimsby Town,38,0.0,,,,,0.0
+Tyrell Sellars-Fleming,Hull City,7,0.0,,,,,0.0
+Paudie O'Conner,Lincoln City,39,0.0,,,,,0.0
+Paul Digby,Cambridge United,32,0.0,,,,,0.0
+Paul Dummett,Carlisle United,3,0.0,,,,,0.0
+Tyrell Sellars-Fleming,Gateshead,17,0.0,,,,,0.0
+Paul Dummett,Wigan Athletic,3,0.0,,,,,0.0
+Paul Farman,Barrow,37,0.0,,,,,0.0
+Paul Glatzel,Swindon Town,45,0.0,,,,,0.0
+Regan Griffiths,Altrincham,7,0.0,,,,,0.0
+Paul Kalambayi,Dagenham & Redbridge,44,0.0,,,,,0.0
+Paul Lewis,Morecambe,31,0.0,,,,,0.0
+Paul McCallum,Eastleigh,37,0.0,,,,,0.0
+Paul Mullin,Wrexham,27,0.0,,,,,0.0
+Paul Nardi,Queens Park Rangers,45,0.0,,,,,0.0
+Paul Smyth,Queens Park Rangers,44,0.0,,,,,0.0
+Pedro Borges,Exeter City,3,0.0,,,,,0.0
+Pedro Borges,Yeovil Town,10,0.0,,,,,0.0
+Tyreik Wright,Bradford City,32,0.0,,,,,0.0
+Pele Smith,Fleetwood Town,4,0.0,,,,,0.0
+Pelly Ruddock Mpanzu,Luton Town,29,0.0,,,,,0.0
+Pelly Ruddock Mpanzu,Rotherham United,18,0.0,,,,,0.0
+Paul Huntington,Bradford City,29,0.0,,,,,0.0
+Owen German,Altrincham,4,0.0,,,,,0.0
+Owen Goodman,AFC Wimbledon,49,0.0,,,,,0.0
+Owen Jarrett Evans,AFC Fylde,36,0.0,,,,,0.0
+Owen Lunt,Crewe Alexandra,28,0.0,,,,,0.0
+Owen Mason,Gateshead,11,0.0,,,,,0.0
+Owen Mason,Mansfield Town,6,0.0,,,,,0.0
+Owen Moxon,Portsmouth,21,0.0,,,,,0.0
+Owen Moxon,Stockport County,19,0.0,,,,,0.0
+Owen Oseni,Gateshead,28,0.0,,,,,0.0
+Owura Edwards,Colchester United,39,0.0,,,,,0.0
+Tyrese Campbell,Sheffield United,41,0.0,,,,,0.0
+Paddy Lane,Portsmouth,23,0.0,,,,,0.0
+Patrick Madden,Chesterfield,29,0.0,,,,,0.0
+Paik Seung-Ho,Birmingham City,41,0.0,,,,,0.0
+Panutche Camara,Crawley Town,43,0.0,,,,,0.0
+Pape Souaré,Ebbsfleet United,9,0.0,,,,,0.0
+Paris Lock,Braintree Town,6,0.0,,,,,0.0
+Tyrelle Newton,Gateshead,36,0.0,,,,,0.0
+Pascal Struijk,Leeds United,36,0.0,,,,,0.0
+Patrick Bamford,Leeds United,28,0.0,,,,,0.0
+Patrick Bauer,Preston North End,25,0.0,,,,,0.0
+Patrick Brough,Northampton Town,6,0.0,,,,,0.0
+Patrick Gamble,AFC Fylde,25,0.0,,,,,0.0
+Patrick Jones,Exeter City,18,0.0,,,,,0.0
+Patrick Kelly,Doncaster Rovers,35,0.0,,,,,0.0
+Paddy McNair,West Bromwich Albion,9,0.0,,,,,0.0
+Randell Williams,Bolton Wanderers,20,0.0,,,,,0.0
+Randell Williams,Leyton Orient,18,0.0,,,,,0.0
+Raphael Araoye,Yeovil Town,9,0.0,,,,,0.0
+Tyler Walton,Accrington Stanley,41,0.0,,,,,0.0
+Raphael Borges Rodrigues,Coventry City,17,0.0,,,,,0.0
+Rarmani Edmonds-Green,Charlton Athletic,23,0.0,,,,,0.0
+Rarmani Edmonds-Green,Leyton Orient,20,0.0,,,,,0.0
+Rav van den Berg,Middlesbrough,27,0.0,,,,,0.0
+Tyler Walker,Wealdstone,9,0.0,,,,,0.0
+Rayan Kolli,Queens Park Rangers,26,0.0,,,,,0.0
+Tyler Smith,Bradford City,11,0.0,,,,,0.0
+Perry Ng,Cardiff City,37,0.0,,,,,0.0
+Recco Hackett-Fairchild,Lincoln City,33,0.0,,,,,0.0
+Redman Evans,Swindon Town,5,0.0,,,,,0.0
+Reece Burke,Luton Town,20,0.0,,,,,0.0
+Reece Cole,Exeter City,26,0.0,,,,,0.0
+Reece Grego-Cox,Dagenham & Redbridge,18,0.0,,,,,0.0
+Reece Hall-Johnson,Barnet,12,0.0,,,,,0.0
+Reece Hall-Johnson,Solihull Moors,7,0.0,,,,,0.0
+Tyler Smith,Barrow,21,0.0,,,,,0.0
+Reece James,Rotherham United,45,0.0,0.7,64.0,0.58,0.68,0.0
+Reece Smith,Maidenhead United,43,0.0,,,,,0.0
+Regan Booty,Gateshead,43,0.0,,,,,0.0
+Regan Clayton,Dagenham & Redbridge,14,0.0,,,,,0.0
+Reagan Ogle,Oldham Athletic,42,0.0,,,,,0.0
+Tyreeq Bakinson,Wycombe Wanderers,38,0.0,,,,,0.0
+Tyreece Simpson,Stevenage,21,0.0,,,,,0.0
+Peter Kioso,Oxford United,39,0.0,,,,,0.0
+Tyreece Simpson,Colchester United,21,0.0,,,,,0.0
+Tyreece John-Jules,Crawley Town,32,0.0,,,,,0.0
+Philip Haxthausen Nielsen,Braintree Town,25,0.0,,,,,0.0
+Phoenix Patterson,Fleetwood Town,45,0.0,,,,,0.0
+Pierce Charles,Sheffield Wednesday,44,0.0,,,,,0.0
+Pierce Sweeney,Exeter City,18,0.0,,,,,0.0
+Pierre Dwomoh,Watford,22,0.0,,,,,0.0
+Pierre Ekwah,Sunderland,3,0.0,,,,,0.0
+Pol Valentín,Sheffield Wednesday,43,0.0,,,,,0.0
+Tylor Golden,Altrincham,45,0.0,,,,,0.0
+Promise Omochere,Bristol Rovers,22,0.0,,,,,0.0
+Przemyslaw Placheta,Oxford United,34,0.0,,,,,0.0
+Radinio Balker,Huddersfield Town,14,0.0,,,,,0.0
+Raees Bangura-Williams,Millwall,13,0.0,,,,,0.0
+Rafiq Khaleel,Crawley Town,6,0.0,,,,,0.0
+Rafiq Khaleel,Dagenham & Redbridge,15,0.0,,,,,0.0
+Tyreece Campbell,Charlton Athletic,47,0.0,,,,,0.0
+Raheem Conte,Woking,12,0.0,,,,,0.0
+Tymoteusz Puchacz,Plymouth Argyle,18,0.0,,,,,0.0
+Rakish Bingham,Ebbsfleet United,30,0.0,,,,,0.0
+Ralph Vigrass,Dagenham & Redbridge,17,0.0,,,,,0.0
+Rami Al Hajj,Plymouth Argyle,35,0.0,,,,,0.0
+Priestley Farquharson,Walsall,3,0.0,,,,,0.0
+Clinton Mola,Bristol Rovers,37,0.0,,,,,0.0
+Clément Rodrigues,Barnsley,11,0.0,,,,,0.0
+Cody Drameh,Hull City,40,0.0,,,,,0.0
+Cohen Bramall,Portsmouth,17,0.0,,,,,0.0
+Cohen Bramall,Rotherham United,22,0.0,,,,,0.0
+Colby Bishop,Portsmouth,35,0.0,,,,,0.0
+Cole Stockton,Salford City,42,0.0,,,,,0.0
+Colin Doyle,Bradford City,28,0.0,,,,,0.0
+Collin Andeng-Ndi,Southend United,33,0.0,,,,,0.0
+Coniah Boyce-Clarke,Reading,8,0.0,,,,,0.0
+Connal Trueman,Crawley Town,4,0.0,,,,,0.0
+Connal Trueman,Millwall,4,0.0,,,,,0.0
+Jordan Williams,Portsmouth,25,0.0,,,,,0.0
+Connor Barratt,Barnsley,8,0.0,,,,,0.0
+Connor Barrett,Walsall,44,0.0,,,,,0.0
+Connor Cook,Chesterfield,6,0.0,,,,,0.0
+Connor Hall,Port Vale,44,0.0,,,,,0.0
+Connor Jennings,Tranmere Rovers,44,0.0,,,,,0.0
+Connor Lemonheigh-Evans,Milton Keynes Dons,39,0.0,,,,,0.0
+Connor Mahoney,Barrow,37,0.0,,,,,0.0
+Connor McBride,Rochdale,39,0.0,,,,,0.0
+Connor Mcavoy,Wealdstone,19,0.0,,,,,0.0
+Connor O'Brien,Accrington Stanley,30,0.0,,,,,0.0
+Connor O'Riordan,Cambridge United,14,0.0,,,,,0.0
+Connor O'Riordan,Crewe Alexandra,20,0.0,,,,,0.0
+Connor Ogilvie,Portsmouth,45,0.0,,,,,0.0
+Connal Trueman,Milton Keynes Dons,18,0.0,,,,,0.0
+Christian Bile Bédia,Hull City,23,0.0,,,,,0.0
+Christian Chigozie,Luton Town,3,0.0,,,,,0.0
+Christian Doidge,Forest Green Rovers,50,0.0,,,,,0.0
+Christian Fassnacht,Norwich City,5,0.0,,,,,0.0
+Christian Forino Joseph,Bolton Wanderers,19,0.0,,,,,0.0
+Christian Maghoma,Aldershot Town,27,0.0,,,,,0.0
+Christian N'Guessan,Dagenham & Redbridge,44,0.0,,,,,0.0
+Christian Saydee,Portsmouth,46,0.0,,,,,0.0
+Christian Scott,Wealdstone,26,0.0,,,,,0.0
+Christie Ward,Braintree Town,3,0.0,,,,,0.0
+Christoph Klarer,Birmingham City,45,0.0,,,,,0.0
+Christopher Hamilton,Blackpool,34,0.0,,,,,0.0
+Christopher Maguire,Eastleigh,47,0.0,,,,,0.0
+Clarke Oduor,Bradford City,24,0.0,,,,,0.0
+Christy Pym,Mansfield Town,39,0.0,,,,,0.0
+Chukwuemeka Aneke,Charlton Athletic,32,0.0,,,,,0.0
+Cian Ashford,Cardiff City,37,0.0,,,,,0.0
+Cian Harries,Forest Green Rovers,14,0.0,,,,,0.0
+Cian Harries,Woking,26,0.0,,,,,0.0
+Cian Hayes,Peterborough United,39,0.0,,,,,0.0
+Ciaran Brennan,Newport County,30,0.0,,,,,0.0
+Ciaran Gilligan,Burton Albion,14,0.0,,,,,0.0
+Ciaran Kelly,Bradford City,24,0.0,,,,,0.0
+Ciaran Mcguckin,Rotherham United,5,0.0,,,,,0.0
+Ciaran Mcguckin,Yeovil Town,26,0.0,,,,,0.0
+Ciaron Brown,Oxford United,41,0.0,,,,,0.0
+Cieran Slicker,Ipswich Town,4,0.0,,,,,0.0
+Christopher Merrie,Tranmere Rovers,39,0.0,,,,,0.0
+Corey Whitely,Bromley,44,0.0,,,,,0.0
+Corry Evans,Bradford City,8,0.0,,,,,0.0
+Corry Evans,Oldham Athletic,11,0.0,,,,,0.0
+Courtney Baker-Richardson,Newport County,37,0.0,,,,,0.0
+Courtney Senior,Rochdale,12,0.0,,,,,0.0
+Craig Eastmond,Wealdstone,13,0.0,,,,,0.0
+Craig Forsyth,Derby County,46,0.0,,,,,0.0
+Craig MacGillivray,Milton Keynes Dons,31,0.0,,,,,0.0
+Craig Ross,Maidenhead United,41,0.0,,,,,0.0
+Craig Tanner,Ebbsfleet United,23,0.0,,,,,0.0
+Curtis Edwards,Notts County,29,0.0,,,,,0.0
+Curtis Nelson,Derby County,27,0.0,,,,,0.0
+Connor Pani,Gateshead,3,0.0,,,,,0.0
+Curtis Tilt,Salford City,39,0.0,,,,,0.0
+Cyrus Christie,Swansea City,34,0.0,,,,,0.0
+Dael Fry,Middlesbrough,28,0.0,,,,,0.0
+Daiki Hashioka,Luton Town,22,0.0,,,,,0.0
+Dajaune Brown,Derby County,28,0.0,,,,,0.0
+Dakota Ochsenham,Chesterfield,6,0.0,,,,,0.0
+Dale Gorman,Woking,38,0.0,,,,,0.0
+Dale Taylor,Wigan Athletic,43,0.0,,,,,0.0
+Dan Barton,Cambridge United,27,0.0,,,,,0.0
+Dan Batty,York City,44,0.0,,,,,0.0
+Dan Butler,Stevenage,34,0.0,,,,,0.0
+Dan Creaney,Tamworth,47,0.0,,,,,0.0
+Dan Ellison,Aldershot Town,26,0.0,,,,,0.0
+Curtis Thompson,Grimsby Town,23,0.0,,,,,0.0
+Connor Ripley,Port Vale,25,0.0,,,,,0.0
+Connor Ripley,Swindon Town,14,0.0,,,,,0.0
+Connor Roberts,Burnley,41,0.0,,,,,0.0
+Connor Taylor,Bristol Rovers,45,0.0,,,,,0.0
+Connor Teale,Boston United,24,0.0,,,,,0.0
+Connor Underhill,Eastleigh,30,0.0,,,,,0.0
+Connor Wood,Tranmere Rovers,40,0.0,,,,,0.0
+Conor Coventry,Charlton Athletic,47,0.0,,,,,0.0
+Conor Falls,Huddersfield Town,3,0.0,,,,,0.0
+Conor Grant,Accrington Stanley,16,0.0,,,,,0.0
+Conor Grant,Notts County,34,0.0,,,,,0.0
+Conor Grant,Port Vale,4,0.0,,,,,0.0
+Conor Hazard,Plymouth Argyle,29,0.0,,,,,0.0
+Corey Whelan,AFC Fylde,46,0.0,,,,,0.0
+Conor Masterson,Gillingham,26,0.0,,,,,0.0
+Conor McAleny,Salford City,29,0.0,,,,,0.0
+Conor McCarthy,Barnsley,30,0.0,,,,,0.0
+Conor McGrandles,Lincoln City,44,0.0,,,,,0.0
+Conor Shaughnessy,Portsmouth,9,0.0,,,,,0.0
+Conor Thomas,Crewe Alexandra,20,0.0,,,,,0.0
+Conor Wilkinson,Solihull Moors,32,0.0,,,,,0.0
+Corey Addai,Stockport County,48,0.0,,,,,0.0
+Corey Edwards,Rochdale,9,0.0,,,,,0.0
+Corey Koerner,Yeovil Town,5,0.0,,,,,0.0
+Corey O'Keefe,Barnsley,44,0.0,,,,,0.0
+Corey Panter,Eastleigh,33,0.0,,,,,0.0
+Corey Taylor,Derby County,22,0.0,,,,,0.0
+Conor Lawless,Dagenham & Redbridge,17,0.0,,,,,0.0
+Camiel Neghli,Millwall,5,0.0,,,,,0.0
+Campbell Darcy,Hartlepool United,6,0.0,,,,,0.0
+Carl Jenkinson,Bromley,17,0.0,,,,,0.0
+Carl Johnston,Fleetwood Town,19,0.0,,,,,0.0
+Carl Johnston,Peterborough United,20,0.0,,,,,0.0
+Carl Piergianni,Stevenage,45,0.0,,,,,0.0
+Carl Rushworth,Hull City,6,0.0,,,,,0.0
+Carl Winchester,Shrewsbury Town,17,0.0,,,,,0.0
+Carlos Mendes,Bolton Wanderers,15,0.0,,,,,0.0
+Carlton Morris,Luton Town,43,0.0,,,,,0.0
+Carter Milmore,Gateshead,4,0.0,,,,,0.0
+Casey Pettit,Maidenhead United,48,0.0,,,,,0.0
+Christ Tiehi,Rotherham United,16,0.0,,,,,0.0
+Cauley Woodrow,Blackburn Rovers,14,0.0,,,,,0.0
+Cauley Woodrow,Luton Town,29,0.0,,,,,0.0
+Cavanagh Miley,Southend United,28,0.0,,,,,0.0
+Caylon Vickers,Mansfield Town,19,0.0,,,,,0.0
+Cedwyn Scott,Carlisle United,13,0.0,,,,,0.0
+Cedwyn Scott,Notts County,10,0.0,,,,,0.0
+Charles Agbawodikeizu,Derby County,4,0.0,,,,,0.0
+Charles Ondo,Ebbsfleet United,3,0.0,,,,,0.0
+Charles Sagoe Junior,Shrewsbury Town,18,0.0,,,,,0.0
+Charles Vernam,Grimsby Town,18,0.0,,,,,0.0
+Charley Kendall,Southend United,27,0.0,,,,,0.0
+Charley Kendall,Woking,21,0.0,,,,,0.0
+Charlie Barker,Crawley Town,46,0.0,,,,,0.0
+Casper de Norre,Millwall,46,0.0,,,,,0.0
+Callum Whelan,Carlisle United,23,0.0,,,,,0.0
+Callum Whelan,Gateshead,27,0.0,,,,,0.0
+Callum Wright,Plymouth Argyle,43,0.0,,,,,0.0
+Calum Agius,Crewe Alexandra,17,0.0,,,,,0.0
+Calum Chambers,Cardiff City,41,0.0,,,,,0.0
+Calum Kavanagh,Bradford City,40,0.0,,,,,0.0
+Calum MacDonald,Mansfield Town,7,0.0,,,,,0.0
+Calum Scanlon,Millwall,5,0.0,,,,,0.0
+Calvin Ramsay,Wigan Athletic,8,0.0,,,,,0.0
+Cameron Antwi,Newport County,43,0.0,,,,,0.0
+Cameron Bragg,Crawley Town,11,0.0,,,,,0.0
+Cameron Brannagan,Oxford United,33,0.0,,,,,0.0
+Cameron Congreve,Bromley,44,0.0,,,,,0.0
+Cameron Pring,Bristol City,34,0.0,,,,,0.0
+Cameron Gardner,Grimsby Town,17,0.0,,,,,0.0
+Cameron Green,Boston United,44,0.0,,,,,0.0
+Cameron Gregory,Boston United,33,0.0,,,,,0.0
+Cameron Hargreaves,Aldershot Town,44,0.0,,,,,0.0
+Cameron Harper,Carlisle United,39,0.0,,,,,0.0
+Cameron Humphreys,Rotherham United,41,0.0,,,,,0.0
+Cameron Humphreys,Wycombe Wanderers,45,0.0,,,,,0.0
+Cameron James Evans,Newport County,36,0.0,,,,,0.0
+Cameron John,York City,38,0.0,,,,,0.0
+Cameron McGeehan,Northampton Town,40,0.0,,,,,0.0
+Cameron Mcjannett,Grimsby Town,44,0.0,,,,,0.0
+Cameron Mcpherson,Braintree Town,5,0.0,,,,,0.0
+Cameron Norman,Tranmere Rovers,43,0.0,,,,,0.0
+Cameron Dawson,Rotherham United,43,0.0,,,,,0.0
+Chay Cooper,Braintree Town,49,0.0,,,,,0.0
+Che Gardner,Stockport County,5,0.0,,,,,0.0
+Ched Evans,Preston North End,19,0.0,,,,,0.0
+Cheick Diabate,Bradford City,13,0.0,,,,,0.0
+Cheick Diabate,Exeter City,8,0.0,,,,,0.0
+Chem Campbell,Reading,39,0.0,,,,,0.0
+Cheyenne Dunkley,Chesterfield,9,0.0,,,,,0.0
+Chiedozie Ogbene,Ipswich Town,7,0.0,,,,,0.0
+Chiedozie Ogbene,Luton Town,3,0.0,,,,,0.0
+Chinwike Okoli,Sutton United,18,0.0,,,,,0.0
+Chinwike Okoli,Woking,19,0.0,,,,,0.0
+Chris Conn-Clarke,Peterborough United,33,0.0,,,,,0.0
+Charlie Brown,Accrington Stanley,20,0.0,,,,,0.0
+Chris Long,Crewe Alexandra,27,0.0,,,,,0.0
+Chris Martin,Bristol Rovers,24,0.0,,,,,0.0
+Chris Maxwell,Huddersfield Town,20,0.0,,,,,0.0
+Chris Mepham,Sunderland,44,0.0,,,,,0.0
+Chris Popov,Barrow,15,0.0,,,,,0.0
+Chris Rigg,Sunderland,45,0.0,,,,,0.0
+Chris Stokes,AFC Fylde,6,0.0,,,,,0.0
+Chris Stokes,Barrow,17,0.0,,,,,0.0
+Chris Sze,Wigan Athletic,13,0.0,,,,,0.0
+Chris Willock,Cardiff City,43,0.0,,,,,0.0
+Chris Wreh,Maidenhead United,6,0.0,,,,,0.0
+Chris Wreh,Tamworth,23,0.0,,,,,0.0
+Christ Makosso,Luton Town,13,0.0,,,,,0.0
+Chris Francis,Dagenham & Redbridge,17,0.0,,,,,0.0
+Charlie Brown,Morecambe,8,0.0,,,,,0.0
+Charlie Caton,Accrington Stanley,17,0.0,,,,,0.0
+Charlie Clark,AFC Fylde,18,0.0,,,,,0.0
+Charlie Colkett,Gateshead,32,0.0,,,,,0.0
+Charlie Cooper,Yeovil Town,43,0.0,,,,,0.0
+Charlie Crew,Doncaster Rovers,17,0.0,,,,,0.0
+Charlie Crew,Leeds United,16,0.0,,,,,0.0
+Charlie Finney,Crewe Alexandra,22,0.0,,,,,0.0
+Charlie Goode,Stevenage,27,0.0,,,,,0.0
+Charlie Hughes,Hull City,30,0.0,,,,,0.0
+Charlie Jolley,AFC Fylde,43,0.0,,,,,0.0
+Charlie Kelman,Leyton Orient,49,0.0,,,,,0.0
+Charlie Kirk,Barrow,10,0.0,,,,,0.0
+Charlie Wyke,Carlisle United,14,0.0,,,,,0.0
+Charlie McNeill,Sheffield Wednesday,15,0.0,,,,,0.0
+Charlie Mcarthur,Carlisle United,13,0.0,,,,,0.0
+Charlie Mccann,Forest Green Rovers,41,0.0,,,,,0.0
+Charlie Olson,Altrincham,23,0.0,,,,,0.0
+Charlie Raglan,Oldham Athletic,45,0.0,,,,,0.0
+Charlie Savage,Reading,46,0.0,,,,,0.0
+Charlie Sayers,Woking,4,0.0,,,,,0.0
+Charlie Taylor,Southampton,14,0.0,,,,0.62,0.0
+Charlie Waller,Milton Keynes Dons,24,0.0,,,,,0.0
+Charlie Waller,Sutton United,24,0.0,,,,,0.0
+Charlie Webster,Burton Albion,32,0.0,,,,,0.0
+Charlie Weston,Rochdale,24,0.0,,,,,0.0
+Charlie Whitaker,Notts County,23,0.0,,,,,0.0
+Charlie Lakin,Walsall,46,0.0,,,,,0.0
+Dominic Hyam,Blackburn Rovers,46,0.0,,,,,0.0
+Dominic Iorfa,Sheffield Wednesday,30,0.0,,,,,0.0
+Dominic Poleon,Ebbsfleet United,32,0.0,,,,,0.0
+Dominic Sadi,Carlisle United,22,0.0,,,,,0.0
+Dominic Samuel,Ebbsfleet United,18,0.0,,,,,0.0
+Dominic Telford,Barnet,17,0.0,,,,,0.0
+Dominic Telford,Barrow,22,0.0,,,,,0.0
+Dominic Thompson,Blackpool,3,0.0,,,,,0.0
+Donald Love,Accrington Stanley,41,0.0,,,,,0.0
+Donay O'Brien-Brady,Peterborough United,32,0.0,,,,,0.0
+Donervon Daniels,Walsall,28,0.0,,,,,0.0
+Donovan Pines,Barnsley,32,0.0,,,,,0.0
+Dan Gardner,Oldham Athletic,27,0.0,,,,,0.0
+Douglas Tharme,Grimsby Town,37,0.0,,,,,0.0
+Duane Holmes,Preston North End,31,0.0,,,,,0.0
+Dubem Eze,FC Halifax Town,9,0.0,,,,,0.0
+Duncan Watmore,Millwall,29,0.0,,,,,0.0
+Dylan Berry,Ebbsfleet United,23,0.0,,,,,0.0
+Dylan Duffy,Chesterfield,22,0.0,,,,,0.0
+Dylan Duffy,Lincoln City,13,0.0,,,,,0.0
+Dylan Hill,Boston United,48,0.0,,,,,0.0
+Dylan Jones,Norwich City,3,0.0,,,,,0.0
+Dylan Lawlor,Cardiff City,4,0.0,,,,,0.0
+Dylan McGeouch,Carlisle United,7,0.0,,,,,0.0
+Dylan Mitchell,Swindon Town,7,0.0,,,,,0.0
+Dylan Morgan,Yeovil Town,15,0.0,,,,,0.0
+Donovan Wilson,Grimsby Town,15,0.0,,,,,0.0
+Dexter Lembikisa,Barnsley,15,0.0,,,,,0.0
+Di'Shon Bernard,Sheffield Wednesday,27,0.0,,,,,0.0
+Diallang Jaiyesimi,Leyton Orient,39,0.0,,,,,0.0
+Dilan Kumar Markanday,Chesterfield,22,0.0,,,,,0.0
+Dilan Kumar Markanday,Leyton Orient,24,0.0,,,,,0.0
+Dillon De Silva,Sutton United,24,0.0,,,,,0.0
+Dillon Phillips,Rotherham United,46,0.0,,,,,0.0
+Dimitrios Goutas,Cardiff City,42,0.0,,,,,0.0
+Dion Charles,Bolton Wanderers,24,0.0,,,,,0.0
+Dion Charles,Huddersfield Town,19,0.0,,,,,0.0
+Dion Conroy,Crawley Town,21,0.0,,,,,0.0
+Dion Kelly-Evans,Woking,38,0.0,,,,,0.0
+Dion Pereira,Dagenham & Redbridge,37,0.0,,,,,0.0
+Dominic Hutchinson,Wealdstone,32,0.0,,,,,0.0
+Dion Sanderson,Birmingham City,8,0.0,,,,,0.0
+Dion Sanderson,Blackburn Rovers,21,0.0,,,,,0.0
+Dipo Akinyemi,York City,28,0.0,,,,,0.0
+Djeidi Gassama,Sheffield Wednesday,47,0.0,,,,,0.0
+Dom Dwyer,Mansfield Town,10,0.0,,,,,0.0
+Dom Jefferies,Lincoln City,39,0.0,,,,,0.0
+Dominic Ball,Leyton Orient,37,0.0,,,,,0.0
+Dominic Ballard,Blackpool,18,0.0,,,,,0.0
+Dominic Ballard,Cambridge United,19,0.0,,,,,0.0
+Dominic Bernard,Yeovil Town,37,0.0,,,,,0.0
+Dominic Corness,Gillingham,9,0.0,,,,,0.0
+Dominic Gape,Eastleigh,12,0.0,,,,,0.0
+Dominic Gape,Shrewsbury Town,18,0.0,,,,,0.0
+Dion Rankine,Wigan Athletic,21,0.0,,,,,0.0
+Elliot Morgan Thorpe,Solihull Moors,7,0.0,,,,,0.0
+Elliot Morgan Thorpe,Wealdstone,11,0.0,,,,,0.0
+Elliot Myles,Norwich City,20,0.0,,,,,0.0
+Elliot Newby,Barrow,45,0.0,,,,,0.0
+Elliot Osborne,Altrincham,45,0.0,,,,,0.0
+Elliot Watt,Burton Albion,25,0.0,,,,,0.0
+Elliott Bonds,Fleetwood Town,33,0.0,,,,,0.0
+Elliott Hewitt,Mansfield Town,35,0.0,,,,,0.0
+Elliott Lee,Wrexham,40,0.0,,,,,0.0
+Elliott List,Stevenage,41,0.0,,,,,0.0
+Elliott Moore,Oxford United,26,0.0,,,,,0.0
+Elliott Nevitt,Gillingham,36,0.0,,,,,0.0
+Dylan Stephenson,Dagenham & Redbridge,25,0.0,,,,,0.0
+Ellis Harrison,Milton Keynes Dons,25,0.0,,,,,0.0
+Ellis Harrison,Walsall,12,0.0,,,,,0.0
+Ellis Iandolo,Colchester United,44,0.0,,,,,0.0
+Ellis Simms,Coventry City,46,0.0,,,,,0.0
+Ellis Taylor,Harrogate Town,36,0.0,,,,,0.0
+Emeka Obi,AFC Fylde,37,0.0,,,,,0.0
+Emil Hansson,Birmingham City,24,0.0,,,,,0.0
+Emil Riis Jakobsen,Preston North End,45,0.0,,,,,0.0
+Emile Acauah,Barrow,40,0.0,,,,,0.0
+Emiliano Marcondes,Norwich City,33,0.0,,,,,0.0
+Emma Osaoabe,Forest Green Rovers,46,0.0,,,,,0.0
+Emmanuel Dennis,Blackburn Rovers,8,0.0,,,,,0.0
+Emmanuel Dieseruvwe,Hartlepool United,47,0.0,,,,,0.0
+Ellis Craven,Boston United,14,0.0,,,,,0.0
+Dylan Williams,Burton Albion,37,0.0,,,,,0.0
+Ebrima Adams,Derby County,44,0.0,,,,,0.0
+Ed Turns,Exeter City,13,0.0,,,,,0.0
+Eddie Beach,Crawley Town,13,0.0,,,,,0.0
+Edo Kayembe,Watford,44,0.0,,,,,0.0
+Eduino Vaz,Sutton United,46,0.0,,,,,0.0
+Edward Francis,Exeter City,45,0.0,,,,,0.0
+Edward James,Exeter City,3,0.0,,,,,0.0
+Edward James,Yeovil Town,3,0.0,,,,,0.0
+Edward Jones,Altrincham,16,0.0,,,,,0.0
+Edward Leach,AFC Wimbledon,3,0.0,,,,,0.0
+Edwin Agbaje,Sutton United,4,0.0,,,,,0.0
+Egil Selvik,Watford,17,0.0,,,,,0.0
+Elliot Justham,Dagenham & Redbridge,28,0.0,,,,,0.0
+Eko Solomon,Harrogate Town,5,0.0,,,,,0.0
+Eli King,Stevenage,33,0.0,,,,,0.0
+Elias Kachunga,Cambridge United,43,0.0,,,,,0.0
+Elias Sörensen,Portsmouth,20,0.0,,,,,0.0
+Eliezer Mayenda,Sunderland,42,0.0,,,,,0.0
+Elijah Adebayo,Luton Town,41,0.0,,,,,0.0
+Elijah Anthony,Ebbsfleet United,11,0.0,,,,,0.0
+Elijah Dixon-Bonner,Queens Park Rangers,24,0.0,,,,,0.0
+Elijah Morrison,Bristol City,26,0.0,,,,,0.0
+Eliot Matazo,Hull City,6,0.0,,,,,0.0
+Elkan Baggott,Blackpool,22,0.0,,,,,0.0
+Elliot Embleton,Blackpool,17,0.0,,,,,0.0
+Elliot Embleton,Carlisle United,20,0.0,,,,,0.0
+Eiran Cashin,Derby County,21,0.0,,,,0.0,0.0
+Daniel Jebbison,Watford,14,0.0,,,,,0.0
+Daniel Kanu,Charlton Athletic,24,0.0,,,,,0.0
+Daniel Kelly,Millwall,17,0.0,,,,,0.0
+Daniel Kemp,Stevenage,42,0.0,,,,,0.0
+Daniel Moss,Woking,31,0.0,,,,,0.0
+Daniel N'Lundulu,Cambridge United,25,0.0,,,,,0.0
+Daniel Neil,Sunderland,48,0.0,,,,,0.0
+Daniel Nkrumah,FC Halifax Town,7,0.0,,,,,0.0
+Daniel Phillips,Stevenage,42,0.0,,,,,0.0
+Daniel Udoh,Wycombe Wanderers,43,0.0,,,,,0.0
+Daniel Ward,Huddersfield Town,14,0.0,,,,,0.0
+Daniel Watts,Swansea City,3,0.0,,,,,0.0
+Devon Matthews,Accrington Stanley,20,0.0,,,,,0.0
+Danilo Orsi-Dadomo,Milton Keynes Dons,18,0.0,,,,,0.0
+Danny Andrew,Cambridge United,33,0.0,,,,,0.0
+Danny Ballard,Sunderland,25,0.0,,,,,0.0
+Danny Batth,Blackburn Rovers,39,0.0,,,,,0.0
+Danny Collinge,Barnet,31,0.0,,,,,0.0
+Danny Hylton,Charlton Athletic,11,0.0,,,,,0.0
+Danny Imray,Bromley,39,0.0,,,,,0.0
+Danny Johnson,Walsall,38,0.0,,,,,0.0
+Danny Mayor,Fleetwood Town,42,0.0,,,,,0.0
+Danny Ormerod,AFC Fylde,39,0.0,,,,,0.0
+Danny Rose,Grimsby Town,45,0.0,,,,,0.0
+Danny Waldron,Southend United,16,0.0,,,,,0.0
+Danny Waldron,Tamworth,8,0.0,,,,,0.0
+Danilo Orsi-Dadomo,Burton Albion,29,0.0,,,,,0.0
+Dan Jones,Gateshead,27,0.0,,,,,0.0
+Dan Martin,Accrington Stanley,12,0.0,,,,,0.0
+Dan McNamara,Millwall,22,0.0,,,,,0.0
+Dan Mooney,Boston United,18,0.0,,,,,0.0
+Dan Potts,Charlton Athletic,4,0.0,,,,,0.0
+Dan Sassi,AFC Fylde,11,0.0,,,,,0.0
+Dan Sassi,Rochdale,4,0.0,,,,,0.0
+Dan Scarr,Wrexham,46,0.0,,,,,0.0
+Dan Sweeney,Stevenage,30,0.0,,,,,0.0
+Dane Scarlett,Oxford United,26,0.0,0.0,1.0,0.33,,0.0
+Daniel Adshead,Boston United,3,0.0,,,,,0.0
+Daniel Adu-Addei,Carlisle United,14,0.0,,,,,0.0
+Daniel Agyei,Leyton Orient,44,0.0,,,,,0.0
+Daniel James,Leeds United,37,0.0,,,,,0.0
+Daniel Barden,Swindon Town,27,0.0,,,,,0.0
+Daniel Barlaser,Middlesbrough,46,0.0,,,,,0.0
+Daniel Bennie,Queens Park Rangers,32,0.0,,,,,0.0
+Daniel Butterworth,Carlisle United,4,0.0,,,,,0.0
+Daniel Butterworth,Swindon Town,39,0.0,,,,,0.0
+Daniel Chesters,Salford City,10,0.0,,,,,0.0
+Daniel Crowley,Milton Keynes Dons,18,0.0,,,,,0.0
+Daniel Crowley,Notts County,19,0.0,,,,,0.0
+Daniel Dodds,Hartlepool United,24,0.0,,,,,0.0
+Daniel Gore,Rotherham United,3,0.0,,,,,0.0
+Daniel Grimshaw,Plymouth Argyle,43,0.0,,,,,0.0
+Daniel Happe,Leyton Orient,28,0.0,,,,,0.0
+Daniel Harvie,Wycombe Wanderers,30,0.0,,,,,0.0
+Daniel Bachmann,Watford,26,0.0,,,,,0.0
+David Wheeler,Shrewsbury Town,12,0.0,,,,,0.0
+David Wheeler,Wycombe Wanderers,7,0.0,,,,,0.0
+David Worrall,Barrow,9,0.0,,,,,0.0
+Davis Kellior-Dunn,Barnsley,43,0.0,,,,,0.0
+Davis Kellior-Dunn,Mansfield Town,3,0.0,,,,,0.0
+Deago Nelson,West Bromwich Albion,3,0.0,,,,,0.0
+Dean Bouzanis,Charlton Athletic,7,0.0,,,,,0.0
+Dean Bouzanis,Stevenage,7,0.0,,,,,0.0
+Dean Campbell,Barrow,33,0.0,,,,,0.0
+Dean Cornelius,Harrogate Town,40,0.0,,,,,0.0
+Dean Lewington,Milton Keynes Dons,20,0.0,,,,,0.0
+Declan Drysdale,Tranmere Rovers,12,0.0,,,,,0.0
+Dante Astor Baptiste,Wealdstone,23,0.0,,,,,0.0
+Dejan Tetek,Aldershot Town,30,0.0,,,,,0.0
+Deji Oshilaja,Mansfield Town,39,0.0,,,,,0.0
+Delano Burgzorg,Middlesbrough,46,0.0,,,,,0.0
+Demetri Mitchell,Exeter City,23,0.0,,,,,0.0
+Dennis Cirkin,Sunderland,40,0.0,,,,,0.0
+Dennon Lewis,Woking,23,0.0,,,,,0.0
+Denver Hume,Grimsby Town,45,0.0,,,,,0.0
+Deon Moore,Woking,14,0.0,,,,,0.0
+Deonysus Woodman,Wealdstone,22,0.0,,,,,0.0
+Detlef Esapa Osong,Rotherham United,8,0.0,,,,,0.0
+Devan Tanton,Chesterfield,8,0.0,,,,,0.0
+Devante Cole,West Bromwich Albion,33,0.0,,,,,0.0
+Devante Rodney,Rochdale,39,0.0,,,,,0.0
+Declan Skura,Wycombe Wanderers,17,0.0,,,,,0.0
+Dara Costelloe,Accrington Stanley,17,0.0,,,,,0.0
+Dara Costelloe,Northampton Town,15,0.0,,,,,0.0
+Darko Gyabi,Plymouth Argyle,44,0.0,,,,,0.0
+Darnell Furlong,West Bromwich Albion,42,0.0,,,,,0.0
+Darragh Burns,Grimsby Town,17,0.0,,,,,0.0
+Darragh Lenihan,Middlesbrough,3,0.0,,,,,0.0
+Darragh O'Connor,York City,8,0.0,,,,,0.0
+Darragh Power,Cheltenham Town,14,0.0,,,,,0.0
+Darren Oldaker,Chesterfield,34,0.0,,,,,0.0
+Darren Pratley,Leyton Orient,37,0.0,,,,,0.0
+Darren Robinson,Hartlepool United,11,0.0,,,,,0.0
+Darryl Ombang,Hartlepool United,7,0.0,,,,,0.0
+Daryl Dike,West Bromwich Albion,14,0.0,,,,,0.0
+David Tutonda,Morecambe,43,0.0,,,,,0.0
+David Ajiboye,Newport County,23,0.0,,,,,0.0
+David Ajiboye,Peterborough United,8,0.0,,,,,0.0
+David Ajiboye,York City,8,0.0,,,,,0.0
+David Button,Reading,40,0.0,,,,,0.0
+David Cornell,Preston North End,46,0.0,,,,,0.0
+David Ferguson,Hartlepool United,45,0.0,,,,,0.0
+David Harrington,Fleetwood Town,20,0.0,,,,,0.0
+David Kasumu,Huddersfield Town,32,0.0,,,,,0.0
+David McGoldrick,Notts County,37,0.0,,,,,0.0
+David Okagbue,Walsall,48,0.0,,,,,0.0
+David Ozoh,Derby County,10,0.0,,,,,0.0
+David Robson,Rochdale,10,0.0,,,,,0.0
+David Turnbull,Cardiff City,24,0.0,,,,,0.0
+Dave Abimbola,Bolton Wanderers,4,0.0,,,,,0.0
+Alistair McCann,Preston North End,29,0.0,,,,,0.0
+Alistair Smith,AFC Wimbledon,48,0.0,,,,,0.0
+Allan Campbell,Charlton Athletic,22,0.0,,,,,0.0
+Amadou Salif Mbengue,Reading,34,0.0,,,,,0.0
+Amani Richards,Exeter City,9,0.0,,,,,0.0
+Amari'i Bell,Luton Town,32,0.0,,,,,0.0
+Amario Cozier-Duberry,Blackburn Rovers,34,0.0,,,,,0.0
+Amaru Kaunda,Cambridge United,4,0.0,,,,,0.0
+Amin Nabizada,Watford,7,0.0,,,,,0.0
+Anders Hagelskjaer,Wycombe Wanderers,3,0.0,,,,,0.0
+Andre Brooks,Sheffield United,44,0.0,,,,,0.0
+Andre Dozzell,Portsmouth,45,0.0,,,,,0.0
+Callum Tripp,Milton Keynes Dons,18,0.0,,,,,0.0
+Andre Gray,Plymouth Argyle,15,0.0,,,,,0.0
+Andre Green,Rotherham United,19,0.0,,,,,0.0
+Andreas Hountondji,Burnley,23,0.0,,,,,0.0
+Andreas Weimann,Blackburn Rovers,31,0.0,,,,,0.0
+Andrew Cannon,Wrexham,28,0.0,,,,,0.0
+Andrew Dallas,Barrow,20,0.0,,,,,0.0
+Andrew Dallas,Morecambe,19,0.0,,,,,0.0
+Andrew Hughes,Preston North End,41,0.0,,,,,0.0
+Andrew Oluwabori,Exeter City,9,0.0,,,,,0.0
+Andrew Oluwabori,FC Halifax Town,30,0.0,,,,,0.0
+Andrew Wogan,Stockport County,9,0.0,,,,,0.0
+André Vidigal,Stoke City,22,0.0,,,,,0.0
+Andy Cook,Bradford City,22,0.0,,,,,0.0
+Andre Garcia,Reading,44,0.0,,,,,0.0
+Alex Newby,Altrincham,46,0.0,,,,,0.0
+Alex Palmer,West Bromwich Albion,30,0.0,,,,,0.0
+Alex Pattison,Bradford City,31,0.0,,,,,0.0
+Alex Reid,Oldham Athletic,9,0.0,,,,,0.0
+Alex Reid,Wealdstone,30,0.0,,,,,0.0
+Alex Robertson,Cardiff City,39,0.0,,,,,0.0
+Alex Whitmore,Solihull Moors,44,0.0,,,,,0.0
+Alex Whittle,Yeovil Town,39,0.0,,,,,0.0
+Alex Woodyard,Colchester United,18,0.0,,,,,0.0
+Alex Woodyard,Sutton United,16,0.0,,,,,0.0
+Alexander Aoraha,Ebbsfleet United,22,0.0,,,,,0.0
+Alexander Aoraha,Queens Park Rangers,3,0.0,,,,,0.0
+Alexander Lowry,Wycombe Wanderers,13,0.0,,,,,0.0
+Ali Koiki,Northampton Town,8,0.0,,,,,0.0
+Alfie Chang,Walsall,9,0.0,,,,,0.0
+Alfie Doughty,Luton Town,26,0.0,,,,,0.0
+Alfie Gilchrist,Sheffield United,38,0.0,,,,,0.0
+Alfie Jones,Hull City,44,0.0,,,,,0.0
+Alfie Kilgour,Mansfield Town,30,0.0,,,,,0.0
+Alfie Lloyd,Queens Park Rangers,34,0.0,,,,,0.0
+Alfie Marriott,Watford,7,0.0,,,,,0.0
+Alfie Massey,Millwall,8,0.0,,,,,0.0
+Alfie May,Birmingham City,46,0.0,,,,,0.0
+Alfie Scales,Morecambe,4,0.0,,,,,0.0
+Alfons Sampsted,Birmingham City,22,0.0,,,,,0.0
+Alfred Steel,Hartlepool United,5,0.0,,,,,0.0
+Ali Ibrahim Al-Hamadi,Stoke City,15,0.0,,,,,0.0
+Alexander MacDonald,Rotherham United,27,0.0,,,,,0.0
+Anthony Stewart,Ebbsfleet United,21,0.0,,,,,0.0
+Anton Dudik,Carlisle United,10,0.0,,,,,0.0
+Antoni Sarcevic,Bradford City,24,0.0,,,,,0.0
+Antonio Tikivic,Watford,8,0.0,,,,,0.0
+Antony Evans,Huddersfield Town,35,0.0,,,,,0.0
+Antony Papadopoulos,Crawley Town,8,0.0,,,,,0.0
+Antwoine Hackford,Port Vale,36,0.0,,,,,0.0
+Anwar El Ghazi,Cardiff City,27,0.0,,,,,0.0
+Ao Tanaka,Leeds United,43,0.0,,,,,0.0
+Archie Collins,Peterborough United,40,0.0,,,,,0.0
+Archie Davies,Carlisle United,21,0.0,,,,,0.0
+Archie Mair,Norwich City,6,0.0,,,,,0.0
+Andy Lonergan,Wigan Athletic,4,0.0,,,,,0.0
+Aribim Pepple,Chesterfield,24,0.0,,,,,0.0
+Aribim Pepple,Southend United,20,0.0,,,,,0.0
+Aristote Nsiala,Shrewsbury Town,28,0.0,,,,,0.0
+Arjan Raikhy,Tamworth,13,0.0,,,,,0.0
+Arkell Jude-Boyd,Cheltenham Town,34,0.0,,,,,0.0
+Armando Dobra,Chesterfield,44,0.0,,,,,0.0
+Armani Little,Gillingham,33,0.0,,,,,0.0
+Arnór Sigurdsson,Blackburn Rovers,9,0.0,,,,,0.0
+Aron Sasu,AFC Wimbledon,30,0.0,,,,,0.0
+Arthur Okonkwo,Wrexham,38,0.0,,,,,0.0
+Arthur Read,Colchester United,44,0.0,,,,,0.0
+Asher Agbinone,Gillingham,9,0.0,0.0,0.0,0.5,,0.0
+Ashley Akpan,Aldershot Town,23,0.0,,,,,0.0
+Archie Matthews,Wealdstone,9,0.0,,,,,0.0
+Andy Moran,Stoke City,44,0.0,,,,,0.0
+Andy Rinomhota,Cardiff City,41,0.0,,,,,0.0
+Andy Smith,Gillingham,12,0.0,,,,,0.0
+Andy Smith,Hull City,7,0.0,,,,,0.0
+Andy Yiadom,Reading,14,0.0,,,,,0.0
+Anel Ahmedhodzic,Sheffield United,41,0.0,,,,,0.0
+Anfernee Dijksteel,Middlesbrough,41,0.0,,,,,0.0
+Angel Wariuh,Eastleigh,47,0.0,,,,,0.0
+Angelo Capello,FC Halifax Town,42,0.0,,,,,0.0
+Angelo Ogbonna,Watford,15,0.0,,,,,0.0
+Angus Gunn,Norwich City,35,0.0,,,,,0.0
+Angus MacDonald,Exeter City,16,0.0,,,,,0.0
+Anis Ben Slimane,Norwich City,34,0.0,,,,,0.0
+Anthony Scully,Colchester United,16,0.0,,,,,0.0
+Anis Mehmeti,Bristol City,48,0.0,,,,,0.0
+Anjola Popoola,Accrington Stanley,11,0.0,,,,,0.0
+Anssi Jaakkola,Southend United,13,0.0,,,,,0.0
+Ante Crnac,Norwich City,40,0.0,,,,,0.0
+Anthony Driscoll-Glennon,Newport County,39,0.0,,,,,0.0
+Anthony Forde,Burton Albion,13,0.0,,,,,0.0
+Anthony Georgiou,Wealdstone,42,0.0,,,,,0.0
+Anthony Hartigan,Barnet,46,0.0,,,,,0.0
+Anthony Mancini,Hartlepool United,32,0.0,,,,,0.0
+Anthony Musaba,Sheffield Wednesday,34,0.0,,,,,0.0
+Anthony O'Connor,Harrogate Town,45,0.0,,,,,0.0
+Anthony Patterson,Sunderland,45,0.0,,,,,0.0
+Anthony Racioppi,Hull City,21,0.0,,,,,0.0
+Anis Ben Slimane,Sheffield United,4,0.0,,,,,0.0
+Abdülkadir Ömür,Hull City,23,0.0,,,,,0.0
+Abraham Kanu,Reading,18,0.0,,,,,0.0
+Abraham Odoh,Peterborough United,46,0.0,,,,,0.0
+Abu Kamara,Hull City,38,0.0,,,,,0.0
+Ackeme Francis-Burrell,Solihull Moors,6,0.0,,,,,0.0
+Adam Alimi-Adetoro,FC Halifax Town,45,0.0,,,,,0.0
+Adam Armstrong,West Bromwich Albion,16,0.0,1.2,21.0,0.45,,0.0
+Adam Campbell,Hartlepool United,45,0.0,,,,,0.0
+Adam Chicksen,Notts County,6,0.0,,,,,0.0
+Adam Chicksen,Woking,30,0.0,,,,,0.0
+Adam Crookes,York City,14,0.0,,,,,0.0
+Adam Crowther,Southend United,24,0.0,,,,,0.0
+Alex Murphy,Bolton Wanderers,19,0.0,,,,,0.0
+Adam Forshaw,Blackburn Rovers,21,0.0,,,,,0.0
+Adam Forshaw,Plymouth Argyle,21,0.0,,,,,0.0
+Adam Hayton,Barnsley,5,0.0,,,,,0.0
+Adam Jackson,Lincoln City,34,0.0,,,,,0.0
+Adam Lewis,Morecambe,45,0.0,,,,,0.0
+Adam Long,AFC Fylde,35,0.0,,,,,0.0
+Adam Major,Bromley,19,0.0,,,,,0.0
+Adam Major,Millwall,5,0.0,,,,,0.0
+Adam Marriott,Boston United,43,0.0,,,,,0.0
+Adam May,Forest Green Rovers,49,0.0,,,,,0.0
+Adam Phillips,Barnsley,37,0.0,,,,,0.0
+Adam Randell,Plymouth Argyle,40,0.0,,,,,0.0
+Adam Reach,Wycombe Wanderers,16,0.0,,,,,0.0
+Adam Fairclough,Morecambe,8,0.0,,,,,0.0
+Aaron Rowe,Gillingham,20,0.0,,,,,0.0
+Zak Mills,Boston United,40,0.0,,,,,0.0
+Zak Jules,Rotherham United,25,0.0,,,,,0.0
+Aaron Henry,Rochdale,18,0.0,,,,,0.0
+Óscar Zambrano,Hull City,11,0.0,,,,,0.0
+Aaron Bolger,Ebbsfleet United,16,0.0,,,,,0.0
+Aaron Collins,Bolton Wanderers,45,0.0,,,,,0.0
+Aaron Connolly,Millwall,17,0.0,,,,,0.0
+Aaron Connolly,Sunderland,18,0.0,,,,,0.0
+Aaron Cosgrove,Ebbsfleet United,32,0.0,,,,,0.0
+Aaron Cosgrove,FC Halifax Town,9,0.0,,,,,0.0
+Aaron Hayden,Carlisle United,29,0.0,,,,,0.0
+Zach Awe,Accrington Stanley,21,0.0,,,,,0.0
+Abdoullah Ba,Sunderland,6,0.0,,,,,0.0
+Zach Jeacock,Southend United,10,0.0,,,,,0.0
+Zachary Ashworth,Blackpool,15,0.0,,,,,0.0
+Zachary Hemming,Leyton Orient,15,0.0,,,,,0.0
+Zack Nelson,Luton Town,38,0.0,,,,,0.0
+Zain Westbrooke,Doncaster Rovers,9,0.0,,,,,0.0
+Zak Baker,Plymouth Argyle,5,0.0,,,,,0.0
+Zak Bradshaw,Tranmere Rovers,35,0.0,,,,,0.0
+Zak Brunt,Barnet,48,0.0,,,,,0.0
+Zak Johnson,Notts County,17,0.0,,,,,0.0
+Zak Johnson,Sunderland,16,0.0,,,,,0.0
+Aaron Donnelly,Colchester United,19,0.0,,,,,0.0
+Aaron Wildig,Newport County,15,0.0,,,,,0.0
+Abdoulaye Kamara,Portsmouth,18,0.0,,,,,0.0
+Zach Jeacock,Lincoln City,27,0.0,,,,,0.0
+Alan Judge,Woking,7,0.0,,,,,0.0
+Alan Massey,Maidenhead United,38,0.0,,,,,0.0
+Alassana Jatta,Notts County,41,0.0,,,,,0.0
+Albert Adomah,Walsall,49,0.0,,,,,0.0
+Albie Morgan,Blackpool,36,0.0,,,,,0.0
+Alejandro Bran,Burton Albion,3,0.0,,,,,0.0
+Alex Bannon,Burton Albion,13,0.0,,,,,0.0
+Alex Bass,Notts County,41,0.0,,,,,0.0
+Alex Cochrane,Birmingham City,42,0.0,,,,,0.0
+Alex Dyer,Wealdstone,42,0.0,,,,,0.0
+Alex Fletcher,Tamworth,31,0.0,,,,,0.0
+Alex Gilbert,Charlton Athletic,20,0.0,,,,,0.0
+Adam Rhys Davies,Sheffield United,41,0.0,,,,,0.0
+Alex Gilbey,Milton Keynes Dons,42,0.0,,,,,0.0
+Alex Giles,Gillingham,5,0.0,,,,,0.0
+Alex Gilliead,Shrewsbury Town,42,0.0,,,,,0.0
+Alex Hartridge,Exeter City,18,0.0,,,,,0.0
+Alex Hartridge,Wycombe Wanderers,13,0.0,,,,,0.0
+Alex Henderson,Accrington Stanley,42,0.0,,,,,0.0
+Alex Hunt,York City,49,0.0,,,,,0.0
+Alex Iwumene,Eastleigh,7,0.0,,,,,0.0
+Alex Kirk,Sutton United,11,0.0,,,,,0.0
+Alex Lankshear,Ebbsfleet United,15,0.0,,,,,0.0
+Alex Matos,Oxford United,21,0.0,,,,,0.0
+Alex Mitchell,Charlton Athletic,39,0.0,,,,,0.0
+Alex Mowatt,West Bromwich Albion,44,0.0,,,,,0.0
+Alex Gilbert,Middlesbrough,18,0.0,,,,,0.0
+Adam Senior,FC Halifax Town,47,0.0,,,,,0.0
+Adam Smith,Hartlepool United,46,0.0,,,,0.6,0.0
+Adan George,FC Halifax Town,24,0.0,,,,,0.0
+Ade Adeyemo,Crawley Town,31,0.0,,,,,0.0
+Adebola Oluwo,Barnet,38,0.0,,,,,0.0
+Ademipo Odubeko,Fleetwood Town,7,0.0,,,,,0.0
+Aden Baldwin,Bradford City,32,0.0,,,,,0.0
+Aden Flint,Mansfield Town,38,0.0,,,,,0.0
+Adil Aouchiche,Portsmouth,14,0.0,,,,,0.0
+Adil Aouchiche,Sunderland,19,0.0,,,,,0.0
+Adrian Akande,Reading,24,0.0,,,,,0.0
+Adrian Mariappa,Wealdstone,44,0.0,,,,,0.0
+Adrien Thibaut,Crewe Alexandra,22,0.0,,,,,0.0
+Alan Judge,Braintree Town,18,0.0,,,,,0.0
+Aidan Coyne,Maidenhead United,4,0.0,,,,,0.0
+Aidan Francis-Clarke,Braintree Town,20,0.0,,,,,0.0
+Aidan Morris,Middlesbrough,35,0.0,,,,,0.0
+Aidan Stone,Boston United,13,0.0,,,,,0.0
+Aidan Stone,Yeovil Town,17,0.0,,,,,0.0
+Aiden Marsh,Barnsley,9,0.0,,,,,0.0
+Aiden O'Brien,Woking,9,0.0,,,,,0.0
+Aidomo Emakhu,Millwall,34,0.0,,,,,0.0
+Ajay Matthews,Millwall,6,0.0,,,,,0.0
+Ajibola Alese,Sunderland,14,0.0,,,,,0.0
+Akin Famewo,Sheffield Wednesday,14,0.0,,,,,0.0
+Akinwale Odimayo,Northampton Town,44,0.0,,,,,0.0
+Alan Browne,Sunderland,29,0.0,,,,,0.0
+Aidan Barlow,Rochdale,31,0.0,,,,,0.0
+Bradley Ihionvien,Peterborough United,16,0.0,,,,,0.0
+Bradley Keetch,Maidenhead United,19,0.0,,,,,0.0
+Bradley Kelly,Rochdale,20,0.0,,,,,0.0
+Bradley Nicholson,Boston United,19,0.0,,,,,0.0
+Bradley Stevenson,Solihull Moors,41,0.0,,,,,0.0
+Branden Horton,Chesterfield,11,0.0,,,,,0.0
+Branden Horton,Gateshead,17,0.0,,,,,0.0
+Brandon Comley,Walsall,31,0.0,,,,,0.0
+Brandon Cooper,Leyton Orient,39,0.0,,,,,0.0
+Brandon Cover,Fleetwood Town,15,0.0,,,,,0.0
+Brandon Cover,Port Vale,20,0.0,,,,,0.0
+Brandon Fleming,Doncaster Rovers,18,0.0,,,,,0.0
+Ashley Barnes,Burnley,22,0.0,,,,,0.0
+Brandon Hanlan,Stevenage,17,0.0,,,,,0.0
+Brandon Hanlan,Wycombe Wanderers,9,0.0,,,,,0.0
+Brandon Haunstrup,Gateshead,13,0.0,,,,,0.0
+Brandon Khela,Birmingham City,3,0.0,,,,,0.0
+Brandon Khela,Bradford City,22,0.0,,,,,0.0
+Brandon Liggett,Cheltenham Town,5,0.0,,,,,0.0
+Brandon Mason,Wealdstone,18,0.0,,,,,0.0
+Brandon Njoku,Cambridge United,34,0.0,,,,,0.0
+Brandon Powell,Blackburn Rovers,3,0.0,,,,,0.0
+Brandon Thomas-Asante,Coventry City,42,0.0,,,,,0.0
+Brayden Johnson,Gateshead,6,0.0,,,,,0.0
+Brendan Galloway,Plymouth Argyle,16,0.0,,,,,0.0
+Brendan Kiernan,Maidenhead United,10,0.0,,,,,0.0
+Brandon Fleming,Forest Green Rovers,15,0.0,,,,,0.0
+Billy Clifford,Barnet,38,0.0,,,,,0.0
+Billy Corns,Solihull Moors,6,0.0,,,,,0.0
+Billy Kirkman,Swindon Town,19,0.0,,,,,0.0
+Billy Mitchell,Millwall,26,0.0,,,,,0.0
+Billy Sass-Davies,Hartlepool United,45,0.0,,,,,0.0
+Billy Sharp,Doncaster Rovers,43,0.0,,,,,0.0
+Billy Waters,FC Halifax Town,18,0.0,,,,,0.0
+Billy Waters,Oldham Athletic,16,0.0,,,,,0.0
+Blondy Nna Noukeu,Sunderland,4,0.0,,,,,0.0
+Bobby Kamwa,Newport County,43,0.0,,,,,0.0
+Bobby Pointon,Bradford City,42,0.0,,,,,0.0
+Bobby Thomas,Coventry City,44,0.0,,,,,0.0
+Bojan Radulovic Samoukovic,Huddersfield Town,19,0.0,,,,,0.0
+Bradley Ihionvien,Colchester United,3,0.0,,,,,0.0
+Bosun Lawal,Stoke City,20,0.0,,,,,0.0
+Botan Ameen,Swindon Town,19,0.0,,,,,0.0
+Brad Dolaghan,Aldershot Town,7,0.0,,,,,0.0
+Brad Halliday,Bradford City,46,0.0,,,,,0.0
+Brad Hills,Norwich City,18,0.0,,,,,0.0
+Brad Hills,Stockport County,18,0.0,,,,,0.0
+Brad Potts,Preston North End,30,0.0,,,,,0.0
+Brad Walker,Tranmere Rovers,9,0.0,,,,,0.0
+Brad Young,Hartlepool United,23,0.0,,,,,0.0
+Bradley Collins,Coventry City,39,0.0,,,,,0.0
+Bradley Dack,Gillingham,23,0.0,,,,,0.0
+Bradley Foster,Wrexham,4,0.0,,,,,0.0
+Bradley Ibrahim,Crawley Town,34,0.0,,,,,0.0
+Borja Sainz,Norwich City,41,0.0,,,,,0.0
+Callum Elder,Derby County,31,0.0,,,,,0.0
+Callum Guy,Carlisle United,23,0.0,,,,,0.0
+Callum Harriott,Ebbsfleet United,11,0.0,,,,,0.0
+Callum Harriott,York City,8,0.0,,,,,0.0
+Callum Hendry,Milton Keynes Dons,31,0.0,,,,,0.0
+Callum Howe,York City,47,0.0,,,,,0.0
+Callum Johnson,Bradford City,14,0.0,,,,,0.0
+Callum Jones,Morecambe,35,0.0,,,,,0.0
+Callum Lang,Portsmouth,32,0.0,,,,,0.0
+Callum Marshall,Huddersfield Town,43,0.0,,,,,0.0
+Callum Maycock,AFC Wimbledon,33,0.0,,,,,0.0
+Callum McManaman,Wigan Athletic,36,0.0,,,,,0.0
+Brendan Sarpong-Wiredu,Fleetwood Town,34,0.0,,,,,0.0
+Callum Morton,Northampton Town,8,0.0,,,,,0.0
+Callum O'Dowda,Cardiff City,42,0.0,,,,,0.0
+Callum O'Hare,Sheffield United,50,0.0,,,,,0.0
+Callum Paterson,Sheffield Wednesday,38,0.0,,,,,0.0
+Callum Perry,Coventry City,3,0.0,,,,,0.0
+Callum Powell,Braintree Town,20,0.0,,,,,0.0
+Callum Powell,Tamworth,3,0.0,,,,,0.0
+Callum Reynolds,Bromley,25,0.0,,,,,0.0
+Callum Robinson,Cardiff City,35,0.0,,,,,0.0
+Callum Stead,Barnet,44,0.0,,,,,0.0
+Callum Stewart,Shrewsbury Town,21,0.0,,,,,0.0
+Callum Styles,West Bromwich Albion,38,0.0,,,,,0.0
+Callum Tripp,Gateshead,5,0.0,,,,,0.0
+Callum Mcfarlane,Wealdstone,8,0.0,,,,,0.0
+Brenden Aaronson,Leeds United,46,0.0,,,,,0.0
+Brett Mcgavin,Yeovil Town,42,0.0,,,,,0.0
+Brodie Spencer,Huddersfield Town,35,0.0,,,,,0.0
+Brooklyn Ilunga,Bromley,22,0.0,,,,,0.0
+Brooklyn Ilunga,Milton Keynes Dons,9,0.0,,,,,0.0
+Bryant Bilongo,Bristol Rovers,19,0.0,,,,,0.0
+Bryant Bilongo,Harrogate Town,18,0.0,,,,,0.0
+Bryce Hosannah,AFC Fylde,28,0.0,,,,,0.0
+Bryn Morris,Harrogate Town,22,0.0,,,,,0.0
+Bryn Morris,Newport County,19,0.0,,,,,0.0
+Byron Webster,Bromley,42,0.0,,,,,0.0
+CJ Egan-Riley,Burnley,43,0.0,,,,,0.0
+Caleb Ansen,Altrincham,18,0.0,,,,,0.0
+Callum Doyle,Norwich City,40,0.0,,,,,0.0
+Caleb Taylor,West Bromwich Albion,7,0.0,,,,,0.0
+Caleb Taylor,Wycombe Wanderers,39,0.0,,,,,0.0
+Caleb Watts,Exeter City,33,0.0,,,,,0.0
+Caleb Wiley,Watford,12,0.0,,,,,0.0
+Callum Ainley,Grimsby Town,40,0.0,,,,,0.0
+Callum Brittain,Blackburn Rovers,34,0.0,,,,,0.0
+Callum Burton,Wrexham,24,0.0,,,,,0.0
+Callum Camps,Stockport County,28,0.0,,,,,0.0
+Callum Cockerill-Mollett,Tamworth,25,0.0,,,,,0.0
+Callum Connolly,Stockport County,42,0.0,,,,,0.0
+Callum Cooke,Morecambe,20,0.0,,,,,0.0
+Callum Dolan,Altrincham,7,0.0,,,,,0.0
+Callum Dolan,Oldham Athletic,8,0.0,,,,,0.0
+Caleb Roberts,Plymouth Argyle,13,0.0,,,,,0.0
+Baily Cargill,Mansfield Town,35,0.0,,,,,0.0
+Balazs Toth,Blackburn Rovers,37,0.0,,,,,0.0
+Bali Mumba,Plymouth Argyle,46,0.0,,,,,0.0
+Barry Bannan,Sheffield Wednesday,42,0.0,,,,,0.0
+Barry Cotter,Barnsley,25,0.0,,,,,0.0
+Bashir Humphreys,Burnley,30,0.0,,,,,0.0
+Basil Tuma,Reading,5,0.0,,,,,0.0
+Baylee Dipepa,Port Vale,3,0.0,,,,,0.0
+Bayo Youssouf,Watford,43,0.0,,,,,0.0
+Beau Macdonald,Southend United,4,0.0,,,,,0.0
+Beck-Ray Enoru,Tamworth,44,0.0,,,,,0.0
+Ben Acquaye,Tamworth,13,0.0,,,,,0.0
+Billy Chadwick,York City,34,0.0,,,,,0.0
+Ben Barclay,Carlisle United,32,0.0,,,,,0.0
+Ben Brereton Díaz,Sheffield United,18,0.0,,,,,0.0
+Ben Cabango,Swansea City,45,0.0,,,,,0.0
+Ben Chapman,Ebbsfleet United,40,0.0,,,,,0.0
+Ben Close,Doncaster Rovers,14,0.0,,,,,0.0
+Ben Close,Eastleigh,16,0.0,,,,,0.0
+Ben Coker,Barnet,44,0.0,,,,,0.0
+Ben Crompton,Tamworth,27,0.0,,,,,0.0
+Ben Davies,Birmingham City,40,0.0,,,,0.71,0.0
+Ben Doak,Middlesbrough,24,0.0,,,,,0.0
+Ben Drake,Millwall,3,0.0,,,,,0.0
+Ben Fox,Harrogate Town,14,0.0,,,,,0.0
+Ben Fox,Northampton Town,15,0.0,,,,,0.0
+Ben Amos,Port Vale,46,0.0,,,,,0.0
+Ashley Barnes,Norwich City,9,0.0,,,,,0.0
+Ashley Boatswain,AFC Fylde,18,0.0,,,,,0.0
+Ashley Charles,Bromley,34,0.0,,,,,0.0
+Ashley Fletcher,Blackpool,42,0.0,,,,,0.0
+Ashley Hay,Cheltenham Town,22,0.0,,,,,0.0
+Ashley Hunter,Accrington Stanley,35,0.0,,,,,0.0
+Ashley Maynard-Brewer,Charlton Athletic,37,0.0,,,,,0.0
+Ashley Nadesan,Sutton United,46,0.0,,,,,0.0
+Ashley Nathaniel-George,York City,41,0.0,,,,,0.0
+Ashley Palmer,Chesterfield,17,0.0,,,,,0.0
+Ashley Phillips,Stoke City,42,0.0,,,,,0.0
+Ashqar Ahmed,Reading,11,0.0,,,,,0.0
+Ashton Rinaldo,Chesterfield,6,0.0,,,,,0.0
+Bailey-Tye Cadamarteri,Lincoln City,23,0.0,,,,,0.0
+Auston Trusty,Sheffield United,3,0.0,,,,,0.0
+Aynsley Pears,Blackburn Rovers,44,0.0,,,,,0.0
+Ayodeji Elerewe,Bromley,20,0.0,,,,,0.0
+Ayodeji Sotona,Eastleigh,4,0.0,,,,,0.0
+Ayumu Yokoyama,Birmingham City,16,0.0,,,,,0.0
+Azeem Abdulai,Leyton Orient,24,0.0,,,,,0.0
+Azeem Abdulai,Swansea City,26,0.0,,,,,0.0
+Babajide Adeeko,Wigan Athletic,31,0.0,,,,,0.0
+Bae Jun-Ho,Stoke City,46,0.0,,,,,0.0
+Bailey Hobson,Barnet,13,0.0,,,,,0.0
+Bailey Hobson,Chesterfield,11,0.0,,,,,0.0
+Bailey Palmer,Middlesbrough,4,0.0,,,,,0.0
+Bailey Peacock-Farrell,Birmingham City,46,0.0,,,,,0.0
+Augustus Kargbo,Blackburn Rovers,8,0.0,,,,,0.0
+Ben Whitfield,Barrow,18,0.0,,,,,0.0
+Ben Whitfield,Burton Albion,24,0.0,,,,,0.0
+Ben Wiles,Huddersfield Town,45,0.0,,,,,0.0
+Ben Williams,Carlisle United,9,0.0,,,,,0.0
+Ben Wilmot,Stoke City,40,0.0,,,,,0.0
+Ben Wilson,Coventry City,20,0.0,,,,,0.0
+Ben Winterbottom,AFC Fylde,46,0.0,,,,,0.0
+Ben Woodburn,Salford City,34,0.0,,,,,0.0
+Ben Woods,Accrington Stanley,40,0.0,,,,,0.0
+Ben Worman,Gateshead,47,0.0,,,,,0.0
+Ben Wynter,Woking,14,0.0,,,,,0.0
+Benicio Baker-Boaitey,Port Vale,12,0.0,,,,,0.0
+Benjamin Chrisene,Norwich City,32,0.0,,,,,0.0
+Ben Garrity,Port Vale,29,0.0,,,,,0.0
+Benjamin Tanimu,Crawley Town,19,0.0,,,,,0.0
+Benjamin Whiteman,Preston North End,36,0.0,,,,,0.0
+Benn Ward,Accrington Stanley,21,0.0,,,,,0.0
+Benoný Andrésson,Stockport County,19,0.0,,,,,0.0
+Benson Manuel,Burnley,13,0.0,,,,,0.0
+Berat Ustabasi,AFC Fylde,36,0.0,,,,,0.0
+Beryly Lubula,Wycombe Wanderers,30,0.0,,,,,0.0
+Besart Topalloj,Bromley,9,0.0,,,,,0.0
+Besart Topalloj,Sutton United,25,0.0,,,,,0.0
+Billy Blacker,Sheffield United,10,0.0,,,,,0.0
+Billy Bodin,Burton Albion,20,0.0,,,,,0.0
+Billy Bodin,Reading,17,0.0,,,,,0.0
+Billy Chadwick,Boston United,5,0.0,,,,,0.0
+Benjamin Elliott,Reading,19,0.0,,,,,0.0
+Ben Gibson,Stoke City,33,0.0,,,,,0.0
+Ben Godfrey,Ipswich Town,11,0.0,,,,0.67,0.0
+Ben Goodliffe,Colchester United,22,0.0,,,,,0.0
+Ben Goodliffe,Southend United,22,0.0,,,,,0.0
+Ben Hatton,Rotherham United,9,0.0,,,,,0.0
+Ben Heneghan,Port Vale,35,0.0,,,,,0.0
+Ben Hinchliffe,Stockport County,33,0.0,,,,,0.0
+Ben House,Lincoln City,42,0.0,,,,,0.0
+Ben Jackson,Barrow,46,0.0,,,,,0.0
+Ben Killip,Barnsley,28,0.0,,,,,0.0
+Ben Lloyd,Swansea City,7,0.0,,,,,0.0
+Ben Middlemas,Sunderland,7,0.0,,,,,0.0
+Ben Milnes,Tamworth,31,0.0,,,,,0.0
+Ben Waine,Mansfield Town,34,0.0,,,,,0.0
+Ben Osborn,Derby County,31,0.0,,,,,0.0
+Ben Pearson,Stoke City,16,0.0,,,,,0.0
+Ben Perry,Northampton Town,17,0.0,,,,,0.0
+Ben Purrington,Exeter City,29,0.0,,,,,0.0
+Ben Quinn,Mansfield Town,10,0.0,,,,,0.0
+Ben Radcliffe,Crawley Town,24,0.0,,,,,0.0
+Ben Radcliffe,Gateshead,18,0.0,,,,,0.0
+Ben Sheaf,Coventry City,34,0.0,,,,,0.0
+Ben Stevenson,Cambridge United,19,0.0,,,,,0.0
+Ben Stevenson,Portsmouth,3,0.0,,,,,0.0
+Ben Thompson,Bromley,42,0.0,,,,,0.0
+Ben Tollitt,Morecambe,45,0.0,,,,,0.0
+Ben Tozer,Forest Green Rovers,42,0.0,,,,,0.0
+Ben Nelson,Oxford United,19,0.0,,,,,0.0
+Jeffrey Sekyere,Wealdstone,11,0.0,,,,,0.0
+Jemiah Umolu,Port Vale,15,0.0,,,,,0.0
+Jensen Weir,Wigan Athletic,36,0.0,,,,,0.0
+Jenson Metcalfe,Chesterfield,33,0.0,,,,,0.0
+Jenson Seelt,Sunderland,7,0.0,,,,,0.0
+Jephte Tanga,Ebbsfleet United,24,0.0,,,,,0.0
+Jeppe Okkels,Preston North End,23,0.0,,,,,0.0
+Jeremy Kelly,Crawley Town,37,0.0,,,,,0.0
+Jeremy Ngakia,Watford,32,0.0,,,,,0.0
+Jeremy Sarmiento,Burnley,39,0.0,0.0,0.0,0.0,,0.0
+Jeremy Sivi,Sutton United,25,0.0,,,,,0.0
+Jeriel Dorsett,Reading,15,0.0,,,,,0.0
+Emmanuel Fernandez,Peterborough United,32,0.0,,,,,0.0
+Jermaine Francis,Barnet,8,0.0,,,,,0.0
+Jermaine Francis,Braintree Town,29,0.0,,,,,0.0
+Jerome Okimo,Barnet,19,0.0,,,,,0.0
+Jerry Yates,Derby County,43,0.0,,,,,0.0
+Jesper Daland,Cardiff City,33,0.0,,,,,0.0
+Jesse Debrah,Port Vale,38,0.0,,,,,0.0
+Jesse Hailwood,AFC Fylde,6,0.0,,,,,0.0
+Jesurun Rak-Sakyi,Sheffield United,38,0.0,,,,,0.0
+Jesurun Uchegbulam,Eastleigh,8,0.0,,,,,0.0
+Jesurun Uchegbulam,Oldham Athletic,40,0.0,,,,,0.0
+Jezreel Davies,Ebbsfleet United,6,0.0,,,,,0.0
+Jid Okeke,Rochdale,9,0.0,,,,,0.0
+Jili Buyabu,Rochdale,27,0.0,,,,,0.0
+Jermaine Anderson,Woking,40,0.0,,,,,0.0
+Jay Rodríguez,Burnley,29,0.0,,,,,0.0
+Jay Rodríguez,Wrexham,17,0.0,,,,,0.0
+Jay Stansfield,Birmingham City,37,0.0,0.0,0.0,0.0,,0.0
+Jay Williams,Crawley Town,12,0.0,,,,,0.0
+Jay Williams,Milton Keynes Dons,10,0.0,,,,,0.0
+Jayden Bogle,Leeds United,44,0.0,,,,,0.0
+Jayden Clarke,Gillingham,40,0.0,,,,,0.0
+Jayden Fevrier,Stockport County,30,0.0,,,,,0.0
+Jayden Harris,Sutton United,16,0.0,,,,,0.0
+Jayden Luker,Grimsby Town,29,0.0,,,,,0.0
+Jayden Meghoma,Preston North End,19,0.0,,,,0.0,0.0
+Jayden Mitchell-Lawson,Maidenhead United,13,0.0,,,,,0.0
+Jayden Mundle-Smith,Wealdstone,18,0.0,,,,,0.0
+Jeff King,York City,14,0.0,,,,,0.0
+Jayden Sweeney,Leyton Orient,24,0.0,,,,,0.0
+Jayden Wareham,Reading,46,0.0,,,,,0.0
+Jaydon Banel,Burnley,4,0.0,,,,,0.0
+Jayson Molumby,West Bromwich Albion,40,0.0,,,,,0.0
+Jean Belehouan,Gateshead,29,0.0,,,,,0.0
+Jeavani Brown,Notts County,19,0.0,,,,,0.0
+Jed Steer,Peterborough United,29,0.0,,,,,0.0
+Jed Wallace,West Bromwich Albion,35,0.0,,,,,0.0
+Jed Ward,Bristol Rovers,18,0.0,,,,,0.0
+Jed Ward,Forest Green Rovers,28,0.0,,,,,0.0
+Jedidiah Brown,Wealdstone,3,0.0,,,,,0.0
+Jeff Hendrick,Derby County,6,0.0,,,,,0.0
+Jeff King,Swindon Town,8,0.0,,,,,0.0
+Jayden Stockley,Port Vale,38,0.0,,,,,0.0
+Joe Ironside,Doncaster Rovers,39,0.0,,,,,0.0
+Joe Kizzi,Barnet,17,0.0,,,,,0.0
+Joe Lewis,AFC Wimbledon,39,0.0,,,,,0.0
+Joe Low,Wycombe Wanderers,43,0.0,,,,,0.0
+Joe Lumley,Southampton,8,0.0,,,,,0.0
+Joe McDonnell,Eastleigh,46,0.0,,,,,0.0
+Joe Murphy,Tranmere Rovers,40,0.0,,,,,0.0
+Joe Newton,Solihull Moors,42,0.0,,,,,0.0
+Joe Nuttall,Altrincham,32,0.0,,,,,0.0
+Joe Pigott,AFC Wimbledon,43,0.0,,,,,0.0
+Joe Powell,Rotherham United,46,0.0,,,,,0.0
+Joe Pritchard,Milton Keynes Dons,5,0.0,,,,,0.0
+Jimiel Chikukwa,FC Halifax Town,4,0.0,,,,,0.0
+Joe Quigley,Chesterfield,3,0.0,,,,,0.0
+Joe Quigley,Forest Green Rovers,41,0.0,,,,,0.0
+Joe Ralls,Cardiff City,24,0.0,,,,,0.0
+Joe Rankin-Costello,Blackburn Rovers,44,0.0,,,,,0.0
+Joe Riley,AFC Fylde,48,0.0,,,,,0.0
+Joe Rodon,Leeds United,46,0.0,,,,,0.0
+Joe Rothwell,Leeds United,41,0.0,,,,,0.0
+Joe Ryan,Eastleigh,17,0.0,,,,,0.0
+Joe Rye,Barnet,11,0.0,,,,,0.0
+Joe Sbarra,Doncaster Rovers,34,0.0,,,,,0.0
+Joe Thomas,Newport County,27,0.0,,,,,0.0
+Joe Walsh,Queens Park Rangers,43,0.0,,,,,0.0
+Joe Ward,Derby County,17,0.0,,,,,0.0
+Joe Pritchard,Oldham Athletic,19,0.0,,,,,0.0
+Jimmy Dunne,Queens Park Rangers,45,0.0,,,,,0.0
+Jimmy Knowles,Accrington Stanley,22,0.0,,,,,0.0
+Jimmy Knowles,Boston United,19,0.0,,,,,0.0
+Jimmy Morgan,Gillingham,21,0.0,,,,,0.0
+Jj Mckiernan,Burton Albion,20,0.0,,,,,0.0
+Jj Mckiernan,Lincoln City,19,0.0,,,,,0.0
+Jobe Bellingham,Sunderland,43,0.0,,,,,0.0
+Jodi Jones,Notts County,23,0.0,,,,,0.0
+Joe Allen,Swansea City,34,0.0,,,,,0.0
+Joe Bennett,Oxford United,12,0.0,,,,,0.0
+Joe Bevan,Carlisle United,16,0.0,,,,,0.0
+Joe Bryan,Millwall,40,0.0,,,,,0.0
+Joe Cummings,FC Halifax Town,20,0.0,,,,,0.0
+Joe Hugill,Wigan Athletic,14,0.0,,,,,0.0
+Joe Edwards,Plymouth Argyle,22,0.0,,,,,0.0
+Joe Felix,York City,36,0.0,,,,,0.0
+Joe Gardner,Lincoln City,13,0.0,,,,,0.0
+Joe Garner,Oldham Athletic,26,0.0,,,,,0.0
+Joe Gauci,Barnsley,8,0.0,,,,,0.0
+Joe Gelhardt,Hull City,20,0.0,,,,,0.0
+Joe Gelhardt,Leeds United,10,0.0,,,,,0.0
+Joe Grayson,Gateshead,13,0.0,,,,,0.0
+Joe Grimwood,Barnet,34,0.0,,,,,0.0
+Joe Grimwood,Braintree Town,7,0.0,,,,,0.0
+Joe Hilton,Blackburn Rovers,10,0.0,,,,,0.0
+Joe Hilton,Bradford City,18,0.0,,,,,0.0
+Joe Hugill,Carlisle United,19,0.0,,,,,0.0
+Joe Day,Cheltenham Town,44,0.0,,,,,0.0
+James Collins,Lincoln City,20,0.0,,,,,0.0
+James Connolly,Crewe Alexandra,26,0.0,,,,,0.0
+James Dadge,Northampton Town,13,0.0,,,,,0.0
+James Daly,Harrogate Town,42,0.0,,,,,0.0
+James Debayo,Leeds United,24,0.0,,,,,0.0
+James Dornelly,Peterborough United,39,0.0,,,,,0.0
+James Furlong,AFC Wimbledon,37,0.0,,,,,0.0
+James Gale,Boston United,20,0.0,,,,,0.0
+James Gale,Solihull Moors,17,0.0,,,,,0.0
+James Gibbons,Cambridge United,31,0.0,,,,,0.0
+James Golding,Maidenhead United,7,0.0,,,,,0.0
+James Golding,Southend United,16,0.0,,,,,0.0
+Jay Robinson,Southampton,5,0.0,0.7,1.0,0.75,,0.0
+James Hillson,Southend United,13,0.0,,,,,0.0
+James Hillson,Wealdstone,5,0.0,,,,,0.0
+James Husband,Blackpool,41,0.0,,,,,0.0
+James Jones,Altrincham,33,0.0,,,,,0.0
+James Jones,Burton Albion,4,0.0,,,,,0.0
+James Kellerman,Ebbsfleet United,13,0.0,,,,,0.0
+James Maxwell,Doncaster Rovers,26,0.0,,,,,0.0
+James McClean,Wrexham,44,0.0,,,,,0.0
+James Morris,Watford,38,0.0,,,,,0.0
+James Morton,Southend United,46,0.0,,,,,0.0
+James Norwood,Oldham Athletic,28,0.0,,,,,0.0
+James Pardington,Lincoln City,24,0.0,,,,,0.0
+James Plant,Port Vale,3,0.0,,,,,0.0
+James Henry,Aldershot Town,43,0.0,,,,,0.0
+Jake Reeves,AFC Wimbledon,32,0.0,,,,,0.0
+Jake Richards,Exeter City,16,0.0,,,,,0.0
+Jake Rooney,Derby County,16,0.0,,,,,0.0
+Jake Southern-Cooper,Altrincham,39,0.0,,,,,0.0
+Jake Taylor,Eastleigh,43,0.0,,,,,0.0
+Jake Turner,Dagenham & Redbridge,7,0.0,,,,,0.0
+Jake Turner,Gillingham,27,0.0,,,,,0.0
+Jake Vokins,Eastleigh,27,0.0,,,,,0.0
+Jake Wannell,Yeovil Town,33,0.0,,,,,0.0
+Jake Young,Stevenage,35,0.0,,,,,0.0
+Jakub Przewozny,Millwall,4,0.0,,,,,0.0
+Jamal Baptiste,Sheffield United,13,0.0,,,,,0.0
+Jamal Blackman,Shrewsbury Town,27,0.0,,,,,0.0
+James Collins,Derby County,27,0.0,,,,,0.0
+Jamal Lowe,Sheffield Wednesday,39,0.0,,,,,0.0
+James Abankwah,Watford,19,0.0,,,,,0.0
+James Ball,AFC Wimbledon,24,0.0,,,,,0.0
+James Beadle,Sheffield Wednesday,46,0.0,,,,,0.0
+James Belshaw,Harrogate Town,46,0.0,,,,,0.0
+James Berry,Chesterfield,24,0.0,,,,,0.0
+James Berry,Wycombe Wanderers,6,0.0,,,,,0.0
+James Bolton,Fleetwood Town,40,0.0,,,,,0.0
+James Brophy,Cambridge United,46,0.0,,,,,0.0
+James Carragher,Wigan Athletic,41,0.0,,,,,0.0
+James Chester,Salford City,3,0.0,,,,,0.0
+James Clarke,Newport County,38,0.0,,,,,0.0
+James Clarke,Solihull Moors,41,0.0,,,,,0.0
+Jamal Fyfield,Braintree Town,37,0.0,,,,,0.0
+Jamie Stott,Morecambe,46,0.0,,,,,0.0
+Jamie Walker,Bradford City,38,0.0,,,,,0.0
+Jamie Willets,Tamworth,9,0.0,,,,,0.0
+Jamille Matt,Walsall,47,0.0,,,,,0.0
+Jamilu Collins,Cardiff City,8,0.0,,,,,0.0
+Janoi Donacien,Chesterfield,9,0.0,,,,,0.0
+Japhet Tanganga,Millwall,40,0.0,,,,,0.0
+Jasbir Singh,Tamworth,45,0.0,,,,,0.0
+Jason Adigun,Dagenham & Redbridge,8,0.0,,,,,0.0
+Jason Kerr,Wigan Athletic,45,0.0,,,,,0.0
+Jason Knight,Bristol City,48,0.0,,,,,0.0
+Jason Lowe,Port Vale,24,0.0,,,,,0.0
+James Plant,Yeovil Town,13,0.0,,,,,0.0
+Jason Svanthórsson,Grimsby Town,44,0.0,,,,,0.0
+Jasper Moon,Harrogate Town,40,0.0,,,,,0.0
+Jasper Pattenden,Wycombe Wanderers,17,0.0,,,,,0.0
+Jasper Sheik,Crawley Town,9,0.0,,,,,0.0
+Jaxon Brown,Swindon Town,4,0.0,,,,,0.0
+Jay Benn,Bradford City,18,0.0,,,,,0.0
+Jay Bird,Exeter City,17,0.0,,,,,0.0
+Jay Bird,Rochdale,11,0.0,,,,,0.0
+Jay Da Silva,Coventry City,47,0.0,,,,,0.0
+Jay Fulton,Swansea City,43,0.0,,,,,0.0
+Jay Lynch,Fleetwood Town,46,0.0,,,,,0.0
+Jay Matete,Bolton Wanderers,40,0.0,,,,,0.0
+Jay Mcgrath,Doncaster Rovers,35,0.0,,,,,0.0
+Jason Sraha,Burton Albion,23,0.0,,,,,0.0
+James Shea,Luton Town,11,0.0,,,,,0.0
+James Tilley,AFC Wimbledon,47,0.0,,,,,0.0
+James Trafford,Burnley,45,0.0,,,,,0.0
+James Vennings,Braintree Town,35,0.0,,,,,0.0
+James Wilson,Bristol Rovers,46,0.0,,,,,0.0
+James Wilson,Northampton Town,26,0.0,,,,,0.0
+Jamey Osborne,Solihull Moors,40,0.0,,,,,0.0
+Jamie Allen,Coventry City,40,0.0,,,,,0.0
+Jamie Andrews,Woking,47,0.0,,,,,0.0
+Jamie Bramwell,Gateshead,17,0.0,,,,,0.0
+Jamie Cooke,FC Halifax Town,45,0.0,,,,,0.0
+Jamie Cumming,Oxford United,46,0.0,,,,,0.0
+Jamie Donley,Leyton Orient,44,0.0,,,,,0.0
+Jamie Sterry,Doncaster Rovers,42,0.0,,,,,0.0
+Jamie Jellis,Walsall,47,0.0,,,,,0.0
+Jamie Jones,Salford City,46,0.0,,,,,0.0
+Jamie Knight-Lebel,Crewe Alexandra,42,0.0,,,,,0.0
+Jamie Lindsay,Bristol Rovers,32,0.0,,,,,0.0
+Jamie McCart,Rotherham United,18,0.0,,,,,0.0
+Jamie Mcdonnell,Colchester United,32,0.0,,,,,0.0
+Jamie Miley,Hartlepool United,18,0.0,,,,,0.0
+Jamie Miley,Newport County,6,0.0,,,,,0.0
+Jamie Paterson,Coventry City,16,0.0,,,,,0.0
+Jamie Reid,Stevenage,42,0.0,,,,,0.0
+Jamie Robson,Forest Green Rovers,48,0.0,,,,,0.0
+Jamie Searle,Forest Green Rovers,31,0.0,,,,,0.0
+Jamie Shackleton,Sheffield United,18,0.0,,,,,0.0
+Jamie Grimes,Chesterfield,43,0.0,,,,,0.0
+Josh March,Harrogate Town,44,0.0,,,,,0.0
+Josh Martin,Newport County,19,0.0,,,,,0.0
+Josh Martin,Notts County,17,0.0,,,,,0.0
+Josh McEachran,Oxford United,24,0.0,,,,,0.0
+Josh Murphy,Portsmouth,43,0.0,,,,,0.0
+Josh Neufville,AFC Wimbledon,49,0.0,,,,,0.0
+Josh Onomah,Blackpool,20,0.0,,,,,0.0
+Josh Osude,Woking,8,0.0,,,,,0.0
+Josh Rees,Dagenham & Redbridge,42,0.0,,,,,0.0
+Josh Sargent,Norwich City,32,0.0,,,,,0.0
+Josh Scowen,Wycombe Wanderers,38,0.0,,,,,0.0
+Josh Sheehan,Bolton Wanderers,35,0.0,,,,,0.0
+Joe Westley,Rochdale,6,0.0,,,,,0.0
+Josh Stones,Oldham Athletic,6,0.0,,,,,0.0
+Josh Stones,Wigan Athletic,6,0.0,,,,,0.0
+Josh Stones,York City,22,0.0,,,,,0.0
+Josh Thomas,Bromley,9,0.0,,,,,0.0
+Josh Tymon,Swansea City,45,0.0,,,,,0.0
+Josh Umerah,Dagenham & Redbridge,40,0.0,,,,,0.0
+Josh Vickers,Derby County,45,0.0,,,,,0.0
+Josh Walker,Southend United,42,0.0,,,,,0.0
+Josh Williams,Tranmere Rovers,6,0.0,,,,,0.0
+Josh Wilson-Esbrand,Stoke City,8,0.0,,,,,0.0
+Josh Windass,Sheffield Wednesday,46,0.0,,,,,0.0
+Josh Woods,Accrington Stanley,36,0.0,,,,,0.0
+Josh Wright,Ebbsfleet United,28,0.0,,,,,0.0
+Josh Sims,Yeovil Town,41,0.0,,,,,0.0
+Josh Barrett,Aldershot Town,43,0.0,,,,,0.0
+Josh Benson,Barnsley,19,0.0,,,,,0.0
+Josh Bowler,Luton Town,14,0.0,,,,,0.0
+Josh Bowler,Preston North End,20,0.0,,,,,0.0
+Josh Brownhill,Burnley,42,0.0,,,,,0.0
+Josh Campbell-Slowey,Bristol City,4,0.0,,,,,0.0
+Josh Coburn,Middlesbrough,3,0.0,,,,,0.0
+Josh Coburn,Millwall,20,0.0,,,,,0.0
+Josh Coley,Sutton United,38,0.0,,,,,0.0
+Josh Cullen,Burnley,44,0.0,,,,,0.0
+Josh Davison,Tranmere Rovers,39,0.0,,,,,0.0
+Josh Dede,Middlesbrough,5,0.0,,,,,0.0
+Josh Eccles,Coventry City,42,0.0,,,,,0.0
+Josh Maja,West Bromwich Albion,26,0.0,,,,,0.0
+Josh Flint,Crawley Town,16,0.0,,,,,0.0
+Josh Ginnelly,Swansea City,9,0.0,,,,,0.0
+Josh Gordon,Walsall,13,0.0,,,,,0.0
+Josh Grant,Wealdstone,26,0.0,,,,,0.0
+Josh Hawkes,Tranmere Rovers,27,0.0,,,,,0.0
+Josh Home,Gateshead,10,0.0,,,,,0.0
+Josh Kay,Oldham Athletic,26,0.0,,,,,0.0
+Josh Kelly,AFC Wimbledon,48,0.0,,,,,0.0
+Josh Koroma,Huddersfield Town,38,0.0,,,,,0.0
+Josh Laurent,Burnley,44,0.0,,,,,0.0
+Josh Laurent,Stoke City,3,0.0,,,,,0.0
+Josh Lundstram,Oldham Athletic,44,0.0,,,,,0.0
+Josh Magennis,Exeter City,41,0.0,,,,,0.0
+Josh Feeney,Shrewsbury Town,38,0.0,,,,,0.0
+José Córdoba,Norwich City,38,0.0,,,,,0.0
+Jovan Malcolm,Gateshead,39,0.0,,,,,0.0
+Jovon Makama,Lincoln City,39,0.0,,,,,0.0
+Joy Mukena,Crawley Town,20,0.0,,,,,0.0
+João Pedro,Hull City,35,0.0,5.0,78.0,1.11,,0.0
+Joël Piroe,Leeds United,47,0.0,,,,,0.0
+Jubril Adesope Okedina,Cambridge United,37,0.0,,,,,0.0
+Jude Arthurs,Bromley,44,0.0,,,,,0.0
+Jude Frostick,Boston United,3,0.0,,,,,0.0
+Jude Smith,Carlisle United,4,0.0,,,,,0.0
+Julian Larsson,Burton Albion,21,0.0,,,,,0.0
+Julio Pleguezuelo,Plymouth Argyle,35,0.0,,,,,0.0
+Joshua Austerfield,Salford City,25,0.0,,,,,0.0
+Junior Luamba,Salford City,16,0.0,,,,,0.0
+Junior Luamba,York City,18,0.0,,,,,0.0
+Junior Morias,Dagenham & Redbridge,20,0.0,,,,,0.0
+Junior Morias,Woking,7,0.0,,,,,0.0
+Junior Quitirna,Crawley Town,35,0.0,,,,,0.0
+Junior Tchamadeu,Stoke City,45,0.0,,,,,0.0
+Junior Tiensia,Barrow,24,0.0,,,,,0.0
+Justin Amaluzor,Altrincham,32,0.0,,,,,0.0
+Justin Obikwu,Grimsby Town,20,0.0,,,,,0.0
+Jón Bödvarsson,Burton Albion,13,0.0,,,,,0.0
+Jón Bödvarsson,Wrexham,4,0.0,,,,,0.0
+Kabongo Tshimanga,Swindon Town,42,0.0,,,,,0.0
+Kacper Pasiek,Altrincham,11,0.0,,,,,0.0
+Junior Firpo,Leeds United,34,0.0,,,,,0.0
+Joshua Dacres-Cogley,Bolton Wanderers,44,0.0,,,,,0.0
+Joshua Earl,Barnsley,34,0.0,,,,,0.0
+Joshua Edwards,Charlton Athletic,42,0.0,,,,,0.0
+Joshua Emmanuel,Doncaster Rovers,5,0.0,,,,,0.0
+Joshua Emmanuel,FC Halifax Town,13,0.0,,,,,0.0
+Joshua Falkingham,Harrogate Town,24,0.0,,,,,0.0
+Joshua Griffiths,Bristol Rovers,28,0.0,,,,,0.0
+Joshua Griffiths,West Bromwich Albion,16,0.0,,,,,0.0
+Joshua Johnson,Maidenhead United,25,0.0,,,,,0.0
+Joshua Kayode,Rotherham United,12,0.0,,,,,0.0
+Joshua Kayode,Shrewsbury Town,6,0.0,,,,,0.0
+Joshua Keeley,Leyton Orient,40,0.0,,,,,0.0
+Joshua Key,Swansea City,46,0.0,,,,,0.0
+Josuha Guilavogui,Leeds United,36,0.0,,,,,0.0
+Joshua Passley,Bromley,6,0.0,,,,,0.0
+Joshua Passley,Ebbsfleet United,11,0.0,,,,,0.0
+Joshua Ruffels,Huddersfield Town,25,0.0,,,,,0.0
+Joshua Smith,Accrington Stanley,3,0.0,,,,,0.0
+Joshua Smith,Woking,4,0.0,,,,,0.0
+Joshua Stokes,Cambridge United,32,0.0,,,,,0.0
+Joshua Strizovic,Dagenham & Redbridge,8,0.0,,,,,0.0
+Joshua Tomlinson,Northampton Town,3,0.0,,,,,0.0
+Joshua Vela,Carlisle United,32,0.0,,,,,0.0
+Joshua Williams,Carlisle United,6,0.0,,,,,0.0
+Joshua Williams,Gateshead,10,0.0,,,,,0.0
+Josiah Dyer,Barnsley,3,0.0,,,,,0.0
+Joss Labadie,Solihull Moors,28,0.0,,,,,0.0
+Joshua Laqeretabua,Charlton Athletic,4,0.0,,,,,0.0
+John Swift,West Bromwich Albion,44,0.0,,,,,0.0
+John-Joe O'Toole,AFC Wimbledon,23,0.0,,,,,0.0
+John-Kymani Gordon,Colchester United,43,0.0,,,,,0.0
+Johnly Levi Yfeko,Exeter City,13,0.0,,,,,0.0
+Jojo Wollacott,Crawley Town,34,0.0,,,,,0.0
+Jon Guthrie,Northampton Town,24,0.0,,,,,0.0
+Jon McLaughlin,Swansea City,43,0.0,,,,,0.0
+Jon Mellish,Carlisle United,23,0.0,,,,,0.0
+Jon Mellish,Wigan Athletic,23,0.0,,,,,0.0
+Jon Smith,Wigan Athletic,36,0.0,,,,,0.0
+Jon Taylor,Salford City,44,0.0,,,,,0.0
+Jonathan Bland,Barnsley,11,0.0,,,,,0.0
+Josh Andrews,Gillingham,12,0.0,,,,,0.0
+Jonathan Hogg,Huddersfield Town,41,0.0,,,,,0.0
+Jonathan Howson,Middlesbrough,25,0.0,,,,,0.0
+Jonathan Leko,Milton Keynes Dons,10,0.0,,,,,0.0
+Jonathan Lewis,Barnsley,10,0.0,,,,,0.0
+Jonathan Russell,Barnsley,42,0.0,,,,,0.0
+Jonathan Varane,Queens Park Rangers,39,0.0,,,,,0.0
+Jonjo Shelvey,Burnley,5,0.0,,,,,0.0
+Jonny Stuttle,Aldershot Town,8,0.0,,,,,0.0
+Jonny Williams,Gillingham,34,0.0,,,,,0.0
+Jonson Clarke-Harris,Rotherham United,36,0.0,,,,,0.0
+Jordan Archer,Portsmouth,38,0.0,,,,,0.0
+Jordan Bowery,Mansfield Town,44,0.0,,,,,0.0
+Jordan Brown,Leyton Orient,47,0.0,,,,,0.0
+Jonathan Bond,Watford,38,0.0,,,,,0.0
+Joe Westley,Swindon Town,19,0.0,,,,,0.0
+Joe White,Milton Keynes Dons,36,0.0,,,,,0.0
+Joe Wildsmith,West Bromwich Albion,45,0.0,,,,,0.0
+Joe Williams,Bristol City,30,0.0,,,,,0.0
+Joe Worrall,Burnley,31,0.0,,,,,0.0
+Joe Young,Shrewsbury Town,29,0.0,,,,,0.0
+Joel Bagan,Cardiff City,45,0.0,,,,,0.0
+Joel Colwill,Cheltenham Town,23,0.0,,,,,0.0
+Joel Colwill,Exeter City,20,0.0,,,,,0.0
+Joel Cotterill,Swindon Town,43,0.0,,,,,0.0
+Joel Dixon,Hartlepool United,7,0.0,,,,,0.0
+Joel Felix,York City,11,0.0,,,,,0.0
+Joel Latibeaudiere,Coventry City,48,0.0,,,,,0.0
+John Mcatee,Bolton Wanderers,47,0.0,,,,,0.0
+Joel Pereira,Reading,40,0.0,,,,,0.0
+Joel Randall,Bolton Wanderers,21,0.0,,,,,0.0
+Joel Randall,Peterborough United,20,0.0,,,,,0.0
+Joel Senior,Bristol Rovers,24,0.0,,,,,0.0
+Joel Tabiner,Crewe Alexandra,41,0.0,,,,,0.0
+Joey Grey,Hartlepool United,40,0.0,,,,,0.0
+John Akinde,Braintree Town,44,0.0,,,,,0.0
+John Bostock,Solihull Moors,43,0.0,,,,,0.0
+John Buckley,Blackburn Rovers,42,0.0,,,,,0.0
+John Egan,Burnley,26,0.0,,,,,0.0
+John Egan,Hull City,16,0.0,,,,,0.0
+John Fleck,Chesterfield,23,0.0,,,,,0.0
+John Marquis,Shrewsbury Town,43,0.0,,,,,0.0
+Joel Mcgregor,Swindon Town,21,0.0,,,,,0.0
+Jordan Turnbull,Tranmere Rovers,44,0.0,,,,,0.0
+Jordan Williams,Barrow,18,0.0,,,,,0.0
+Jordan Williams,Milton Keynes Dons,19,0.0,,,,,0.0
+Zac Emmerson,FC Halifax Town,40,0.0,,,,,0.0
+Jordan Willis,Northampton Town,22,0.0,,,,,0.0
+Jordan Wright,Grimsby Town,39,0.0,,,,,0.0
+Jordan Young,Yeovil Town,16,0.0,,,,,0.0
+Jordi Osei-Tutu,Bolton Wanderers,33,0.0,,,,,0.0
+Jordi van Stappershoef,Aldershot Town,43,0.0,,,,,0.0
+Joseph Ajose,Maidenhead United,31,0.0,,,,,0.0
+Joseph Anderson,Sunderland,11,0.0,,,,,0.0
+Joseph Aungiers,Hartlepool United,3,0.0,,,,,0.0
+Jordan Clark,Luton Town,41,0.0,,,,,0.0
+Joseph Gbode,Gillingham,39,0.0,,,,,0.0
+Joseph Gubbins,Southend United,45,0.0,,,,,0.0
+Joseph Hodge,Huddersfield Town,32,0.0,,,,,0.0
+Joseph Hungbo,Rotherham United,18,0.0,,,,,0.0
+Joseph Hungbo,Wigan Athletic,16,0.0,,,,,0.0
+Joseph Johnson,Luton Town,19,0.0,,,,,0.0
+Joseph O'Brien-Whitmarsh,Accrington Stanley,14,0.0,,,,,0.0
+Joseph Olowu,Doncaster Rovers,34,0.0,,,,,0.0
+Joseph Rafferty,Rotherham United,39,0.0,,,,,0.0
+Joseph Taylor,Huddersfield Town,15,0.0,,,,,0.0
+Joseph Taylor,Luton Town,23,0.0,,,,,0.0
+Joseph Tomlinson,Milton Keynes Dons,43,0.0,,,,,0.0
+Joseph Whitworth,Exeter City,46,0.0,,,,,0.0
+Joseph Dodoo,Solihull Moors,7,0.0,,,,,0.0
+Jordan Cousins,Cambridge United,32,0.0,,,,,0.0
+Jordan Cropper,Barnet,38,0.0,,,,,0.0
+Jordan Cullinane-Liburd,Tamworth,34,0.0,,,,,0.0
+Jordan Davies,Grimsby Town,19,0.0,,,,,0.0
+Jordan Garrick,Forest Green Rovers,24,0.0,,,,,0.0
+Jordan Gibson,Doncaster Rovers,46,0.0,,,,,0.0
+Jordan Gilmore,Barnet,13,0.0,,,,,0.0
+Jordan Graham,Leyton Orient,10,0.0,,,,,0.0
+Jordan Houghton,Plymouth Argyle,43,0.0,,,,,0.0
+Jordan Hugill,Rotherham United,44,0.0,,,,,0.0
+Jordan Jones,Carlisle United,21,0.0,,,,,0.0
+Jordan Lawrence-Gabriel,Blackpool,43,0.0,,,,,0.0
+Jordan Moore-Taylor,Forest Green Rovers,24,0.0,,,,,0.0
+Jordan Tunnicliffe,Solihull Moors,28,0.0,,,,,0.0
+Jordan Rhodes,Blackpool,26,0.0,,,,,0.0
+Jordan Rhodes,Mansfield Town,17,0.0,,,,,0.0
+Jordan Richards,Boston United,42,0.0,,,,,0.0
+Jordan Roberts,Stevenage,43,0.0,,,,,0.0
+Jordan Rossiter,Oldham Athletic,27,0.0,,,,,0.0
+Jordan Rossiter,Shrewsbury Town,20,0.0,,,,,0.0
+Jordan Shipley,Shrewsbury Town,37,0.0,,,,,0.0
+Jordan Slew,Morecambe,37,0.0,,,,,0.0
+Jordan Storey,Preston North End,39,0.0,,,,,0.0
+Jordan Thomas,Cheltenham Town,40,0.0,,,,,0.0
+Jordan Thomas,Yeovil Town,9,0.0,,,,,0.0
+Jordan Thompson,Stoke City,30,0.0,,,,,0.0
+Jordan Thorniley,Oxford United,9,0.0,,,,,0.0
+Jordan Ponticelli,Tamworth,27,0.0,,,,,0.0
+George Moncur,Ebbsfleet United,21,0.0,,,,,0.0
+George Moncur,Southend United,20,0.0,,,,,0.0
+George Morrison,Fleetwood Town,7,0.0,,,,,0.0
+George Morrison,Tamworth,34,0.0,,,,,0.0
+George Nevett,Peterborough United,28,0.0,,,,,0.0
+George Nurse,Shrewsbury Town,39,0.0,,,,,0.0
+George Saville,Millwall,46,0.0,,,,,0.0
+George Shelvey,Gateshead,9,0.0,,,,,0.0
+George Tanner,Bristol City,38,0.0,,,,,0.0
+George Thomason,Bolton Wanderers,38,0.0,,,,,0.0
+George Wickens,Lincoln City,41,0.0,,,,,0.0
+George Wilson,Altrincham,35,0.0,,,,,0.0
+Jake Lovelace,Boston United,27,0.0,,,,,0.0
+Georgie Gent,Barnsley,30,0.0,,,,,0.0
+Georgie Kelly,Carlisle United,19,0.0,,,,,0.0
+Gerard Garner,Barrow,17,0.0,,,,,0.0
+Gerard Garner,Morecambe,8,0.0,,,,,0.0
+Gethin Jones,Bolton Wanderers,29,0.0,,,,,0.0
+Gianluca Frabotta,West Bromwich Albion,32,0.0,,,,,0.0
+Gideon Kodua,Wycombe Wanderers,26,0.0,,,,,0.0
+Giles Phillips,Ebbsfleet United,9,0.0,,,,,0.0
+Giorgi Chakvetadze,Watford,40,0.0,,,,,0.0
+Giosue Bellagambi,Barnet,29,0.0,,,,,0.0
+Glenn Morris,Gillingham,41,0.0,,,,,0.0
+Gonçalo Franco,Swansea City,45,0.0,,,,,0.0
+Grady Diangana,West Bromwich Albion,37,0.0,,,,,0.0
+George Wind,Southend United,45,0.0,,,,,0.0
+Gatlin O'Donkor,Bristol Rovers,28,0.0,,,,,0.0
+Gavan Holohan,Crawley Town,28,0.0,,,,,0.0
+Gavin Kilkenny,Swindon Town,42,0.0,,,,,0.0
+Gavin Massey,AFC Fylde,40,0.0,,,,,0.0
+Geoffroy Bony,Newport County,11,0.0,,,,,0.0
+George Abbott,Notts County,42,0.0,,,,,0.0
+George B. Williams,Mansfield Town,12,0.0,,,,,0.0
+George Broadbent,Doncaster Rovers,45,0.0,,,,,0.0
+George Byers,Port Vale,23,0.0,,,,,0.0
+George Cox,Swindon Town,31,0.0,,,,,0.0
+George Dobson,Wrexham,43,0.0,,,,,0.0
+George Earthy,Bristol City,44,0.0,,,,,0.0
+George Evans,Millwall,11,0.0,,,,,0.0
+George Miller,Cheltenham Town,44,0.0,,,,,0.0
+George Evans,Wrexham,7,0.0,,,,,0.0
+George Hall,Walsall,21,0.0,,,,,0.0
+George Hoddle,Cambridge United,15,0.0,,,,,0.0
+George Honeyman,Millwall,44,0.0,,,,,0.0
+George Johnston,Bolton Wanderers,40,0.0,,,,,0.0
+George Langston,Braintree Town,44,0.0,,,,,0.0
+George Lapslie,Bradford City,19,0.0,,,,,0.0
+George Lapslie,Gillingham,15,0.0,,,,,0.0
+George Lloyd,Shrewsbury Town,45,0.0,,,,,0.0
+George Long,Norwich City,41,0.0,,,,,0.0
+George Maris,Mansfield Town,27,0.0,,,,,0.0
+George McEachran,Grimsby Town,44,0.0,,,,,0.0
+George Mccormick,Middlesbrough,13,0.0,,,,,0.0
+George Evans,Sutton United,3,0.0,,,,,0.0
+Hannibal Mejbri,Burnley,41,0.0,,,,,0.0
+Harlee Dean,Reading,24,0.0,,,,,0.0
+Harley Hunt,Middlesbrough,8,0.0,,,,,0.0
+Harley Mills,Peterborough United,16,0.0,,,,,0.0
+Harley O'Grady-Macken,Blackburn Rovers,7,0.0,,,,,0.0
+Harrison Armstrong,Derby County,16,0.0,0.1,1.0,0.33,,0.0
+Harrison Ashby,Queens Park Rangers,40,0.0,,,,,0.0
+Harrison Biggins,Carlisle United,17,0.0,,,,,0.0
+Harrison Biggins,Shrewsbury Town,19,0.0,,,,,0.0
+Harrison Bond,Gateshead,15,0.0,,,,,0.0
+Harrison Burrows,Sheffield United,49,0.0,,,,,0.0
+Harrison Clarke,Sheffield United,6,0.0,,,,,0.0
+Grant Hall,Swindon Town,15,0.0,,,,,0.0
+Harrison Firth,Ebbsfleet United,8,0.0,,,,,0.0
+Harrison Holgate,Fleetwood Town,5,0.0,,,,,0.0
+Harrison Jones,Sunderland,34,0.0,,,,,0.0
+Harrison Male,York City,47,0.0,,,,,0.0
+Harrison Minturn,Swindon Town,17,0.0,,,,,0.0
+Harrison Neal,Carlisle United,23,0.0,,,,,0.0
+Harrison Neal,Fleetwood Town,22,0.0,,,,,0.0
+Harrison Sohna,Cheltenham Town,12,0.0,,,,,0.0
+Harrison Sohna,Wealdstone,20,0.0,,,,,0.0
+Harry Anderson,Colchester United,34,0.0,,,,,0.0
+Harry Beautyman,Woking,39,0.0,,,,,0.0
+Harry Burgoyne,Morecambe,45,0.0,,,,,0.0
+Harry Cardwell,Forest Green Rovers,40,0.0,,,,,0.0
+Harrison Duncan,Rotherham United,6,0.0,,,,,0.0
+Grant Hanley,Birmingham City,24,0.0,,,,,0.0
+Grant Hanley,Norwich City,24,0.0,,,,,0.0
+Grant Smith,Bromley,45,0.0,,,,,0.0
+Grant Ward,Bristol Rovers,37,0.0,,,,,0.0
+Greg Cundle,Ebbsfleet United,15,0.0,,,,,0.0
+Greg Docherty,Charlton Athletic,45,0.0,,,,,0.0
+Greg Leigh,Oxford United,37,0.0,,,,,0.0
+Greg Olley,Gateshead,4,0.0,,,,,0.0
+Gregory Sloggett,Boston United,9,0.0,,,,,0.0
+Gregory Sloggett,Hartlepool United,25,0.0,,,,,0.0
+Gus Scott-Morriss,Southend United,48,0.0,,,,,0.0
+Gustav Lindgren,Peterborough United,16,0.0,,,,,0.0
+Gustavo Hamer,Sheffield United,46,0.0,,,,,0.0
+Hannes Delcroix,Swansea City,15,0.0,,,,,0.0
+Gwion Edwards,Morecambe,25,0.0,,,,,0.0
+Géza Dávid Turi,Grimsby Town,8,0.0,,,,,0.0
+Hady Ghandour,Aldershot Town,24,0.0,,,,,0.0
+Haji Mnoga,Salford City,40,0.0,,,,,0.0
+Haji Wright,Coventry City,29,0.0,,,,,0.0
+Hakeeb Adelakun,Salford City,31,0.0,,,,,0.0
+Hakeem Odofin,Rotherham United,44,0.0,,,,,0.0
+Hallam Hope,Morecambe,39,0.0,,,,,0.0
+Hamish Douglas,Rotherham United,3,0.0,,,,,0.0
+Hamza Choudhury,Leicester City,15,0.0,0.4,3.0,0.5,1.25,0.0
+Hamza Choudhury,Sheffield United,19,0.0,0.4,3.0,0.5,1.25,0.0
+Hamzad Kargbo,Newport County,3,0.0,,,,,0.0
+Han-Noah Massengo,Burnley,17,0.0,,,,,0.0
+Gustavo Puerta,Hull City,36,0.0,,,,,0.0
+Ethan Galbraith,Leyton Orient,42,0.0,,,,,0.0
+Ethan Hamilton,Lincoln City,38,0.0,,,,,0.0
+Ethan Horvath,Cardiff City,46,0.0,,,,,0.0
+Ethan Laird,Birmingham City,36,0.0,,,,,0.0
+Ethan Mitchell,AFC Fylde,40,0.0,,,,,0.0
+Ethan Pye,Stockport County,44,0.0,,,,,0.0
+Ethan Robson,Carlisle United,9,0.0,,,,,0.0
+Ethan Robson,Gateshead,3,0.0,,,,,0.0
+Ethan Ross,Altrincham,27,0.0,,,,,0.0
+Ethan Sutherland,Solihull Moors,9,0.0,,,,,0.0
+Ethan Wheatley,Walsall,5,0.0,,,,,0.0
+Ethan Williams,Cheltenham Town,20,0.0,,,,,0.0
+Gassan Ahadme,Charlton Athletic,23,0.0,,,,,0.0
+Euan Williams,Gillingham,20,0.0,,,,,0.0
+Evan Khouri,Grimsby Town,46,0.0,,,,,0.0
+Evan Weir,Walsall,30,0.0,,,,,0.0
+Fabian Mrozek,Forest Green Rovers,11,0.0,,,,,0.0
+Fabio Jalo,Barnsley,20,0.0,,,,,0.0
+Fabio Tavares,Burton Albion,10,0.0,,,,,0.0
+Fabio Tavares,Coventry City,21,0.0,,,,,0.0
+Fally Mayulu,Bristol City,26,0.0,,,,,0.0
+Farrend Rawson,Accrington Stanley,38,0.0,,,,,0.0
+Favour Fawunmi,Stoke City,4,0.0,,,,,0.0
+Felipe,Preston North End,5,0.0,,,,,0.0
+Felix Goddard,Ebbsfleet United,11,0.0,,,,,0.0
+Femi Azeez,Millwall,34,0.0,,,,,0.0
+Ethon Archer,Cheltenham Town,46,0.0,,,,,0.0
+Emmanuel Latte Lath,Middlesbrough,29,0.0,,,,,0.0
+Emmanuel Longelo,Cambridge United,24,0.0,,,,,0.0
+Emmanuel Maja,Aldershot Town,14,0.0,,,,,0.0
+Emmanuel Monthe,Oldham Athletic,30,0.0,,,,,0.0
+Emmanuel Okunowo,Braintree Town,10,0.0,,,,,0.0
+Emmanuel Osho,Reading,5,0.0,,,,,0.0
+Emmerson Sutton,Queens Park Rangers,6,0.0,,,,,0.0
+Emre Tezgel,Stoke City,35,0.0,,,,,0.0
+Enda Stevens,Stoke City,24,0.0,,,,,0.0
+Eno Nto,Harrogate Town,4,0.0,,,,,0.0
+Enock Agyei,Burnley,11,0.0,,,,,0.0
+Enzio Boldewijn,Wealdstone,45,0.0,,,,,0.0
+Enzo Le Fée,Sunderland,18,0.0,,,,,0.0
+Ethan Erhahon,Lincoln City,31,0.0,,,,,0.0
+Eoin Toal,Bolton Wanderers,19,0.0,,,,,0.0
+Eom Ji-Sung,Swansea City,39,0.0,,,,,0.0
+Ephraim Yeboah,Doncaster Rovers,14,0.0,,,,,0.0
+Ephron Mason-Clark,Coventry City,35,0.0,,,,,0.0
+Eric Bocat,Stoke City,35,0.0,,,,,0.0
+Erik Pieters,Derby County,8,0.0,,,,,0.0
+Erik Pieters,Luton Town,3,0.0,,,,,0.0
+Erik Ring,Lincoln City,32,0.0,,,,,0.0
+Ethan Ampadu,Leeds United,31,0.0,,,,,0.0
+Ethan Chislett,Port Vale,30,0.0,,,,,0.0
+Ethan Coleman,Gillingham,22,0.0,,,,,0.0
+Ethan Ebanks-Landell,Rochdale,21,0.0,,,,,0.0
+Ethan Ennis,Doncaster Rovers,20,0.0,,,,,0.0
+Eoghan O'Connell,Wrexham,46,0.0,,,,,0.0
+Frank Nouble,Gateshead,8,0.0,,,,,0.0
+Frank Nouble,Yeovil Town,38,0.0,,,,,0.0
+Frankie Maguire,Boston United,40,0.0,,,,,0.0
+Frankie Sinfield,FC Halifax Town,10,0.0,,,,,0.0
+Frankie Terry,Braintree Town,19,0.0,,,,,0.0
+Frankie Terry,Colchester United,5,0.0,,,,,0.0
+Frankie Terry,Yeovil Town,11,0.0,,,,,0.0
+Franklin Domi,Ebbsfleet United,38,0.0,,,,,0.0
+Fraser Horsfall,Stockport County,32,0.0,,,,,0.0
+Frazer Blake-Tracy,Mansfield Town,18,0.0,,,,,0.0
+Fred Onyedinma,Wycombe Wanderers,42,0.0,,,,,0.0
+Freddie Draper,Lincoln City,41,0.0,,,,,0.0
+Femi Seriki,Sheffield United,30,0.0,,,,,0.0
+Freddie O'Donoghue,Carlisle United,7,0.0,,,,,0.0
+Freddie Potts,Portsmouth,40,0.0,,,,,0.0
+Freddie Turley,Derby County,3,0.0,,,,,0.0
+Freddie Willcox,Cheltenham Town,5,0.0,,,,,0.0
+Freddie Woodman,Preston North End,37,0.0,,,,,0.0
+Frederick Issaka,Plymouth Argyle,31,0.0,,,,,0.0
+Funso Ojo,Shrewsbury Town,34,0.0,,,,,0.0
+Gabriel Breeze,Carlisle United,46,0.0,,,,,0.0
+Gabriel Forsyth,Norwich City,13,0.0,,,,,0.0
+Gabriel Otegbayo,Sheffield Wednesday,22,0.0,,,,,0.0
+Gaga Slonina,Barnsley,12,0.0,,,,,0.0
+Garath McCleary,Wycombe Wanderers,45,0.0,,,,,0.0
+Gary Madine,Hartlepool United,33,0.0,,,,,0.0
+Freddie Ladapo,Huddersfield Town,27,0.0,,,,,0.0
+Festus Arthur,FC Halifax Town,22,0.0,,,,,0.0
+Festy Ebosele,Watford,23,0.0,,,,,0.0
+Fiacre Kelleher,Colchester United,38,0.0,,,,,0.0
+Filip Marschall,Crewe Alexandra,46,0.0,,,,,0.0
+Fin Roberts,Crewe Alexandra,7,0.0,,,,,0.0
+Finlay Armstrong,Rochdale,24,0.0,,,,,0.0
+Finley Barbrook,Sutton United,36,0.0,,,,,0.0
+Finley Burns,Hull City,27,0.0,,,,,0.0
+Finley Holmes,Solihull Moors,9,0.0,,,,,0.0
+Finley Potter,Fleetwood Town,36,0.0,,,,,0.0
+Finley Wilkinson,Barnet,7,0.0,,,,,0.0
+Finley Wilkinson,Braintree Town,8,0.0,,,,,0.0
+Finn Azaz,Middlesbrough,46,0.0,,,,,0.0
+Frank Fielding,Stoke City,4,0.0,,,,,0.0
+Finn Delap,Burton Albion,28,0.0,,,,,0.0
+Finn Howell,Solihull Moors,23,0.0,,,,,0.0
+Fletcher Holman,Solihull Moors,20,0.0,,,,,0.0
+Florent Hoti,FC Halifax Town,42,0.0,,,,,0.0
+Florian Bianchini,Swansea City,45,0.0,,,,,0.0
+Forson Amankwah,Norwich City,37,0.0,,,,,0.0
+Fran Obiagwu,Northampton Town,7,0.0,,,,,0.0
+Francis Okoronkwo,Salford City,22,0.0,,,,,0.0
+Francis Vincent,Dagenham & Redbridge,23,0.0,,,,,0.0
+Francis Vincent,Woking,21,0.0,,,,,0.0
+Francisco Sierralta,Watford,42,0.0,,,,,0.0
+Franco Ravizzoli,Wycombe Wanderers,48,0.0,,,,,0.0
+Franco Umeh-Chibueze,Crystal Palace,8,0.0,,,,,0.0
+Finn Cousin-Dawson,Yeovil Town,43,0.0,,,,,0.0
+Jack Rudoni,Coventry City,45,0.0,,,,,0.0
+Jack Sanders,Milton Keynes Dons,14,0.0,,,,,0.0
+Jack Senior,Doncaster Rovers,23,0.0,,,,,0.0
+Jack Shepherd,Bradford City,42,0.0,,,,,0.0
+Jack Shorrock,Port Vale,20,0.0,,,,,0.0
+Jack Simpson,Leyton Orient,23,0.0,,,,,0.0
+Jack Sims,Sutton United,46,0.0,,,,,0.0
+Jack Sowerby,Northampton Town,11,0.0,,,,,0.0
+Jack Sparkes,Chesterfield,12,0.0,,,,,0.0
+Jack Sparkes,Peterborough United,22,0.0,,,,,0.0
+Jack Stacey,Norwich City,46,0.0,,,,,0.0
+Jack Stephens,Cambridge United,41,0.0,,,,0.68,0.0
+Harry Cardwell,Southend United,6,0.0,,,,,0.0
+Jack Stretton,Burton Albion,8,0.0,,,,,0.0
+Jack Stretton,Oldham Athletic,4,0.0,,,,,0.0
+Jack Stretton,Stockport County,3,0.0,,,,,0.0
+Jack Stretton,Woking,6,0.0,,,,,0.0
+Jack Taylor,Sutton United,13,0.0,0.5,43.0,0.16,,0.0
+Jack Tucker,Colchester United,18,0.0,,,,,0.0
+Jack Tucker,Milton Keynes Dons,15,0.0,,,,,0.0
+Jack Vale,Blackburn Rovers,3,0.0,,,,,0.0
+Jack Wadham,Sutton United,37,0.0,,,,,0.0
+Jack Wakely,Ebbsfleet United,9,0.0,,,,,0.0
+Jack Wells-Morrison,Solihull Moors,16,0.0,,,,,0.0
+Jack Wells-Morrison,Wealdstone,18,0.0,,,,,0.0
+Jack Whatmough,Preston North End,30,0.0,,,,,0.0
+Jack Stevens,Solihull Moors,27,0.0,,,,,0.0
+Jack Diamond,Stockport County,39,0.0,,,,,0.0
+Jack Earing,Walsall,23,0.0,,,,,0.0
+Jack Ellis,Carlisle United,33,0.0,,,,,0.0
+Jack Evans,FC Halifax Town,36,0.0,,,,,0.0
+Jack Fitzwater,Exeter City,33,0.0,,,,,0.0
+Jack Grimmer,Wycombe Wanderers,41,0.0,,,,,0.0
+Jack Hazlehurst,Burton Albion,3,0.0,,,,,0.0
+Jack Hinchy,Notts County,46,0.0,,,,,0.0
+Jack Holmes,Rotherham United,39,0.0,,,,,0.0
+Jack Hunt,Bristol Rovers,20,0.0,,,,,0.0
+Jack Hunter,Hartlepool United,34,0.0,,,,,0.0
+Jack Jenkins,FC Halifax Town,44,0.0,,,,,0.0
+Jack Kingdon,Rochdale,21,0.0,,,,,0.0
+Jack Roles,Gateshead,12,0.0,,,,,0.0
+Jack Loughran,Shrewsbury Town,3,0.0,,,,,0.0
+Jack Marriott,Wrexham,30,0.0,,,,,0.0
+Jack McMillan,Exeter City,43,0.0,,,,,0.0
+Jack Morris,AFC Fylde,4,0.0,,,,,0.0
+Jack Moylan,Lincoln City,29,0.0,,,,,0.0
+Jack Muldoon,Harrogate Town,42,0.0,,,,,0.0
+Jack Nolan,Gillingham,39,0.0,,,,,0.0
+Jack Payne,Colchester United,42,0.0,,,,,0.0
+Jack Powell,Crewe Alexandra,30,0.0,,,,,0.0
+Jack Robinson,Carlisle United,5,0.0,,,,,0.0
+Jack Robinson,Hartlepool United,6,0.0,,,,,0.0
+Jack Robinson,Sheffield United,43,0.0,,,,,0.0
+Jack Roles,Crawley Town,28,0.0,,,,,0.0
+Jack Lankester,Crewe Alexandra,24,0.0,,,,,0.0
+Jaheim Headley,Huddersfield Town,19,0.0,,,,,0.0
+Jaheim Headley,Port Vale,8,0.0,,,,,0.0
+Jahmari Clarke,Wealdstone,6,0.0,,,,,0.0
+Jai Rowe,Boston United,46,0.0,,,,,0.0
+Jai Semenyo,Eastleigh,40,0.0,,,,,0.0
+Jaiden Bartolo,Wycombe Wanderers,3,0.0,,,,,0.0
+Jaidon Anthony,Burnley,43,0.0,,,,,0.0
+Jak Alnwick,Cardiff City,33,0.0,,,,,0.0
+Jake Allan,Carlisle United,4,0.0,,,,,0.0
+Jake Batty,Accrington Stanley,28,0.0,,,,,0.0
+Jake Beesley,Blackpool,29,0.0,,,,,0.0
+Jake Bickerstaff,Altrincham,33,0.0,,,,,0.0
+Jack Wood,Southend United,21,0.0,,,,,0.0
+Jake Burger,Rochdale,32,0.0,,,,,0.0
+Jake Cain,Swindon Town,34,0.0,,,,,0.0
+Jake Caprice,Oldham Athletic,46,0.0,,,,,0.0
+Jake Clark-Salter,Queens Park Rangers,14,0.0,,,,,0.0
+Jake Cooper,Millwall,36,0.0,,,,,0.0
+Jake Dennis,Oldham Athletic,17,0.0,,,,,0.0
+Jake Eastwood,Grimsby Town,22,0.0,,,,,0.0
+Jake Forster-Caskey,Stevenage,3,0.0,,,,,0.0
+Jake Garrett,Bristol Rovers,15,0.0,,,,,0.0
+Jake Garrett,Tranmere Rovers,17,0.0,,,,,0.0
+Jake Hessenthaler,Dagenham & Redbridge,35,0.0,,,,,0.0
+Jake Hull,Rotherham United,10,0.0,,,,,0.0
+Jake Leake,Oldham Athletic,18,0.0,,,,,0.0
+Jake Bidwell,Coventry City,42,0.0,,,,,0.0
+Jackson Smith,Barnsley,23,0.0,,,,,0.0
+Jackson Smith,Grimsby Town,6,0.0,,,,,0.0
+Jacob Adams,Wealdstone,19,0.0,,,,,0.0
+Jacob Bedeau,Notts County,46,0.0,,,,,0.0
+Jacob Berkeley-Agyepong,Wealdstone,4,0.0,,,,,0.0
+Jacob Brown,Luton Town,30,0.0,,,,,0.0
+Jacob Butterfield,Gateshead,23,0.0,,,,,0.0
+Jacob Carney,Newport County,24,0.0,,,,,0.0
+Jacob Chapman,Huddersfield Town,41,0.0,,,,,0.0
+Jacob Hazel,Boston United,48,0.0,,,,,0.0
+Jacob Jones,Woking,28,0.0,,,,,0.0
+Jacob Lungi Sörensen,Norwich City,29,0.0,,,,,0.0
+Jacob Maddox,Forest Green Rovers,6,0.0,,,,,0.0
+Jaedon Phillips,Leyton Orient,38,0.0,,,,,0.0
+Jacob Mazionis,Woking,6,0.0,,,,,0.0
+Jacob Mendy,Wrexham,10,0.0,,,,,0.0
+Jacob Pinnington,Braintree Town,20,0.0,,,,,0.0
+Jacob Pinnington,Solihull Moors,14,0.0,,,,,0.0
+Jacob Scott,Boston United,15,0.0,,,,,0.0
+Jacob Wakeling,Gillingham,20,0.0,,,,,0.0
+Jacob Widell Zetterström,Derby County,41,0.0,,,,,0.0
+Jacob Wright,Norwich City,16,0.0,,,,,0.0
+Jade Jay Mingi,Stockport County,14,0.0,,,,,0.0
+Jadel Katongo,Peterborough United,23,0.0,,,,,0.0
+Jaden Dixon,Stoke City,9,0.0,,,,,0.0
+Jaden Warner,Newport County,14,0.0,,,,,0.0
+Jadyn Dundas,Maidenhead United,3,0.0,,,,,0.0
+Jacob Maddox,Yeovil Town,5,0.0,,,,,0.0
+Harvey Araujo,Chesterfield,21,0.0,,,,,0.0
+Harvey Blair,Portsmouth,21,0.0,,,,,0.0
+Harvey Bunker,Forest Green Rovers,49,0.0,,,,,0.0
+Harvey Collins,Maidenhead United,40,0.0,,,,,0.0
+Harvey Gilmour,Rochdale,39,0.0,,,,,0.0
+Harvey Greenslade,Yeovil Town,34,0.0,,,,,0.0
+Harvey Isted,Burton Albion,45,0.0,,,,,0.0
+Harvey Knibbs,Reading,43,0.0,,,,,0.0
+Harvey Macadam,Morecambe,31,0.0,,,,,0.0
+Harvey Randle,Altrincham,30,0.0,,,,,0.0
+Harvey Rodgers,Grimsby Town,44,0.0,,,,,0.0
+Harvey Saunders,Tranmere Rovers,41,0.0,,,,,0.0
+Jack Currie,Leyton Orient,39,0.0,,,,,0.0
+Harvey Tomlinson,Boston United,5,0.0,,,,,0.0
+Harvey White,Stevenage,43,0.0,,,,,0.0
+Hayden Carter,Blackburn Rovers,19,0.0,,,,,0.0
+Hayden Coulson,Blackpool,39,0.0,,,,,0.0
+Hayden Hackney,Middlesbrough,43,0.0,,,,,0.0
+Hayden Matthews,Portsmouth,6,0.0,,,,,0.0
+Hayden Muller,Sutton United,33,0.0,,,,,0.0
+Hayden Roberts,Bristol City,43,0.0,,,,,0.0
+Haydn Hollis,Tamworth,46,0.0,,,,,0.0
+Haydon Vaughan,Aldershot Town,6,0.0,,,,,0.0
+Hazeem Bakre,Dagenham & Redbridge,4,0.0,,,,,0.0
+Hector Kyprianou,Peterborough United,34,0.0,,,,,0.0
+Henry Gray,Braintree Town,20,0.0,,,,,0.0
+Harvey Suttcliffe,FC Halifax Town,24,0.0,,,,,0.0
+Harry Chapman,Barnet,27,0.0,,,,,0.0
+Harry Charsley,Oldham Athletic,12,0.0,,,,,0.0
+Harry Clifton,Doncaster Rovers,42,0.0,,,,,0.0
+Harry Clout,Portsmouth,4,0.0,,,,,0.0
+Harry Cornick,Bristol City,28,0.0,,,,,0.0
+Harry Darling,Swansea City,39,0.0,,,,,0.0
+Harry Davis,AFC Fylde,30,0.0,,,,,0.0
+Harry Forster,Crawley Town,27,0.0,,,,,0.0
+Harry Gray,Leeds United,3,0.0,,,,,0.0
+Harry Kite,Yeovil Town,7,0.0,,,,,0.0
+Harry Leonard,Blackburn Rovers,16,0.0,,,,,0.0
+Harry Lewis,Carlisle United,40,0.0,,,,,0.0
+Harry McKirdy,Bromley,9,0.0,,,,,0.0
+Harry Williams,Walsall,41,0.0,,,,,0.0
+Harry Moss,Gateshead,8,0.0,,,,,0.0
+Harry Murphy,Queens Park Rangers,3,0.0,,,,,0.0
+Harry Phipps,Dagenham & Redbridge,38,0.0,,,,,0.0
+Harry Pickering,Blackburn Rovers,24,0.0,,,,,0.0
+Harry Ransom,Sutton United,36,0.0,,,,,0.0
+Harry Smith,Swindon Town,39,0.0,,,,,0.0
+Harry Souttar,Sheffield United,22,0.0,,,,,0.0
+Harry Taylor,Southend United,48,0.0,,,,,0.0
+Harry Tustin,Cheltenham Town,4,0.0,,,,,0.0
+Harry Tyrer,Blackpool,43,0.0,,,,,0.0
+Harry Vaughan,Hull City,8,0.0,,,,,0.0
+Harry Webster,Gillingham,4,0.0,,,,,0.0
+Harry Whitwell,West Bromwich Albion,7,0.0,,,,,0.0
+Harry Mchugh,Wigan Athletic,17,0.0,,,,,0.0
+Isaac England,Shrewsbury Town,3,0.0,,,,,0.0
+Isaac Fletcher,Barrow,14,0.0,,,,,0.0
+Isaac Hayden,Portsmouth,22,0.0,,,,,0.0
+Isaac Hutchinson,Bristol Rovers,44,0.0,,,,,0.0
+Isaac Marriott,Altrincham,22,0.0,,,,,0.0
+Isaac Moore,Coventry City,5,0.0,,,,,0.0
+Isaac Ogundere,AFC Wimbledon,49,0.0,,,,,0.0
+Isaac Olaofe,Stockport County,44,0.0,,,,,0.0
+Isaac Price,West Bromwich Albion,17,0.0,,,,,0.0
+Isaac Schmidt,Leeds United,35,0.0,,,,,0.0
+Isaak Davies,Cardiff City,10,0.0,,,,,0.0
+Isaiah Jones,Luton Town,17,0.0,,,,,0.0
+Isaiah Jones,Middlesbrough,26,0.0,,,,,0.0
+Henry Sandat,Sutton United,17,0.0,,,,,0.0
+J J Briggs,Cambridge United,3,0.0,,,,,0.0
+Jack Aitchison,Exeter City,30,0.0,,,,,0.0
+Jack Armer,Burton Albion,41,0.0,,,,,0.0
+Jack Baldwin,Northampton Town,26,0.0,,,,,0.0
+Jack Barham,Aldershot Town,47,0.0,,,,,0.0
+Jack Bonham,Stoke City,42,0.0,,,,,0.0
+Jack Bray,Harrogate Town,5,0.0,,,,,0.0
+Jack Bridge,Southend United,50,0.0,,,,,0.0
+Jack Burroughs,Coventry City,4,0.0,,,,,0.0
+Jack Bycroft,Swindon Town,45,0.0,,,,,0.0
+Jack Colback,Queens Park Rangers,27,0.0,,,,,0.0
+Jack Cook,Wealdstone,37,0.0,,,,,0.0
+Jack Cooper Love,Burton Albion,17,0.0,,,,,0.0
+Ivor Pandur,Hull City,46,0.0,,,,,0.0
+Henry Sandat,Wealdstone,23,0.0,,,,,0.0
+Herbie Kane,Huddersfield Town,28,0.0,,,,,0.0
+Hevertton Santos,Queens Park Rangers,20,0.0,,,,,0.0
+Hidde ter Avest,Oxford United,36,0.0,,,,,0.0
+Hiram Boateng,Mansfield Town,42,0.0,,,,,0.0
+Hjalmar Ekdal,Burnley,5,0.0,,,,,0.0
+Huseyin Biler,AFC Wimbledon,18,0.0,,,,,0.0
+Ian Henderson,Rochdale,49,0.0,,,,,0.0
+Ian Lawlor,Doncaster Rovers,46,0.0,,,,,0.0
+Ian Poveda-Ocampo,Sunderland,11,0.0,,,,,0.0
+Ibou Touray,Stockport County,47,0.0,,,,,0.0
+Ibrahim Bakare,Cheltenham Town,42,0.0,,,,,0.0
+Ibrahim Cissoko,Plymouth Argyle,16,0.0,,,,,0.0
+Isaac Dunn,Blackburn Rovers,3,0.0,,,,,0.0
+Idris El Mizouni,Oxford United,42,0.0,,,,,0.0
+Idris Kanu,Barnet,40,0.0,,,,,0.0
+Idris Odutayo,Bromley,37,0.0,,,,,0.0
+Igor Tyjon,Blackburn Rovers,7,0.0,,,,,0.0
+Ike Ugbo,Sheffield Wednesday,40,0.0,,,,,0.0
+Ilia Gruev,Leeds United,28,0.0,,,,,0.0
+Ilias Chair,Queens Park Rangers,28,0.0,,,,,0.0
+Illan Meslier,Leeds United,46,0.0,,,,,0.0
+Ilmari Niskanen,Exeter City,41,0.0,,,,,0.0
+Immanuelson Duku,Solihull Moors,9,0.0,,,,,0.0
+Imran Louza,Watford,39,0.0,,,,,0.0
+Inih Effiong,Braintree Town,22,0.0,,,,,0.0
+Inih Effiong,Woking,24,0.0,,,,,0.0
+Ibrahim Cissoko,Sheffield Wednesday,7,0.0,,,,,0.0
