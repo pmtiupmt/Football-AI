@@ -1,0 +1,191 @@
+﻿Round,HomeTeam,AwayTeam
+1,Liverpool,AFC Bournemouth
+1,Aston Villa,Newcastle United
+1,Brighton & Hove Albion,Fulham
+1,Sunderland,West Ham United
+1,Tottenham Hotspur,Burnley
+1,Wolverhampton Wanderers,Manchester City
+1,Chelsea,Crystal Palace
+1,Nottingham Forest,Brentford
+1,Manchester United,Arsenal
+1,Leeds United,Everton
+2,West Ham United,Chelsea
+2,Manchester City,Tottenham Hotspur
+2,AFC Bournemouth,Wolverhampton Wanderers
+2,Brentford,Aston Villa
+2,Burnley,Sunderland
+2,Arsenal,Leeds United
+2,Crystal Palace,Nottingham Forest
+2,Everton,Brighton & Hove Albion
+2,Fulham,Manchester United
+2,Newcastle United,Liverpool
+3,Chelsea,Fulham
+3,Manchester United,Burnley
+3,Sunderland,Brentford
+3,Tottenham Hotspur,AFC Bournemouth
+3,Wolverhampton Wanderers,Everton
+3,Leeds United,Newcastle United
+3,Brighton & Hove Albion,Manchester City
+3,Nottingham Forest,West Ham United
+3,Liverpool,Arsenal
+3,Aston Villa,Crystal Palace
+3,Arsenal,Nottingham Forest
+3,AFC Bournemouth,Brighton & Hove Albion
+3,Crystal Palace,Sunderland
+3,Everton,Aston Villa
+3,Fulham,Leeds United
+3,Newcastle United,Wolverhampton Wanderers
+3,West Ham United,Tottenham Hotspur
+3,Brentford,Chelsea
+3,Burnley,Liverpool
+3,Manchester City,Manchester United
+4,Liverpool,Everton
+4,Brighton & Hove Albion,Tottenham Hotspur
+4,Burnley,Nottingham Forest
+4,West Ham United,Crystal Palace
+4,Wolverhampton Wanderers,Leeds United
+4,Manchester United,Chelsea
+4,Fulham,Brentford
+4,AFC Bournemouth,Newcastle United
+4,Sunderland,Aston Villa
+4,Arsenal,Manchester City
+5,Brentford,Manchester United
+5,Chelsea,Brighton & Hove Albion
+5,Crystal Palace,Liverpool
+5,Leeds United,AFC Bournemouth
+5,Manchester City,Burnley
+5,Nottingham Forest,Sunderland
+5,Tottenham Hotspur,Wolverhampton Wanderers
+5,Aston Villa,Fulham
+5,Newcastle United,Arsenal
+5,Everton,West Ham United
+6,AFC Bournemouth,Fulham
+6,Leeds United,Tottenham Hotspur
+6,Arsenal,West Ham United
+6,Manchester United,Sunderland
+6,Chelsea,Liverpool
+6,Aston Villa,Burnley
+6,Everton,Crystal Palace
+6,Newcastle United,Nottingham Forest
+6,Wolverhampton Wanderers,Brighton & Hove Albion
+6,Brentford,Manchester City
+7,Nottingham Forest,Chelsea
+7,Brighton & Hove Albion,Newcastle United
+7,Burnley,Leeds United
+7,Crystal Palace,AFC Bournemouth
+7,Manchester City,Everton
+7,Sunderland,Wolverhampton Wanderers
+7,Fulham,Arsenal
+7,Tottenham Hotspur,Aston Villa
+7,Liverpool,Manchester United
+7,West Ham United,Brentford
+8,Leeds United,West Ham United
+8,Chelsea,Sunderland
+8,Newcastle United,Fulham
+8,Manchester United,Brighton & Hove Albion
+8,Brentford,Liverpool
+8,Arsenal,Crystal Palace
+8,Aston Villa,Manchester City
+8,AFC Bournemouth,Nottingham Forest
+8,Wolverhampton Wanderers,Burnley
+8,Everton,Tottenham Hotspur
+9,Brighton & Hove Albion,Leeds United
+9,Burnley,Arsenal
+9,Crystal Palace,Brentford
+9,Fulham,Wolverhampton Wanderers
+9,Nottingham Forest,Manchester United
+9,Tottenham Hotspur,Chelsea
+9,Liverpool,Aston Villa
+9,West Ham United,Newcastle United
+9,Manchester City,AFC Bournemouth
+9,Sunderland,Everton
+10,Tottenham Hotspur,Manchester United
+10,Everton,Fulham
+10,West Ham United,Burnley
+10,Sunderland,Arsenal
+10,Chelsea,Wolverhampton Wanderers
+10,Aston Villa,AFC Bournemouth
+10,Brentford,Newcastle United
+10,Crystal Palace,Brighton & Hove Albion
+10,Nottingham Forest,Leeds United
+10,Manchester City,Liverpool
+11,Burnley,Chelsea
+11,AFC Bournemouth,West Ham United
+11,Brighton & Hove Albion,Brentford
+11,Fulham,Sunderland
+11,Liverpool,Nottingham Forest
+11,Wolverhampton Wanderers,Crystal Palace
+11,Newcastle United,Manchester City
+11,Leeds United,Aston Villa
+11,Arsenal,Tottenham Hotspur
+11,Manchester United,Everton
+12,Brentford,Burnley
+12,Manchester City,Leeds United
+12,Sunderland,AFC Bournemouth
+12,Everton,Newcastle United
+12,Tottenham Hotspur,Fulham
+12,Crystal Palace,Manchester United
+12,Aston Villa,Wolverhampton Wanderers
+12,Nottingham Forest,Brighton & Hove Albion
+12,West Ham United,Liverpool
+12,Chelsea,Arsenal
+13,AFC Bournemouth,Everton
+13,Fulham,Manchester City
+13,Newcastle United,Tottenham Hotspur
+13,Arsenal,Brentford
+13,Brighton & Hove Albion,Aston Villa
+13,Burnley,Crystal Palace
+13,Wolverhampton Wanderers,Nottingham Forest
+13,Leeds United,Chelsea
+13,Liverpool,Sunderland
+13,Manchester United,West Ham United
+14,Aston Villa,Arsenal
+14,AFC Bournemouth,Chelsea
+14,Everton,Nottingham Forest
+14,Manchester City,Sunderland
+14,Newcastle United,Burnley
+14,Tottenham Hotspur,Brentford
+14,Leeds United,Liverpool
+14,Brighton & Hove Albion,West Ham United
+14,Fulham,Crystal Palace
+14,Wolverhampton Wanderers,Manchester United
+15,Chelsea,Everton
+15,Liverpool,Brighton & Hove Albion
+15,Burnley,Fulham
+15,Arsenal,Wolverhampton Wanderers
+15,Crystal Palace,Manchester City
+15,Nottingham Forest,Tottenham Hotspur
+15,Sunderland,Newcastle United
+15,West Ham United,Aston Villa
+15,Brentford,Leeds United
+15,Manchester United,AFC Bournemouth
+16,Newcastle United,Chelsea
+16,AFC Bournemouth,Burnley
+16,Brighton & Hove Albion,Sunderland
+16,Manchester City,West Ham United
+16,Wolverhampton Wanderers,Brentford
+16,Tottenham Hotspur,Liverpool
+16,Everton,Arsenal
+16,Leeds United,Crystal Palace
+16,Aston Villa,Manchester United
+16,Fulham,Nottingham Forest
+17,Manchester United,Newcastle United
+17,Nottingham Forest,Manchester City
+17,Arsenal,Brighton & Hove Albion
+17,Brentford,AFC Bournemouth
+17,Burnley,Everton
+17,Liverpool,Wolverhampton Wanderers
+17,West Ham United,Fulham
+17,Chelsea,Aston Villa
+17,Sunderland,Leeds United
+17,Crystal Palace,Tottenham Hotspur
+18,Burnley,Newcastle United
+18,Chelsea,AFC Bournemouth
+18,Nottingham Forest,Everton
+18,West Ham United,Brighton & Hove Albion
+18,Arsenal,Aston Villa
+18,Manchester United,Wolverhampton Wanderers
+18,Crystal Palace,Fulham
+18,Liverpool,Leeds United
+18,Brentford,Tottenham Hotspur
+18,Sunderland,Manchester City
