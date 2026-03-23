@@ -22,7 +22,7 @@ Developed an end-to-end **ML pipeline** to model football matches based on team 
 ## Tech Stack
 
 * Python (NumPy, Pandas)
-* Scikit-learn / ML models
+* Scikit-learn/ML models
 * Data visualization (Matplotlib)
 
 ---
